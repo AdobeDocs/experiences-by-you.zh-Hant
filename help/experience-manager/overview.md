@@ -1,15 +1,15 @@
 ---
 title: 由您啟用的 Experience Manager
-description: 客戶產生的內容
+description: 「依您Experience Manager」主要說明使用者產生的內容，這些內容是由熟悉Adobe Experience Manager並擁有一定專業水準和影響力的日常使用者所建立。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 22%
+source-wordcount: '204'
+ht-degree: 19%
 
 ---
 
