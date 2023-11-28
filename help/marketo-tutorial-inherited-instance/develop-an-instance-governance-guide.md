@@ -52,7 +52,7 @@ ht-degree: 1%
 
 ### 步驟2：識別要包含在[！DNL]中的元素 [!DNL Marketo Engage]]檔案與 [!DNL Changelogs]
 
-格式因雲端型平台和共用檔案而異。 您可以設計符合組織需求的格式。 [以下是簡單的檔案和變更記錄檔Excel範本](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)說明您可以開始使用的重要元素。 這些類別包括：
+格式因雲端型平台和共用檔案而異。 您可以設計符合組織需求的格式。 [以下是簡單的檔案和變更記錄檔Excel範本](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)說明您可以開始使用的重要元素。 這些類別包括：
 
 * 文件
    * 計畫範本名稱
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 接下來還有什麼?
 
-開始下載此專案 [簡單範本](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
+開始下載此專案 [簡單範本](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)。
 
 請依照上述步驟開發您的治理指南和檔案。 處理此程式時，請謹記下列經驗法則：
 
