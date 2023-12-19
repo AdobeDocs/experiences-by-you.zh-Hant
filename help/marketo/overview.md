@@ -1,6 +1,6 @@
 ---
 title: 由您啟用的 Marketo
-description: Marketo by You特色是使用者產生的內容，這些內容是由熟悉AdobeMarketo並擁有一定專業水準和影響力的日常使用者所建立。
+description: Marketo by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Marketo 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 25%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 25%
     </a>
     </div>
     <p>
-    <em>了解如何導覽使用者介面並熟悉您使用 [!DNL Marketo Engage] 平台的方式。</em>
+    <em>瞭解如何導覽使用者介面，並熟悉您的操作方式 [!DNL Marketo Engage] 平台。</em>
     <p>
   </td>
   <td>
@@ -58,15 +58,15 @@ ht-degree: 25%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="電子郵件計劃" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="電子郵件程式" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>電子郵件計劃</strong>
+    <strong>電子郵件程式</strong>
     </a>
     </div>
     <p>
-    <em>觀看此步驟式教學課程，了解如何使用 A/B 測試來建立電子郵件計劃。</em>
+    <em>觀看此逐步教學課程，瞭解如何使用A/B測試建立電子郵件計畫。</em>
     <p>
   </td>
 </tr>
@@ -77,6 +77,6 @@ ht-degree: 25%
 ## 其他資源
 
 * [Marketo國家（社群）](https://nation.marketo.com/)
-* [Adobe Marketo Engage 文件](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage檔案](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
 * [Adobe Marketo Engage產品資訊](https://business.adobe.com/products/marketo/adobe-marketo.html)

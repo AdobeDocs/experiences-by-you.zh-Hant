@@ -1,6 +1,6 @@
 ---
 title: 由您進行分析
-description: Analytics by You特色是使用者產生的內容，這些內容是由熟悉Adobe Analytics並擁有一定專業水準和影響力的日常使用者所建立。
+description: Analytics by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Analytics 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 22%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 22%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 秘訣與技巧" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 提示與祕訣" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>[!DNL Adobe Analytics] 秘訣與技巧</strong>
+    <strong>[!DNL Adobe Analytics] 提示與秘訣</strong>
     </a>
     </div>
     <p>
@@ -77,6 +77,6 @@ ht-degree: 22%
 ## 其他資源
 
 * [Experience LeagueAdobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* [Adobe Analytics 文件](https://experienceleague.adobe.com/docs/analytics.html)
+* [Adobe Analytics檔案](https://experienceleague.adobe.com/docs/analytics.html)
 * [Adobe Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics產品資訊](https://business.adobe.com/products/analytics/adobe-analytics.html)

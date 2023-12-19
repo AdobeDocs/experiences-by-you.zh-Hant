@@ -1,6 +1,6 @@
 ---
 title: 由你發起的活動
-description: Campaign by You特色是使用者產生的內容，這些內容是由熟悉Adobe Campaign並擁有一定專業水準和影響力的日常使用者所建立。
+description: Campaign by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Campaign 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 34%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>行銷人員故障排除：5 個常見的工作流程和交付錯誤</strong>
+    <strong>行銷人員疑難排解：5個常見的工作流程與傳送錯誤</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Adobe Campaign 成功行銷的十大最佳實務</strong>
+    <strong>行銷人員適用Adobe Campaign成功的十大最佳實務</strong>
     </a>
     </div>
     <p>

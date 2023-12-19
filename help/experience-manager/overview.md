@@ -1,6 +1,6 @@
 ---
 title: 由您啟用的 Experience Manager
-description: 「依您Experience Manager」主要說明使用者產生的內容，這些內容是由熟悉Adobe Experience Manager並擁有一定專業水準和影響力的日常使用者所建立。
+description: Experience Manager by You 提供由日常使用者建立的使用者生成內容，這些用戶以其具備的 Adob​​e Experience Manager 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 19%
+source-wordcount: '188'
+ht-degree: 23%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 19%
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-    <strong>秘訣與技巧</strong>
+    <strong>提示與秘訣</strong>
     </a>
     </div>
     <p>
@@ -58,11 +58,11 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="秘訣與技巧" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="提示與祕訣" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-    <strong>秘訣與技巧</strong>
+    <strong>提示與秘訣</strong>
     </a>
     </div>
     <p>
