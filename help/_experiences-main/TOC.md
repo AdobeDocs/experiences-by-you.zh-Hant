@@ -2,10 +2,10 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe 客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 75%
+source-wordcount: '293'
+ht-degree: 64%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 75%
 
 + [!DNL Analytics] 由您 {#analytics}
    + [概觀](/help/analytics/overview.md)
-   + [!DNL Analytics] 簡介{#intro-to-analytics}
+   + 簡介 [!DNL Analytics] {#intro-to-analytics}
       + 從其他平台轉換 {#transitioning-from-other-platforms}
          + [轉換自 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -26,7 +26,7 @@ ht-degree: 75%
          + [使用長條圖解鎖深入分析](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
          + [不僅僅是文字 - 使用文字視覺效果和描述](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
          + [使用同類群組分析來了解客戶行為](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
-      + 區段 {#segmentation}
+      + 分段 {#segmentation}
          + [建立客戶歷程區段](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [建立客戶歷程區段 — 第2部分](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [區段產生器和快速區段之間的區別](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
@@ -34,7 +34,7 @@ ht-degree: 75%
       + 量度 {#metrics}
          + [拋開您的 Excel，換用計算量度](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [使用計算量度，讓您的資料分析提升到全新層次](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-      + 策劃和共用專案 {#curate-and-share-projects}
+      + 組織及共用專案 {#curate-and-share-projects}
          + [釋放僅限檢視共享的效能](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + 秘訣與技巧 {#tips-and-tricks}
          + [提高工作流程效率的按右鍵秘訣和技巧](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -63,18 +63,20 @@ ht-degree: 75%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [行銷人員疑難排解](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 策略與思想領導力{#strategy}
-      + [ [!DNL Adobe Campaign]  成功行銷的十大最佳實務](/help/campaign/10-best-practices-for-marketers.md)
-+ 由您啟用的 Experience Manager {#experience-manager}
+      + [十大最佳作法 [!DNL Adobe Campaign] 行銷人員的成功](/help/campaign/10-best-practices-for-marketers.md)
++ 由您Experience Manager {#experience-manager}
    + [概觀](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites成熟度評估](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
       + 最佳實務 {#sites-best-practices}
          + [AEM Champion秘訣與技巧：第1場講座](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [AEM Champion秘訣與技巧：工作階段2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
-   + AEM as a Cloud Service {#cloud-service}
+   + AEMas a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] 入門行動手冊](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
-      + [[!DNL Cloud Manager] 環境類型](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
+      + [[!DNL Cloud Manager] 環境型別](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + 最佳實務 {#cloud-manager-best-practices}
+         + [在Cloud Manager中使用記錄檔](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] 由您 {#marketo-engage}
    + [概觀](/help/marketo/overview.md)
    + 基礎知識 {#fundamentals}
