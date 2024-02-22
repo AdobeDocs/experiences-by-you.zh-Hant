@@ -2,10 +2,10 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe 客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 64%
+source-wordcount: '297'
+ht-degree: 63%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 64%
          + [釋放僅限檢視共享的效能](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + 秘訣與技巧 {#tips-and-tricks}
          + [提高工作流程效率的按右鍵秘訣和技巧](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags — 您的個人助理](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 關鍵管理員技能 {#key-admin-skills}
          + [打造賦權社群](/help/analytics/administration/key-admin-skills/empowered-community.md)
