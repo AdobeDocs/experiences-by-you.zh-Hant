@@ -13,7 +13,7 @@ duration: 457
 last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-14962
 thumbnail: 3427314.jpeg
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 2997601d889a278e00ddff5148096768b1c35e62
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 歡迎參考您與AEM冠軍同伴Rami EL Gamal的秘訣。 在本影片中，Rami將逐步說明如何在Cloud Manager中下載記錄檔，同時在此過程中分享最佳實務提示。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427492/?learn=on)
