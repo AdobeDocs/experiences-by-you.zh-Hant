@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ _瞭解#TAGS如何簡化數位分析，以個人助理的身份有效找到您�
 
 從第一天起，這就是遊戲的方向，但如果我們可以改變規則呢？
 
-事實上，如果我們能建立自己的個人助理，永久性地轉換這些角色，該怎麼辦？
+事實上，如果我們能建立自己的個人助理，永久性地切換這些規則，該怎麼辦？
 
 說真的，我們在這裡討論的就是TAGS！  沒錯!!  這是我們的朋友，主題標籤，以前稱為「號碼」和「井字型大小」，就像我們在電話上看到的一樣。  我們這些音樂家甚至稱之為「銳利化」。
 
