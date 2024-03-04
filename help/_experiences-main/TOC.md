@@ -2,10 +2,10 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe 客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: bd723c4ed43fb4d11ae21cb70bba6202bac94266
+source-git-commit: ba46ad10c20184083076950883f169df09ca7778
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 61%
+source-wordcount: '316'
+ht-degree: 59%
 
 ---
 
@@ -78,7 +78,8 @@ ht-degree: 61%
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
       + 最佳實務 {#cloud-manager-best-practices}
          + [在Cloud Manager中使用記錄檔](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
-         + [移轉至AEMas a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [規劃移轉至AEMas a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [解決移轉至AEMas a Cloud Service時的挑戰](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] 由您 {#marketo-engage}
    + [概觀](/help/marketo/overview.md)
    + 基礎知識 {#fundamentals}
