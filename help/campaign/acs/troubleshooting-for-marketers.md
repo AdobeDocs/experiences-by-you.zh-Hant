@@ -10,15 +10,14 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 35e62c4f1a093b4f755e175e9b553a43887e4292
+source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
 workflow-type: tm+mt
-source-wordcount: '722'
-ht-degree: 3%
+source-wordcount: '711'
+ht-degree: 2%
 
 ---
 
-# 行銷人員故障排除：5 個常見的工作流程和交付錯誤
+# 行銷人員疑難排解：5個常見的工作流程與傳送錯誤
 
 作者： [蘇拉傑帕特拉文](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，資深顧問， Meijer
 
@@ -73,7 +72,7 @@ ht-degree: 3%
 
 ![通用欄位資料集錯誤](/help/_assets/kt-13256/dataset-error.png)
 
-**解決方案:**
+**解決方案：**
 
 有兩種方式可解決此錯誤：
 
@@ -90,7 +89,7 @@ ht-degree: 3%
 **錯誤碼：**
 `XTK-170036 Unable to parse expression 'i__name'`
 
-**原因:**
+**原因：**
 
 失敗點可能發生在 **擴充活動**. 最常見的其中一項會顯示於下方。
 
@@ -98,7 +97,7 @@ ht-degree: 3%
 
 當您手動編輯活動中的運算式名稱時，就會發生這種情況。 此影像顯示運算式修改自 `name `至 `i__name`.
 
-**解決方案:**
+**解決方案：**
 
 您可以透過三種方式解決此錯誤：
 
