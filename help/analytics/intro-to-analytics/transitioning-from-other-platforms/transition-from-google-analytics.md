@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 76%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -43,7 +42,7 @@ ht-degree: 76%
 
 ##### 2.1.1.1.工作區/自訂首頁畫面([!DNL Adobe Analytics])
 
-[!DNL Adobe Analytics] 不會擅自為所有登入的使用者預先建立報表以供他們查看。預設首頁會帶領使用者前往工作區登陸畫面，該畫面會向每個使用者顯示他們所建立或是他人與其共用的所有工作區報表。此外，每個使用者也能選擇將任何報表設定為首頁。
+[!DNL Adobe Analytics] 不會擅自為所有登入的使用者預先建立報表以供他們檢視。 預設首頁會帶領使用者前往工作區登陸畫面，該畫面會向每個使用者顯示他們所建立或是他人與其共用的所有工作區報表。此外，每個使用者也能選擇將任何報表設定為首頁。
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -55,7 +54,7 @@ ht-degree: 76%
 
 
 
-##### 2.1.1.2. 首頁畫面深入解析 (Google [!DNL Analytics])
+##### 2.1.1.2.首頁畫面深入分析(Google [!DNL Analytics])
 
 * Google [!DNL Analytics] 首頁畫面為您提供了一些預先建立的視覺效果。 其中涵蓋：
 * 過去七天的使用者、工作階段、跳出率和工作階段持續時間
@@ -158,7 +157,7 @@ Google和 [!DNL Adobe] 有一些可導覽的報表，這些報表是根據維度
 
 ##### 2.1.3.1。 [!DNL Adobe Analytics] 報表
 
-[!DNL Adobe Analytics] 還有一個報表區段，儘管這正被逐步淘汰，取而代之的是 Analysis Workspace。事實上，由於 Workspace 是一個更強大的工具，因此已宣布終止使用該介面。這些表中的大多數都能更輕鬆地建置和修改。[!DNL Adobe]的區段劃分得更加細緻，這可能令人生畏：
+[!DNL Adobe Analytics] 也有報表區段，不過這正被逐步淘汰，取而代之的是Analysis Workspace。 事實上，由於 Workspace 是一個更強大的工具，因此已宣布終止使用該介面。這些表中的大多數都能更輕鬆地建置和修改。[!DNL Adobe]的區段劃分得更加細緻，這可能令人生畏：
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -174,7 +173,7 @@ Google和 [!DNL Adobe] 有一些可導覽的報表，這些報表是根據維度
 
 工作區中無法提供路徑。 工作區有一個流量圖，您可以在其中查看某個單次頁面頁面/值的輸入和輸出流程。相反地，路徑則可讓您查看網站中最常用的路徑。預設情況下，「頁面」是為您設定的第一個路徑報表。但是，您可以為自訂屬性 (例如「頁面類型」值) 啟用此功能。您可以查看頁面類型中的路徑分析。我個人喜歡「路徑」的另一個原因是因為這是簡單的資訊呈現方式…工作區中的流程圖表 (取決於您要查看多少內容) 可能會讓人吃不消。我建議您兩者都去嘗試，它們有各自的用途及價值，您的選擇取決於您想要達成的目的。請注意，任何維度都可以在「流程」中使用，但「路徑分析」則必須在管理員面板中的 Prop 上設定。
 
-流量來源， [!DNL Campaign]和行銷管道報表都類似於Google產品的贏取報表。 流量來源聚焦於實際反向連結、 [!DNL Campaign]s著重於您的 [!DNL Campaign] 程式碼和行銷管道也聚焦於 [!DNL Campaign] 程式碼，但也會套用您決定的如何處理資訊的額外邏輯。 [!DNL Adobe] 在如何設定規則方面提供了更多自由。相反地，Google 則為您完成很多事情，這是思維的轉變。依預設，Google的歸因 [!DNL Campaign] 程式碼為六個月。 [!DNL Adobe]的歸因預設為一週。 您可以在管理員設定中加以變更，但在工作區內，您實際上可以在任何維度之上套用自訂歸因，進而為您提供更大的「即時」靈活性。
+流量來源， [!DNL Campaign]和行銷管道報表都類似於Google產品的贏取報表。 流量來源聚焦於實際反向連結、 [!DNL Campaign]s著重於您的 [!DNL Campaign] 程式碼和行銷管道也聚焦於 [!DNL Campaign] 程式碼，但也會套用您決定的如何處理資訊的額外邏輯。 [!DNL Adobe] 在如何設定規則方面提供更大的自由度。 相反地，Google 則為您完成很多事情，這是思維的轉變。依預設，Google的歸因 [!DNL Campaign] 程式碼為六個月。 [!DNL Adobe]的歸因預設為一週。 您可以在管理員設定中加以變更，但在工作區內，您實際上可以在任何維度之上套用自訂歸因，進而為您提供更大的「即時」靈活性。
 
 訪客保留率和訪客資料報表類似於Google中的對象報表 [!DNL Analytics]. 「訪客保留率」比較關注返回頻率，而「訪客資料」則比較關注使用者的地理位置和技術。
 
@@ -268,10 +267,10 @@ Report Builder是適用於Microsoft® Excel的外掛程式，可讓您建立與 
 
 除了本指南以外，還有許多資源可幫助您改良策略：
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - 包含教學課程、影片、文件和社群論壇
-* [[!DNL Adobe]  使用群組](https://analytics-augs.adobe.com/) - 這是社群開展活動的中樞，可幫助使用者互相交流並改善其實作。
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home)  — 包含教學課程、影片、檔案和社群論壇
+* [[!DNL Adobe] 使用者群組](https://analytics-augs.adobe.com/)  — 這是社群開展活動的中樞，可幫助使用者互相交流並改善其實作。
 * [[!DNL Adobe Analytics] 使用者群組YouTube頻道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)  — 無法進行 [!DNL Adobe Analytics] 使用者群組工作階段？ 重新觀看先前全球使用者群組時段內容，了解更多關於您的同業如何使用該工具。
-* [Measure Chat Slack 頻道](https://www.measure.chat/)[!DNL Adobe Analytics] - 與全球 使用者交流，並分享業界學習經驗、向同業請教，並加入衡量主要利益群組。
+* [Measure ChatSlack頻道](https://www.measure.chat/)  — 連線至 [!DNL Adobe Analytics] 全球的使用者並分享業界學習經驗、向同業請教，並加入衡量主要利益群組。
 * 及更多內容！
 
 ## 作者
