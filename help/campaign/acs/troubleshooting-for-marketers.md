@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,6 @@ ht-degree: 2%
 作者： [蘇拉傑帕特拉文](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，資深顧問， Meijer
 
 身為資深工程師和客戶專家， [!DNL Adobe] Experience Cloud過去五年的產品，我啟用業務使用者於 [邁耶](https://www.meijer.com/){target="_blank"}成立於1934年的美國超級中心連鎖店，使用ACS執行複雜的行銷和交易式行銷活動。 我處理過的幾個專案包含自訂行銷活動，以儲存個人化的選件和訂單詳細資料，並整合 [!DNL Adobe] 區段擷取的Audience Manager和客戶分析。
-
 
 在使用ACS期間，我遇到一些錯誤，解決這些錯誤會非常耗時且令人沮喪。 瞭解最常見的錯誤，有助於更快速地解決問題，並提高生產力。 以下是我的疑難排解提示，可協助您有效解決類似錯誤。
 
