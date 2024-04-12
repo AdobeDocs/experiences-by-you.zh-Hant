@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
+source-git-commit: 1e9e57c00adb37a01e42cbbb82e62918e7543b19
 workflow-type: tm+mt
 source-wordcount: '4102'
 ht-degree: 2%
@@ -202,7 +202,7 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
 
 首先，我顯示的不是每日劃分，而是頁面劃分，因為我認為這將有助於更好地說明這兩個區段。
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">前三欄（頁面檢視、造訪和不重複訪客）未分段，因此會顯示網站內的所有頁面。 請注意，我未在此包含訂單，因為訂單是根據動作而追蹤，因此不屬於頁面維度範圍的一部分。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -210,7 +210,7 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">接下來，我顯示的是簡單區段的結果，僅檢視 <strong>點選</strong> 於兩個指定頁面上。 您會發現劃分中的其他頁面如預期般全都會產生0。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -218,7 +218,7 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">現在，這裡有個額外的提示，在顯示進階區段的結果之前，我使用了另一個簡單的「訂單存在」區段（在點選層級範圍），並且將其和不重複訪客配對。 這會傳回在報表時段中製作訂單的UV總數，以及符合這些頁面中每一個頁面的UV...這有助於更好地說明下一組欄。</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -226,7 +226,7 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">最後一組欄會與我的複雜區段棧疊。 包含訂單的整體UV會符合每個頁面的簡單「訂單存在」區段，但您會注意到總計會有顯著差異；由於此資料集明確將資料集限製為僅限製作訂單並點選頁面的訪客，因此我明確感興趣。</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -333,14 +333,14 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">前4欄未分段，應該容易理解。 請注意，*「登入點」*基本上是根據訪客開始工作階段的位置計算的值。 我在此新增該資訊，是為了說明這不會傳回我們正在尋找的資訊，因為使用者可能會透過多個行銷管道（透過檢視社群媒體、進行搜尋、按一下行銷電子郵件等）進入網站。 所有專案皆在相同瀏覽/工作階段中)。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">下一組欄使用「標準點選區段」，基本上是檢視行銷管道為「付費搜尋」的點選。 不過，這將根據行銷管道歸因傳回所有點選，但無法隔離實際的「付費搜尋」點進。 因此，這不會傳回我們需要的資料。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -350,7 +350,7 @@ _發掘複雜資料區段的複雜之處，探索排除、容器和歸因模型�
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">現在，接下來的兩組資料看起來完全相同，而且事實上，這些資料會以兩種不同的方式傳回相同的資料。 但現在，我特別注意 <i>執行個體</i> 行銷管道的位置 <strong>設定</strong> 移至「付費搜尋」。</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
