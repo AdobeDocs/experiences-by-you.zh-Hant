@@ -2,10 +2,10 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe 客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 56%
+source-wordcount: '341'
+ht-degree: 55%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 56%
          + [使用計算量度，讓您的資料分析提升到全新層次](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + 組織及共用專案 {#curate-and-share-projects}
          + [釋放僅限檢視共享的效能](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [釋放分析見解；利用註釋的力量](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + 秘訣與技巧 {#tips-and-tricks}
          + [提高工作流程效率的按右鍵秘訣和技巧](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags — 您的個人助理](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
