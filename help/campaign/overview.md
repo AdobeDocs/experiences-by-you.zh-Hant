@@ -1,6 +1,6 @@
 ---
 title: 由你發起的活動
-description: Campaign by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Campaign 知識取得專業等級和影響力。
+description: Campaign by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adobe Campaign 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -79,6 +79,6 @@ ht-degree: 27%
 
 * [Experience LeagueAdobe Campaign社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * Adobe Campaign v8 -  [檔案](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
-* Adobe Campaign Classic v7 - [檔案](https://experienceleague.adobe.com/docs/campaign-classic.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)
-* ADOBE CAMPAIGN STANDARD - [檔案](https://experienceleague.adobe.com/docs/campaign-standard.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html)
+* Adobe Campaign Classic v7 - [檔案](https://experienceleague.adobe.com/docs/campaign-classic.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
+* ADOBE CAMPAIGN STANDARD - [檔案](https://experienceleague.adobe.com/docs/campaign-standard.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant)
 * [Adobe Campaign產品資訊](https://business.adobe.com/products/campaign/adobe-campaign.html)

@@ -1,6 +1,6 @@
 ---
 title: 由您啟用的 Experience Manager
-description: Experience Manager by You 提供由日常使用者建立的使用者生成內容，這些用戶以其具備的 Adob​​e Experience Manager 知識取得專業等級和影響力。
+description: Experience Manager by You 提供由日常使用者建立的使用者生成內容，這些用戶以其具備的 Adobe Experience Manager 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview

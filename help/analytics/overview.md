@@ -1,6 +1,6 @@
 ---
 title: 由您進行分析
-description: Analytics by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Analytics 知識取得專業等級和影響力。
+description: Analytics by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adobe Analytics 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -77,6 +77,6 @@ ht-degree: 23%
 ## 其他資源
 
 * [Experience LeagueAdobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* [Adobe Analytics檔案](https://experienceleague.adobe.com/docs/analytics.html)
+* [Adobe Analytics檔案](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
 * [Adobe Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics產品資訊](https://business.adobe.com/products/analytics/adobe-analytics.html)

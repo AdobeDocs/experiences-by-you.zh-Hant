@@ -1,6 +1,6 @@
 ---
 title: 由您啟用的 Marketo
-description: Marketo by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adob​​e Marketo 知識取得專業等級和影響力。
+description: Marketo by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adobe Marketo 知識取得專業等級和影響力。
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
