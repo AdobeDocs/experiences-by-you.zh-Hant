@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 建立資料文化與更好的解決方案設計參考
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 ***預覽儀表板***
 
 1. 以「漏斗圖」為指引，建立模型儀表板。
-1. 每個漏斗都應該有一個整體檢視，例如「執行摘要儀表板」和「控制面板」。
+1. 應有一個整體檢視，例如 [執行摘要儀表板](driving-success-with-executive-summary-dashboards.md)和儀表板來分別顯示每個漏斗。
 1. 此外，還將針對您的網站或應用程式進行一些更具體的設定，例如產品效能或內容效能。
 1. 將這些資料分發給相關利害關係人，並取得設計的意見回饋。
 1. 進行任何需要的更新，如果需要新量度或維度，請將其新增到您的SDR。
@@ -112,4 +112,3 @@ ht-degree: 0%
 Gitai Ben-Ammi，Accenture企業架構副經理
 
 Adobe Analytics 達人
-
