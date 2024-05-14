@@ -2,10 +2,10 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe 客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 53%
+source-wordcount: '358'
+ht-degree: 52%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 53%
          + [透過執行摘要儀表板取得成功](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [建立操作儀表板](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [建立資料文化與更好的解決方案設計參考](../analytics/administration/admin-tips/better-sdr.md)
+   + 實作 {#implementation}
+      + [實作Web SDK的戰略指南](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] 由您 {#campaign}
    + [概觀](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
