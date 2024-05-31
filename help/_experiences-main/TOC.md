@@ -1,11 +1,11 @@
 ---
 user-guide-title: 您的體驗
-user-guide-description: Adobe 客戶產生的內容
+user-guide-description: Adobe客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
+source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 52%
+ht-degree: 5%
 
 ---
 
@@ -23,24 +23,24 @@ ht-degree: 52%
       + 使用面板 {#using-panels}
          + [瞭解歸因面板和回顧期間](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + 視覺效果 {#visualizations}
-         + [使用長條圖解鎖深入分析](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [不僅僅是文字 - 使用文字視覺效果和描述](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [使用同類群組分析來了解客戶行為](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
-      + 分段 {#segmentation}
+         + [使用長條圖解除鎖定深入分析](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+         + [不只是字 — 使用文字視覺效果和說明](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [使用同類群組分析來瞭解客戶行為](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+      + 細分 {#segmentation}
          + [建立客戶歷程區段](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [建立客戶歷程區段 — 第2部分](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
-         + [區段產生器和快速區段之間的區別](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [現在只需等待區隔...使用細分來發現新的深入見解](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [區段產生器和快速區段之間的差異](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+         + [現在只需等待區段……使用分段來發現新的深入分析](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
          + [幕後的魔法 — 複雜區段](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 量度 {#metrics}
-         + [拋開您的 Excel，換用計算量度](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-         + [使用計算量度，讓您的資料分析提升到全新層次](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
-      + 組織及共用專案 {#curate-and-share-projects}
-         + [釋放僅限檢視共享的效能](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [再見Excel，你好，計算量度](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+         + [使用計算量度將您的資料分析提升到新的境界](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + 組織與共用專案 {#curate-and-share-projects}
+         + [釋放僅供檢視共用功能](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
          + [釋放分析見解；利用註釋的力量](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
-      + 秘訣與技巧 {#tips-and-tricks}
-         + [提高工作流程效率的按右鍵秘訣和技巧](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags — 您的個人助理](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+      + 提示與秘訣 {#tips-and-tricks}
+         + [按一下滑鼠右鍵提示與秘訣，以提升工作流程效率](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [標籤 — 您的個人助理](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 管理 {#administration}
       + 關鍵管理員技能 {#key-admin-skills}
          + [打造賦權社群](../analytics/administration/key-admin-skills/empowered-community.md)
@@ -49,16 +49,16 @@ ht-degree: 52%
          + [使用資料訴說有影響力的故事](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
          + [轉譯 [!DNL Adobe Analytics] 非技術方式的技術語言](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
          + [跨職能工作](../analytics/administration/key-admin-skills/working-cross-functionally.md)
-      + 管理員祕訣和最佳實務 {#admin-tips}
+      + 管理員秘訣和最佳實務 {#admin-tips}
          + [下載實施行動手冊](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
          + [建立標準化的命名慣例](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
          + [建立標準化的程式碼範本](../analytics/administration/admin-tips/create-standardized-code-templates.md)
          + [建立基本影片和培訓](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
          + [建立內部 [!DNL Adobe Analytics] 網站](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-         + [使用全域報告套裝](../analytics/administration/admin-tips/use-a-global-report-suite.md)
+         + [使用全域報表套裝](../analytics/administration/admin-tips/use-a-global-report-suite.md)
          + [建立新聞與公告專案](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [透過執行摘要儀表板取得成功](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [建立操作儀表板](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [使用執行摘要儀表板推動成功案例](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [建立運作儀表板](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [建立資料文化與更好的解決方案設計參考](../analytics/administration/admin-tips/better-sdr.md)
    + 實作 {#implementation}
       + [實作Web SDK的戰略指南](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
@@ -68,7 +68,7 @@ ht-degree: 52%
       + [工作流程最佳實務](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
    + [!DNL Campaign Standard] {#campaign-standard}
       + [行銷人員疑難排解](/help/campaign/acs/troubleshooting-for-marketers.md)
-   + 策略與思想領導力{#strategy}
+   + 策略與思維領導力{#strategy}
       + [十大最佳作法 [!DNL Adobe Campaign] 行銷人員的成功](/help/campaign/10-best-practices-for-marketers.md)
 + 由您Experience Manager {#experience-manager}
    + [概觀](/help/experience-manager/overview.md)
