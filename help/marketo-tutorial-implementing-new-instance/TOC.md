@@ -2,16 +2,16 @@
 user-guide-title: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
 user-guide-description: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
 breadcrumb-title: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-tutorial-implementing-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/marketo-engage-by-you/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+source-git-commit: 5c97b4fa98a54c7891fa0537b9540beb5bbfffdf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
@@ -27,3 +27,5 @@ ht-degree: 0%
 + [組織新執行個體並建立命名慣例](./organizing-new-instance.md)
 + [使用Dynamic Chat設計全通路對話式行銷](./designing-omnichannel-conversational-marketing.md)
 + [執行個體治理和檔案快速入門](./documenting-your-instance.md)
++ [[!DNL Marketo Engage] 由您](/https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
