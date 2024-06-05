@@ -2,13 +2,13 @@
 user-guide-title: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
 user-guide-description: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
 breadcrumb-title: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-engage/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: c4c4ff3c3456ea48fbd144ac8ef5d509a9bb0714
+source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%
