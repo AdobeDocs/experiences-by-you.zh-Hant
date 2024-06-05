@@ -2,7 +2,7 @@
 user-guide-title: 您的體驗
 user-guide-description: Adobe客戶產生的內容
 breadcrumb-title: 您的體驗
-source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 5%
@@ -91,7 +91,7 @@ ht-degree: 5%
    + [概觀](/help/marketo/overview.md)
    + 基礎知識 {#fundamentals}
       + [瀏覽UI](/help/marketo/fundamentals/ui-navigation.md)
-      + [實作新執行個體的秘訣與技巧](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
+      + [實作新執行個體的秘訣與技巧](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
       + [稽核繼承的執行個體 — 教學課程](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + 方案與行銷活動 {#programs-and-campaigns}
       + [電子郵件程式](/help/marketo/programs/email-programs.md)
