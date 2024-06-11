@@ -11,20 +11,20 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '571'
 ht-degree: 2%
 
 ---
 
 # 建立視覺化資料流程圖以瞭解您的行銷技術棧疊
 
-作為管理[！DNL]的管理員 [!DNL Marketo Engage]]執行個體已運行多年，這就像是一項無法稽核並有效清理執行個體的任務。 時間 [!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入歷史悠久的階段，她透過以下方式解決這個挑戰 [建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
+作為管理者，接管 [!DNL Marketo Engage] 執行個體已運行多年，這就像是一項無法稽核並有效清理執行個體的任務。 時間 [!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入歷史悠久的階段，她透過以下方式解決這個挑戰 [建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
 
 ## 為什麼要為您繼承的執行個體建立架構圖？
 
-1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立程式可讓管理員使用者檢視從外部整合傳送至[！DNL]的資料和活動的完整圖片 [!DNL Marketo Engage]]並輕鬆疑難排解API錯誤。
+1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立流程可讓管理員使用者檢視從外部整合傳送至的資料和活動的完整面貌 [!DNL Marketo Engage] 以及輕鬆疑難排解API錯誤。
 2. **熟悉管理外部整合的主要利害關係人。** Kelly Jo Horton用來快速識別利害關係人的一個技巧是參考API使用者清單。
    1. **導覽至「管理員」區段中的「整合>LaunchPoint」標籤。** 進一步瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以與REST API搭配使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. 在API呼叫資訊區段的「整合>網站服務」標籤中，尋找API使用者的API使用統計資料。 按一下API呼叫號碼，即可檢視每個使用者發出的個別特定呼叫。
@@ -46,12 +46,12 @@ ht-degree: 2%
 
 ### 步驟3：技術版本
 
-建立技術版本，顯示各項整合的API使用者名稱等詳細資訊，以及推送至[！DNL的資料型別的簡短說明 [!DNL Marketo Engage]]或從[！DNL提取 [!DNL Marketo Engage]]，以及任何中介軟體流程與觸發程式的詳細圖表。  其範例如下：
+建立技術版本，顯示各項整合的API使用者名稱等詳細資訊，以及推送至的資料型別的簡短說明 [!DNL Marketo Engage] 或提取自 [!DNL Marketo Engage]以及任何中介軟體流程和觸發程式的詳細圖表。  其範例如下：
 
 ![技術版本](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
-## 接下來還有什麼?
+## 接下來呢？
 
 **開始使用範例：**
 下載其中一個範例資料流程圖表，以對應行銷技術棧疊的目前狀態、人員和資料流程，或在稽核執行個體時從頭開始建立資料全域的圖表：
@@ -120,7 +120,7 @@ ht-degree: 2%
 
 以下是一些您可以使用的工具： draw.io (Google檔案)、 [!DNL Adobe] XD、Figma、Gliffy （Confluence中）
 
-**如果已經有架構圖表怎麼辦？** 新的團隊成員可能有不同的觀點。 擁有新[！DNL有其價值 [!DNL Marketo Engage]]管理員會在他們的上線流程中執行此練習，並與其他人分享。
+**如果已經有架構圖表怎麼辦？** 新的團隊成員可能有不同的觀點。 擁有新資產是有價值的 [!DNL Marketo Engage] 管理員會在他們的上線流程中執行此練習，並與其他人分享。
 
 ## 作者
 

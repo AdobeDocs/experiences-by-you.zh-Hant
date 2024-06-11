@@ -11,16 +11,16 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # 記錄CRM同步錯誤，以輕鬆進行疑難排解
 
-作為 [!DNL Marketo Engage] 管理員，檢查執行個體是否與CRM同步應該是您的一項關鍵工作， [每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (請在您的右上角找到 [!DNL Marketo Engage] 介面)可協助您開始尋找及調查經常發生的同步問題，這裡提供專業秘訣，可協助您以有條理的方式管理執行個體健康情況。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
+作為 [!DNL Marketo Engage] 管理員，檢查執行個體是否與CRM同步應該是您的一項關鍵工作， [每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. 當 [通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (請在您的右上角找到 [!DNL Marketo Engage] 介面)可協助您開始尋找及調查經常發生的同步問題，這裡提供專業秘訣，可協助您以有條理的方式管理執行個體健康情況。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤的記錄，以便更輕鬆進行疑難排解。
 
 ![[同步錯誤]索引標籤的熒幕擷圖](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 **步驟5：** 記下受錯誤影響之個人的電子郵件地址。 這可讓您輕鬆參考並與CRM管理員討論錯誤。
 
-**步驟6：** 在[！DNL]中貼上個人記錄的連結 [!DNL Marketo Engage]]和 [!UICONTROL CRM銷售機會/連絡人] 該人員的記錄。
+**步驟6：** 貼上個人記錄的連結 [!DNL Marketo Engage] 和 [!UICONTROL CRM銷售機會/連絡人] 該人員的記錄。
 
 **步驟7：** 在最後一欄，貼上錯誤的實際文字。
 
-## 接下來還有什麼?
+## 接下來呢？
 
 **識別錯誤代碼：** 若要瞭解錯誤代碼，請檢視開發人員檔案中的說明 [回應層級錯誤代碼表格](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} 並尋找解決錯誤的典型後續步驟。
 
