@@ -1,19 +1,19 @@
 ---
-title: ' [!DNL Adobe] [!DNL Campaign] 成功行銷的十大最佳實務'
+title: 十大最佳作法 [!DNL Adobe] [!DNL Campaign] 行銷人員的成功
 description: 瞭解十大最佳實務以協助 [!DNL Adobe] [!DNL Campaign] 從業人員可解鎖並加速數位消費者的轉型，並為客戶帶來更佳的體驗。
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 79%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 79%
 
 確保您成功使用[！DNL]的第一步 [!DNL Adobe] [!DNL Campaign]]是瞭解您的工具和客戶期望 — 在任何型別的行銷中都是如此。 清楚定義並了解您聯絡消費者的頻道，了解何時及為何使用該頻道。
 
-[!DNL Adobe][!DNL Campaign] 是一項彈性工具，可讓您以多種方式執行及協調通訊。 [在每次購買歷程，五成客戶會採用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
+[!DNL Adobe] [!DNL Campaign] 是一款彈性的工具，可讓您以多種方式執行及協調通訊。 [在每次購買歷程，五成客戶會採用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
 
 ## 2. 記錄並了解客戶資料
 
