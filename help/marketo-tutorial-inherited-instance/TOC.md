@@ -1,7 +1,7 @@
 ---
-user-guide-title: 教學課程 — 稽核繼承專案的秘訣與技巧 [!DNL Marketo Engage] 例項
-user-guide-description: 稽核繼承專案的秘訣與技巧 [!DNL Marketo Engage] 例項
-breadcrumb-title: 教學課程 — 稽核繼承專案的秘訣與技巧 [!DNL Marketo Engage] 例項
+user-guide-title: 教學課程 — 稽核繼承 [!DNL Marketo Engage] 執行個體的秘訣與技巧
+user-guide-description: 稽核繼承 [!DNL Marketo Engage] 執行個體的秘訣與技巧
+breadcrumb-title: 教學課程 — 稽核繼承 [!DNL Marketo Engage] 執行個體的秘訣與技巧
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-tutorial-inherited-instance/overview.html
 index: false
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# 教學課程 — 稽核繼承專案的秘訣與技巧 [!DNL Marketo Engage] 例項 {#auditing-an-inherited-instance}
+# 教學課程 — 稽核繼承[!DNL Marketo Engage]執行個體的秘訣與技巧 {#auditing-an-inherited-instance}
 
 + [教學課程 — 概觀](/help/marketo-tutorial-inherited-instance/overview.md)
 + [稽核繼承的執行個體](/help/marketo-tutorial-inherited-instance/audit-an-inherted-instance.md)

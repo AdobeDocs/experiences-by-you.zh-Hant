@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '2111'
 ht-degree: 2%
@@ -32,12 +33,12 @@ ht-degree: 2%
 
 行為評分可提供潛在客戶採取的可追蹤動作數值，這些動作可指出客戶對您的產品和服務感興趣以及購買意圖。 例如，造訪網站會顯示興趣，而造訪定價頁面可能會顯示意圖。 相較之下，造訪職業頁面可能表示該人不會購買。
 
-**步驟1**  — 列出對您的銷售流程重要或對您的組織有價值的潛在客戶活動。 與您的銷售團隊合作，以判斷哪些活動表示潛在客戶有意願購買，可幫助您將條件與銷售對應，並根據他們對於已完成交易的觀察來安排優先順序，這樣會很有幫助。 以下是您可以向銷售團隊提出的一些建議問題：
+**步驟1** — 列出對您的銷售流程重要或對您的組織有價值的目標客戶活動。 與您的銷售團隊合作，以判斷哪些活動表示潛在客戶有意願購買，可幫助您將條件與銷售對應，並根據他們對於已完成交易的觀察來安排優先順序，這樣會很有幫助。 以下是您可以向銷售團隊提出的一些建議問題：
 
 * 哪些活動表示對您的銷售線索有利或不利？
 * 潛在客戶所消費的內容型別購買意願較強？
 
-**步驟2**  — 列出表示潛在客戶對您的產品不感興趣的動作。 請務必列出可透過Marketo Engage追蹤的活動。
+**步驟2** — 列出表示潛在客戶對您的產品不感興趣的動作。 請務必列出可透過Marketo Engage追蹤的活動。
 
 **範例1a — 表示購買意圖的活動**
 
@@ -49,7 +50,7 @@ ht-degree: 2%
 | 下載白皮書 |     |
 | 填寫請求示範表單 |     |
 
-**步驟3**  — 分析並選擇銷售移交臨界值分數。
+**步驟3** — 分析並選擇銷售移交臨界值分數。
 
 * 一旦潛在客戶透過執行您在步驟1中定義的某些活動而表示足夠的興趣，且總分超過此臨界值時，您就會將其轉給銷售人員。 此臨界值只是一個數字，可協助您針對指派給個別行為的分數設定基準。
 * 您的臨界值數字應夠大，以讓人員需要與您的品牌完成多次互動，以符合要求。 例如，某封開啟的電子郵件不太可能是足夠的限定詞。 如果您剛開始，請嘗試使用100的臨界值，並從那裡建立您的個人得分。
@@ -61,7 +62,7 @@ ht-degree: 2%
 | --- | --- |
 | 銷售移交閾值 | 50 |
 
-**步驟4**  — 為「範例1a — 表示購買意圖的活動」中列出的每個活動指派分數。
+**步驟4** — 為「範例1a — 表示購買意圖的活動」中列出的每個活動指派分數。
 
 * 對表示感興趣的活動使用正面行為分數來增加潛在客戶的整體潛在客戶分數，並使用負面分數來表示不感興趣。
 * 使用「範例1b — 銷售移交的臨界值」中的臨界值作為基準，根據其動作的重要性來決定您的行為分數。 例如，潛在客戶若要求示範，應直接前往銷售。 將該動作指派為等於潛在客戶移交閾值的點值是最合理的作法。 同時，下載白皮書並不足以顯示購買興趣，因此應該減少點數。
@@ -76,13 +77,13 @@ ht-degree: 2%
 | 下載白皮書 | +5 |
 | 造訪我們的商展 | +15 |
 
-**步驟5**  — 請記住，評分是一個反複的過程！ 收集更多資料進行分析，持續檢閱並調整分數和臨界值。
+**步驟5** — 記住，評分是反複過程！ 收集更多資料進行分析，持續檢閱並調整分數和臨界值。
 
 ## 練習2 — 找出適合人口統計分數的專案
 
 現在您已定義表示購買意圖的活動，您應該使用理想潛在客戶設定檔完成評分模型。 為了識別潛在客戶是否適合進行進一步的銷售對話，除了行為分數之外，指派人口統計分數也很重要，因此模型有助於從適合度和意圖方面判斷最佳銷售機會。
 
-**步驟1**  — 列出您理想潛在客戶的特性。
+**步驟1** — 為您的理想潛在客戶建立特性清單。
 
 * 考慮列出其產業、公司、部門及角色等屬性。 請確定這些特性對應至您Marketo Engage執行個體中可用的人口統計欄位。
 * 與您的銷售團隊合作，決定哪些銷售機會對銷售查詢回應最多，以及銷售機會期間的主要聯絡人。
@@ -93,7 +94,7 @@ ht-degree: 2%
       * 他們通常與哪個部門互動？
       * 產品示範相關人員的職稱是什麼？哪些人員需要簽署購買合約？
 
-**範例2a — 理想的潛在客戶特性**
+**範例2a — 理想潛在客戶特性**
 
 | **類別** | **理想潛在客戶特性** |
 | --- | --- |
@@ -102,9 +103,9 @@ ht-degree: 2%
 | 職稱 | Director，副總裁，C-Level |
 | 部門 | 小時 |
 
-**步驟2**  — 根據每個特性在理想潛在客戶設定檔中的關聯性，為其指派分數。 對所需特徵使用正面分數，對特徵使用負面分數，以降低潛在客戶對產品的適合度。
+**步驟2** — 根據每個特性在理想潛在客戶設定檔中的關聯性，為其指派分數。 對所需特徵使用正面分數，對特徵使用負面分數，以降低潛在客戶對產品的適合度。
 
-**範例2b — 為理想和不受歡迎的潛在客戶特性指定評分**
+**範例2b — 將分數指派給理想和不受歡迎的潛在客戶特性**
 
 | **特性** | **分數** |
 | --- | --- |
@@ -122,7 +123,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
-**步驟1**  — 利用練習1與練習2的活動與特性，並決定每個料號是否因地點或產品線而異。
+**步驟1** — 從練習1和練習2中取得活動與特性，並決定每個專案是否因地點或產品線而異。
 
 **範例3a — 全球和本地市場的訊號：**
 
@@ -131,7 +132,7 @@ ht-degree: 2%
 | 活動 | <ul><li>填寫「要求示範」表單</li><li>過去90天無互動（約3個月）</li></ul> | <ul><li>到商展造訪我們</li><li>下載白皮書</li></ul> |
 | 特性 | <ul><li>部門</li><li>職稱</li></ul> | <ul><li>產業</li><li>公司規模</li></ul> |
 
-**步驟2**  — 為當地市場定義您的評分矩陣：
+**步驟2** — 為當地市場定義您的評分矩陣：
 
 * 為人口統計和行為元素設定不同的矩陣。
 * 決定您要要求當地團隊輸入的優先順序主題。
@@ -145,15 +146,15 @@ ht-degree: 2%
 | **人口統計矩陣** | **優先順序1** | **優先順序2** | **優先順序3** |
 | --- | --- | --- | --- |
 | 高數值 | 20點 | 10點 | 7點 |
-| 中值 | 10點 | 7點 | 3點 |
+| Medium值 | 10點 | 7點 | 3點 |
 | 低數值 | 5點 | 3點 | 1點 |
 
-**步驟3**  — 收集您當地或地區銷售團隊的意見以開發整體檢視。 您會發現範例3c不包含任何個別分數。 這可以讓銷售團隊在稽核過程中專注於不同主題的相對價值。 不過，您應該將完整模型記錄為其他Marketo Engage管理員的背景資料。
+**步驟3** — 收集您當地或地區銷售團隊的輸入以開發整體檢視。 您會發現範例3c不包含任何個別分數。 這可以讓銷售團隊在稽核過程中專注於不同主題的相對價值。 不過，您應該將完整模型記錄為其他Marketo Engage管理員的背景資料。
 
 * 鎖定無法針對全域一致性調整的專案（這裡位於「實作主題」欄）。
 * 標籤（此處為「優先順序」和「分數」欄）可針對本機影響調整的專案。
 
-**範例3c — 評分主題的相對價值：**
+**範例3c — 得分主題的相對價值：**
 
 <table>
  <tr>
@@ -232,8 +233,8 @@ ht-degree: 2%
 
 ## 接下來呢？
 
-* 下載 [個人評分練習表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} 離線開發您的評分模型。
-* 在Marketo Engage中建立您的個人分數。 檢查此 [教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} 和 [示範](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} 以開始使用。 您可以匯入銷售機會/人員評分方案 [範本](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} 從Marketo Engage參考程式庫加速程式建置。
+* 下載[個人評分練習表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}以離線開發您的評分模型。
+* 在Marketo Engage中建立您的個人分數。 檢查此[教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[示範](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以開始。 您可以從Marketo Engage參考資料庫匯入銷售機會/人員評分方案[範本](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速方案建置。
 * 建立兩個版本的評分方案：
    * 執行無法在本機更新的所有評分的中央程式。
    * 具有可設定評分元素的本機副本。
@@ -243,8 +244,8 @@ ht-degree: 2%
    * 決定哪些人口統計和行為活動應該只分數一次（即產業），以及哪些在潛在客戶每次符合資格時應該分數（即參加網路研討會）。 這可確保資料值變更所觸發的潛在聯絡人與銷售相關。
    * 請確定您的選擇互斥。
    * 在兩個流程步驟中進行更新，以便以與「人口統計分數」相同的方式更新人員分數。 如此一來，個人分數將與行為分數和人口統計分數的組合保持一致。
-* 完成方案建立後，請測試Smart Campaign。 例如，前往您的示範表單，填寫測試電子郵件，然後檢查您的測試人員分數 [Marketo Engage資料庫](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解使用此設定警報 [教學課程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* 完成方案建立後，請測試Smart Campaign。 例如，請移至您的示範表單，填寫測試電子郵件，並在[Marketo Engage資料庫](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中檢查測試人員的分數。
+* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解如何使用此[教學課程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}設定警示。
 
 ### 作者
 

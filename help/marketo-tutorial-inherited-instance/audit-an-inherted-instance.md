@@ -1,6 +1,6 @@
 ---
-title: 如何稽核繼承的 [!DNL Marketo Engage] 例項
-description: 繼承 [!DNL Marketo Engage] 執行個體，建議您花時間瞭解執行個體中的內容，並建立更新設定的行動計畫。 本教學課程涵蓋最重要的章節， [!DNL Marketo Engage]包括管理員、行銷活動、Design Studio和資料庫，為您提供稽核和最佳化過程中的提示。
+title: 如何稽核繼承的 [!DNL Marketo Engage] 執行個體
+description: 繼承 [!DNL Marketo Engage] 執行個體，建議您花時間瞭解執行個體中的內容，並建立更新組態的行動計畫。 本教學課程涵蓋 [!DNL Marketo Engage]中最重要的章節，包括「管理員」、「行銷活動」、「設計工作室」和「資料庫」，並在此過程中提供稽核和最佳化的秘訣。
 feature-set: Marketo Engage
 feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 如何稽核繼承的 [!DNL Marketo Engage] 例項
+# 如何稽核繼承的[!DNL Marketo Engage]執行個體
 
-繼承 [!DNL Marketo Engage] 無論您是經驗豐富的管理員還是較新的管理員，都可能很難知道從哪裡開始清理，因此執行個體可能會讓人覺得壓力很大。 首先，建議您花時間瞭解您今天繼承的執行個體內容，並建立更新設定的行動計畫。
+繼承[!DNL Marketo Engage]執行個體可能會造成壓力，無論您是經驗豐富的管理員或您是否較新的管理員，都很難知道從哪裡開始清理。 首先，建議您花時間瞭解您今天繼承的執行個體內容，並建立更新設定的行動計畫。
 
-在本教學課程中，我們將逐步引導您瞭解 [!DNL Marketo Engage]包括管理員、行銷活動、Design Studio和資料庫，為您提供稽核和最佳化過程中的提示。
+在本教學課程中，我們將逐步引導您瞭解[!DNL Marketo Engage]中最重要的區段，包括管理員、行銷活動、設計工作室和資料庫，並在此過程中為您提供稽核和最佳化的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

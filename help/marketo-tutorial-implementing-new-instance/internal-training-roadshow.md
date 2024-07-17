@@ -1,6 +1,6 @@
 ---
 title: 開發內部上線和訓練路演
-description: 瞭解如何建立強大的程式，以建立和維護您的檔案和變更記錄檔 [!DNL Marketo Engage] 執行個體。 這不僅可節省團隊分享知識的時間，也可提升執行個體的健全度和效率。
+description: 瞭解如何建立健全的程式，以建立及維護 [!DNL Marketo Engage] 執行個體的檔案和變更記錄檔。 這不僅可節省團隊分享知識的時間，也可提升執行個體的健全度和效率。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,46 +9,46 @@ duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
 
 ---
 
-
 # 開發內部上線和訓練路演
 
-當您帶來新的 [!DNL Marketo Engage] 執行個體已上線，是時候讓相關團隊加速善用 [!DNL Marketo Engage] 換來他們的工作。
+當您讓新的[!DNL Marketo Engage]執行個體上線時，是時候讓相關團隊加速以利用[!DNL Marketo Engage]完成他們的工作。
 
-Adobe Marketo Engage客戶Naomi Liu分享這些內部上線和培訓最佳實務 [內部上線](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} 和 [訓練最佳實務](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} 根據她為Imaging全球團隊實作Electronics新執行個體的經驗而得。 遵循她的深入分析，為您的內部團隊制定有效的訓練計畫。
+這些內部上線和訓練最佳實務是由Adobe Marketo Engage客戶Naomi Liu提供，分享[內部上線](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank}和[訓練最佳實務](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank}，這些最佳實務源自她為影像全球團隊實作Electronics的新執行個體的經驗。 遵循她的深入分析，為您的內部團隊制定有效的訓練計畫。
 
 ## 為何在實施新執行個體時還要開發內部上線計畫？
 
-身為Marketo Engage管理員，您不僅必須裝備新技術棧疊功能，還要推動新技術的採用和教育程度。 若要讓內部團隊能以更大規模運作，仰賴教育。 若要這樣做，您將需要學習如何提供以下方面的訓練： [!DNL Marketo Engage] 與團隊成員最相關的功能。
+身為Marketo Engage管理員，您不僅必須裝備新技術棧疊功能，還要推動新技術的採用和教育程度。 若要讓內部團隊能以更大規模運作，仰賴教育。 若要這樣做，您將需要學習如何提供對團隊成員最相關的[!DNL Marketo Engage]功能培訓。
 
 ## 如何制定內部上線計畫
 
-### 步驟1：成為 [!DNL Marketo Engage] 親自成為專家
+### 步驟1：自己成為[!DNL Marketo Engage]專家
 
-身為管理員，您應該先沈浸其中 [!DNL Marketo Engage] 資源，例如行銷國家社群和檔案。 在評估與實作階段中，請定期閱讀並探索這些資料，以建立您的專業知識。
+身為管理員，您應該先沈浸在[!DNL Marketo Engage]資源中，例如行銷國家社群和檔案。 在評估與實作階段中，請定期閱讀並探索這些資料，以建立您的專業知識。
 
 ### 步驟2：開發團隊訓練策略
 
 * 培訓行銷營運團隊時，請考慮錯開核心概念1和2課程的出席率。 確保團隊成員參加不同的課程，配備不同的講師，以獲得不同的觀點和見解並與群組分享。
-* 運用Adobe Experience League的教學課程，提供簡短、易懂的課程，讓您的團隊開始進行 [!DNL Marketo Engage] 根據自己的進度進行教育。
+* 利用Adobe Experience League的教學課程，這些教學課程提供簡短、易學的課程，讓您的團隊按照自己的進度開始進行[!DNL Marketo Engage]教育。
 * 鼓勵團隊成員在每週團隊通話期間分享新獲得的知識。 這可確保在有效管理執行個體的團隊之間傳達有價值的見解。
 
 ### 步驟3：開發內部訓練路演
 
-* *開發訓練模組：* 掌握相關知識後，請專心為行銷業務合作夥伴建立自訂的訓練模組。 使用下列範例來開始組織您的訓練課程，針對Marketo Engage的各個方面量身打造特定的單元。
-* *內部訓練路演：* 考慮組織路演風格的導覽，直接為行銷業務合作夥伴提供培訓。
+* *開發訓練模組：*&#x200B;一旦您掌握了技能，請專心為行銷業務合作夥伴建立自訂的訓練模組。 使用下列範例來開始組織您的訓練課程，針對Marketo Engage的各個方面量身打造特定的單元。
+* *內部訓練路演：*&#x200B;考慮組織路演式的導覽，直接向行銷業務合作夥伴提供訓練。
 * 首先，列出您的所有行銷業務合作夥伴及其責任，並將團隊放入下方的「內部培訓路演」表格中，以供其各自的學習模組使用。
 * Naomi與全球團隊合作，選擇進行面對面培訓課程、量身打造模組以符合不同業務部門的需求，並為每個模組準備講台，以方便所有學習課程。
 
 ## 範例課程：內部訓練路演
 
-以下是Naomi Liu建議的訓練課程範例，可供您為行銷業務合作夥伴自訂。 下載 [範例訓練課程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}供您離線自訂。
+以下是Naomi Liu建議的訓練課程範例，可供您為行銷業務合作夥伴自訂。 下載[範例訓練課程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}供您離線自訂。
 
 | 工作階段標題 | 目標 | 訓練方法 | 時間分配 |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Adobe Marketo Engage客戶Naomi Liu分享這些內部上線和培訓最佳實務
 
 ## 接下來呢？
 
-* 下載 [範例訓練課程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}試算表來開發您的內部訓練模組。
+* 下載[範例訓練課程](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;}試算表以開發您的內部訓練模組。
 * 填寫適合工作階段主題的團隊。
 * 選取您要用來建立訓練資料的方法。
 

@@ -15,7 +15,7 @@ ht-degree: 16%
 
 # Marketo by You：依使用者的資源，適用於使用者的資源。
 
-最強大的功能 [!DNL Adobe] Experience Cloud解決方案？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 「您的體驗」包含由日常使用者建立的內容，這些使用者已透過其專長與影響力達到一定程度 [!DNL Adobe] Experience Cloud解決方案。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
+關於[!DNL Adobe]Experience Cloud解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 「您的體驗」包含日常使用者所建立的內容，這些使用者已透過[!DNL Adobe]Experience Cloud解決方案獲得一定程度的專業知識與影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,15 +32,15 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="瀏覽 [!DNL Marketo Engage] 使用者介面" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="瀏覽[!DNL Marketo Engage]使用者介面" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
-    <strong>瀏覽 [!DNL Marketo Engage] 使用者介面</strong>
+    <strong>瀏覽[!DNL Marketo Engage]使用者介面</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何導覽使用者介面，並熟悉您的操作方式 [!DNL Marketo Engage] 平台。</em>
+    <em>瞭解如何導覽使用者介面，並熟悉您在[!DNL Marketo Engage]平台上的操作方式。</em>
     <p>
   </td>
   <td>
@@ -49,11 +49,11 @@ ht-degree: 16%
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>報告與分析</strong>
+    <strong>報告和分析</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何導覽Analytics和「資料庫」區段，以提取不同的現成報告 [!DNL Marketo Engage].</em>
+    <em>瞭解如何導覽Analytics和Database區段，以在[!DNL Marketo Engage]中提取不同的現成報告。</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 16%
     </a>
     </div>
     <p>
-    <em>觀看此逐步教學課程，瞭解如何使用A/B測試建立電子郵件計畫。</em>
+    <em>觀看此逐步教學課程，瞭解如何使用A/B測試建立電子郵件程式。</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ ht-degree: 16%
 
 ## 其他資源
 
-* [Marketo國家（社群）](https://nation.marketo.com/)
+* [Marketo Nation （社群）](https://nation.marketo.com/)
 * [Adobe Marketo Engage檔案](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
 * [Adobe Marketo Engage產品資訊](https://business.adobe.com/products/marketo/adobe-marketo.html)

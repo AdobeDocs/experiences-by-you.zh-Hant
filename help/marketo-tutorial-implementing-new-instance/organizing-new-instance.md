@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -18,11 +19,11 @@ ht-degree: 2%
 
 # 組織新執行個體並建立命名慣例
 
-作為實作新Marketo Engage例項的管理員，您為未來組織內的行銷人員可輕鬆導覽該例項奠定了基礎。 熟悉樹狀資料夾結構和命名慣例可讓您的執行個體保持整潔並設定為長期成功。 本教學課程包含Adobe與Marketo Engage達人(2019-2020) Natalie Kremer建議的範例，可協助您 [組織資料夾並以一致的方式命名資產](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+作為實作新Marketo Engage例項的管理員，您為未來組織內的行銷人員可輕鬆導覽該例項奠定了基礎。 熟悉樹狀資料夾結構和命名慣例可讓您的執行個體保持整潔並設定為長期成功。 本教學課程包含Adobe與Marketo Engage達人(2019-2020) Natalie Kremer建議的範例，可協助您[一致地組織資料夾並命名資產](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}。
 
 ## 為何需要建構資料夾並套用命名慣例？
 
-在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要在例項中組織導覽樹狀結構並大規模建置，建議使用 [資料夾](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}， [標準命名慣例](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}、和功能，例如 [複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要組織執行個體中的導覽樹狀結構並大規模建置，建議使用[資料夾](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準命名慣例](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
 ## 如何組織Marketo Engage例項
 
@@ -30,7 +31,7 @@ ht-degree: 2%
 
 ### 步驟1 — 設定檔案夾結構以整理您的程式
 
-組織執行個體的第一個步驟是 [設定檔案夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) 以易於找到且有序的方式存放您的計畫和資產。
+組織執行個體的第一個步驟是[設定資料夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易於找到且有序的方式存放您的程式和資產。
 
 在樹狀結構中建構資料夾時，以下是一些快速秘訣：
 
@@ -41,7 +42,7 @@ ht-degree: 2%
 
 以下是將這些秘訣付諸實踐的檔案夾範例。
 
-**樹狀結構中的資料夾名稱**
+樹狀結構中的&#x200B;**資料夾名稱**
 
 >[!BEGINTABS]
 
@@ -49,9 +50,9 @@ ht-degree: 2%
 
 ![資料夾行銷活動](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
->[!TAB Design Studio]
+>[!TAB 設計工作室]
 
-![Folder Design Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![資料夾設計工作室](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB 資料庫]
 
@@ -64,14 +65,14 @@ ht-degree: 2%
 現在，讓我們在方案層級套用資料夾結構。 將本機資產放在子資料夾中，會是最理想的作法，可協助您保持程式整齊，並允許內部使用者有效率地修改或報告程式。 常見的子資料夾包括電子郵件、登陸頁面、智慧行銷活動、清單、報告等。
 
 **程式內的資料夾名稱**
-* 行銷活動 —  *用於管理互動和狀態追蹤之所有行銷活動的資料夾。*
-* 本機資產 —  *此計畫特有的所有資產的資料夾。*
+* 行銷活動 — *所有管理互動和狀態追蹤之行銷活動的資料夾。*
+* 本機Assets - *此程式專屬之所有資產的資料夾。*
    * 電子郵件
    * 登陸頁面
    * Smart Campaign
-   * 清單 —  *只有在有計畫特定清單時才需要。*
-   * FORMS - *只有在有程式特定的Forms時才需要；大多數Forms都是全域資產。*
-   * 報表 —  *只有在有計畫特定報告時才需要。*
+   * 清單 — *只有存在程式特定清單時才需要。*
+   * Forms - *只有在有特定於計畫的Forms時才需要；大多數Forms都是全域Assets。*
+   * 報告 — *只有存在程式特定報告時才需要。*
 
 ### 步驟3 — 建立程式和資產的命名慣例
 
@@ -86,7 +87,7 @@ ht-degree: 2%
 
 #### 程式命名公式
 
-| **計畫型別的縮寫** | **YYYY** | **\-** | **公厘** | **\-** | **DD （可選）** | **類別** | **\-** | **計畫的簡短描述** |
+| **程式型別**&#x200B;的縮寫 | **YYYY** | **\-** | **毫米** | **\-** | **DD（選擇性）** | **類別** | **\-** | **程式的簡短描述** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM — 電子郵件傳送（電子郵件程式） | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
 | NL — 電子報 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
@@ -99,7 +100,7 @@ ht-degree: 2%
 | WC — 網站內容 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
 | CS — 內容整合 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
 | LI — 清單匯入 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
-| OA — 線上廣告 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
+| OA — 線上Advertising | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
 | PPC — 每次點按付費 | YYYY | \- | 公厘 | \- | DD （可選） | 類別 | \- | 計畫的簡短描述 |
 
 | **範例** |
@@ -120,7 +121,7 @@ ht-degree: 2%
 
 ##### 根據計畫程式中的順序命名資產
 
-| **程式程式中的順序** | **\-** | **說明** |
+| **程式處理序中的順序** | **\-** | **說明** |
 | --- | --- | --- |
 | 01 | \- | 說明 |
 | 02 | \- | 說明 |
@@ -137,7 +138,7 @@ ht-degree: 2%
 
 ##### 使用資產型別的縮寫來命名資產
 
-| **資產型別的縮寫** | **資產型別** | **\-** | **目標的說明** |
+| **資產型別**&#x200B;的縮寫 | **資產型別** | **\-** | **目標**&#x200B;的說明 |
 | --- | --- | --- | --- |
 | LP — 登陸頁面 | LP | \- | 目標的說明 |
 | 電子郵件 — 電子郵件（傳出） | EMAIL | \- | 目標的說明 |
@@ -159,7 +160,7 @@ ht-degree: 2%
 
 ##### 使用資產型別的縮寫來命名可下載的檔案(.pdf)
 
-| **資產型別** | **內容說明** | **\-** | **資產型別的縮寫** | **.** | **PDF** |
+| **資產型別** | **內容描述** | **\-** | **資產型別**&#x200B;的縮寫 | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP — 白皮書 | 內容說明 | \- | WP | 。 | pdf |
 | CS — 個案研究 | 內容說明 | \- | CS | 。 | pdf |
@@ -177,9 +178,9 @@ ht-degree: 2%
 
 ## 接下來呢？
 
-* 下載工作表： [Marketo Engage組織和命名慣例](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} 以支援建立資料夾結構和命名慣例。
+* 下載工作表：[Marketo Engage組織和命名慣例](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支援建立資料夾結構和命名慣例。
 * 決定標準命名慣例中的必要元件後，請考慮將公式建置到Google工作表或Microsoft Excel中。 若日後使用，只需在試算表中輸入您的值，即可產生您的程式名稱。
-* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 閱讀開始使用 [Adobe Marketo Engage方案範本](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 請閱讀以開始使用[Adobe Marketo Engage方案範本](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 

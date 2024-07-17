@@ -1,6 +1,6 @@
 ---
-title: 建置客戶歷程區段
-description: 瞭解如何在中建立行為型客戶歷程區段 [!DNL Adobe Analytics] 並改善客戶體驗，透過 [!DNL Adobe] 請依照此逐步指南進行Experience Cloud。
+title: 建立客戶歷程區段
+description: 瞭解如何在 [!DNL Adobe Analytics] 中建立行為型客戶歷程區段，並依照此逐步指南改善客戶的 [!DNL Adobe] Experience Cloud體驗。
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 1%
+source-wordcount: '1224'
+ht-degree: 0%
 
 ---
 
-# 建置客戶歷程區段
+# 建立客戶歷程區段
 
-瞭解如何在中建立行為型客戶歷程區段 [!DNL Adobe Analytics] 並改善客戶體驗，透過 [!DNL Adobe] 請依照此逐步指南進行Experience Cloud。
+瞭解如何在[!DNL Adobe Analytics]中建立行為型客戶歷程區段，並依照此逐步指南改善客戶的[!DNL Adobe]Experience Cloud體驗。
 
-讓我們建立更好的客戶歷程區段！ 在此系列中，我們將使用 [!DNL Adobe Analytics] 定義行為型區段、估計對象人數並追蹤使用者動向。 到最後，您將能夠個人化媒體並改善客戶體驗，使用 [!DNL Adobe] Experience Cloud。 請記住，這些區段目前運作，並應隨著您進一步瞭解客戶而更新。 雖然報告可能會帶來一些挑戰，但別擔心，我會引導您完成報告！ 讓我們從「單次點選奇蹟」區段開始，建立我們的第一組「客戶歷程」區段。
+讓我們建立更好的客戶歷程區段！ 在此系列中，我們將使用[!DNL Adobe Analytics]來定義行為型區段、估計對象人數並追蹤使用者動向。 到最後，您將能夠個人化媒體，並透過[!DNL Adobe]Experience Cloud改善客戶體驗。 請記住，這些區段目前運作，並應隨著您進一步瞭解客戶而更新。 雖然報告可能會帶來一些挑戰，但別擔心，我會引導您完成報告！ 讓我們從「單次點選奇蹟」區段開始，建立我們的第一組「客戶歷程」區段。
 
-今天，我們將為第一組Customer Journey區段建立預留位置，建置 [!DNL Adobe Analytics] 工作區可協助我們定義區段，並定義我們的第一個區段「單次點選奇蹟」。
+今天，我們將為第一組Customer Journey區段建立預留位置，建置[!DNL Adobe Analytics] Workspace以協助我們定義區段，並定義我們的第一個區段「單次點選奇蹟」。
 
-此系列結束時，您將能夠在中建立客戶歷程區段 [!DNL Adobe Analytics] 根據行為訊號。 您將能夠估計歷程每個階段中每個對象的大小，並瞭解使用者在這些階段之間的移動速率。 而且您可以將這些客戶歷程受眾匯出至 [!DNL Adobe] 啟用個人化和媒體鎖定目標的Experience Cloud。
+此系列結束後，您將能夠根據行為訊號在[!DNL Adobe Analytics]中建立客戶歷程區段。 您將能夠估計歷程每個階段中每個對象的大小，並瞭解使用者在這些階段之間的移動速率。 而且您可以將這些客戶歷程對象匯出至[!DNL Adobe]Experience Cloud，以啟用個人化和媒體目標定位。
 
 每個企業都不一樣，這表示您的客戶歷程區段看起來會與我的不同。 因此，建議不要為您的區段指定特定的公式，而是要檢視的一些事情以及建立這些公式的整體過程。
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * 單次點選奇蹟
 * 意識
-* 考量事項
+* 考量
 * 預訂（購買）
 * 保留（管理預訂/購買）
 
@@ -49,11 +49,11 @@ ht-degree: 1%
 
 ![意圖區段](assets/intent-segments.png)
 
-**使用具有頁面檢視>= 1預留位置定義的「造訪」容器，建立您的造訪意圖區段。**
+**繼續使用瀏覽容器建立您的瀏覽意圖區段，並加上頁面檢視>= 1的預留位置定義。**
 
 如我們所見，建立這些區段是一項反複且相互關聯的程式。 我將在日後的文章中說明建立這些區段的程式。
 
-## 造訪意圖區段資料品質工作區
+## 造訪意圖區段資料品質Workspace
 
 ![造訪意圖工作區](assets/visit-intent-workspace.png)
 
@@ -93,18 +93,18 @@ ht-degree: 1%
 
 ![區段定義](assets/segment-def.png)
 
-定義此區段後，您就會開始看到造訪意圖工作區成型。
+定義此區段後，您就會開始看到造訪意圖Workspace成型。
 
 ![更多區段定義](assets/more-segment-defs.png)
 
-使用建立客戶歷程區段 [!DNL Adobe Analytics] 是一個富有挑戰性但回報豐厚的過程。 透過建立行為型區段、估計受眾規模並追蹤使用者行動，企業可以個人化媒體並改善客戶體驗。 每個企業都是獨一無二的，沒有建立區段的特定公式，但需遵循的准則和流程。 隨著企業進一步瞭解其客戶，應更新區段，這會帶來報告挑戰。 透過遵循建立造訪意圖區段的流程，企業可以改善整體客戶體驗。
+使用[!DNL Adobe Analytics]建立客戶歷程區段是一項具有挑戰性的過程，但回報可觀。 透過建立行為型區段、估計受眾規模並追蹤使用者行動，企業可以個人化媒體並改善客戶體驗。 每個企業都是獨一無二的，沒有建立區段的特定公式，但需遵循的准則和流程。 隨著企業進一步瞭解其客戶，應更新區段，這會帶來報告挑戰。 透過遵循建立造訪意圖區段的流程，企業可以改善整體客戶體驗。
 
 ## 作者
 
-本文件的作者為：
+本檔案的作者為：
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**， Director，數位 [!DNL Analytics]
+**Aaron Fossum**，Director，數位[!DNL Analytics]
 
-[!DNL Adobe Analytics] 冠軍
+[!DNL Adobe Analytics]冠軍

@@ -1,6 +1,6 @@
 ---
-title: AEM Champion秘訣與技巧 — 在Cloud Manager中使用記錄
-description: 歡迎參考您與AEM冠軍同伴Rami EL Gamal的秘訣。 在本影片中，Rami將逐步說明如何在Cloud Manager中下載記錄檔，同時在此過程中分享最佳實務提示。
+title: AEM Champion秘訣與技巧 — 使用Cloud Manager中的記錄
+description: 看看您的 AEM 達人 Rami EL Gamal 分享的這些秘訣。在本影片中，Rami將逐步說明如何在Cloud Manager中下載記錄檔，同時在此過程中分享最佳實務提示。
 version: Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Experience Manager
@@ -13,16 +13,16 @@ duration: 457
 last-substantial-update: 2024-02-21T00:00:00Z
 jira: KT-14962
 thumbnail: 3427314.jpeg
-source-git-commit: 2997601d889a278e00ddff5148096768b1c35e62
+exl-id: 19ee2bf4-80e5-4242-b0fa-fa7a7bea8c4d
+source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
+# AEM Champion秘訣與技巧 — 使用Cloud Manager中的記錄
 
-# AEM Champion秘訣與技巧 — 在Cloud Manager中使用記錄
-
-歡迎參考您與AEM冠軍同伴Rami EL Gamal的秘訣。 在本影片中，Rami將逐步說明如何在Cloud Manager中下載記錄檔，同時在此過程中分享最佳實務提示。
+看看您的 AEM 達人 Rami EL Gamal 分享的這些秘訣。在本影片中，Rami將逐步說明如何在Cloud Manager中下載記錄檔，同時在此過程中分享最佳實務提示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427492/?learn=on)

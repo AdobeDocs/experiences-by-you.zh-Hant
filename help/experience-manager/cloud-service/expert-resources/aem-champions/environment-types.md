@@ -1,6 +1,6 @@
 ---
 title: AEM Champion秘訣與技巧 —  [!DNL Cloud Manager] 環境型別
-description: 檢視這些提示 [!DNL Cloud Manager]來自AEM冠軍和專家Rakesh Pasupuleti的環境型別。
+description: 檢視這些來自AEM冠軍和專家Rakesh Pasupuleti的有關 [!DNL Cloud Manager]環境型別的提示。
 version: Cloud Service
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Cloud Manager
@@ -14,18 +14,18 @@ jira: KT-13229
 exl-id: 682c97c0-d563-4cfa-be6b-0eb22c675d21
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '83'
+ht-degree: 3%
 
 ---
 
-# AEM Champion秘訣與技巧 —  [!DNL Cloud Manager] 環境型別
+# AEM Champion秘訣與技巧 — [!DNL Cloud Manager]環境型別
 
-歡迎參考技術負責人Rakesh Pasupuleti提供的這些秘訣。 拉凱什是 [!DNL Adobe] Experience Manager達人，並解釋如何理解 [!DNL Cloud Manager]的環境型別。
+歡迎參考技術負責人Rakesh Pasupuleti提供的這些秘訣。 Rakesh是[!DNL Adobe]Experience Manager冠軍，他說明如何瞭解[!DNL Cloud Manager]的環境型別。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
 
 ## 其他資源 {#additional-resources}
 
-* [管理環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html)  — 有關AEMas a Cloud Service環境管理的檔案
-* [快速開發環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) - AEMas a Cloud Service的RDE檔案
+* [管理環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) — 有關AEM as a Cloud Service中環境管理的檔案
+* [快速開發環境](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=zh-Hant) - AEM as a Cloud Service中RDE的檔案

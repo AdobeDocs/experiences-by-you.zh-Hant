@@ -12,14 +12,14 @@ thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '487'
+ht-degree: 0%
 
 ---
 
 # 不只是字 — 在Analysis Workspace中使用文字視覺效果和說明
 
-作為 [!DNL Adobe Analytics] Analysis Workspace的使用者，您的焦點通常會放在您的資料和資料視覺效果上，這是很自然的事，任何人都可以輸入摘要，對嗎？ 然而，如果在Analysis Workspace中忽略文字視覺效果或視覺效果說明等功能，就代表您錯失了將深入解析與有價值的文字、影像、GIF和連結結合在一起的寶貴機會。 提供參考資料和更多內容，讓您的使用者瞭解您的資料含義，讓資料更有效且更有影響力。
+身為[!DNL Adobe Analytics] Analysis Workspace使用者，您的焦點通常會放在您的資料和資料視覺效果上，這是很自然的事 — 任何人都可以輸入摘要，對嗎？ 然而，如果在Analysis Workspace中忽略文字視覺效果或視覺效果說明等功能，就代表您錯失了將深入解析與有價值的文字、影像、GIF和連結結合在一起的寶貴機會。 提供參考資料和更多內容，讓您的使用者瞭解您的資料含義，讓資料更有效且更有影響力。
 
 首先，請確定您知道在哪裡可以找到這些功能：
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 ![文字03](assets/t03.png)
 
-我們開始吧. 一個非常實用的上下文片段可以新增到任何Analysis Workspace專案，那就是超連結 — 這可以包括連結到報告中詳述的頁面的URL、連結到其他Analysis Workspace專案、外部報告上下文頁面的連結，或任何其他可能在檢視您的報告時方便使用的連結。 選取文字的任何部分並選取「連結」圖示，即可存取此功能：
+讓我們開始吧。 一個非常實用的上下文片段可以新增到任何Analysis Workspace專案，那就是超連結 — 這可以包括連結到報告中詳述的頁面的URL、連結到其他Analysis Workspace專案、外部報告上下文頁面的連結，或任何其他可能在檢視您的報告時方便使用的連結。 選取文字的任何部分並選取「連結」圖示，即可存取此功能：
 
 ![文字04](assets/t04.png)
 
@@ -48,22 +48,22 @@ ht-degree: 1%
 
 ![文字06](assets/t06.png)
 
-只要URL位於，您就可以將任何公用URL上可存取的影像新增至報表 *https* 格式及格式設為.png、.jpeg、.jpg或.gif — 雖然這聽起來很嚴格，但任何用來共用影像或GIF（如imgur或GIPHY）的線上工具，都可以提供使用「共用連結」快速上傳工作區可存取檔案的方法。
+您可以新增可在任何公用URL上存取的影像至您的報表，只要URL的格式為&#x200B;*https*，且格式為.png、.jpeg、.jpg或.gif — 雖然這聽起來可能有所限制，但任何用於共用影像或GIF（如imgur或GIPHY）的線上工具，都可提供使用共用連結來快速上傳Workspace可存取檔案的方法。
 
 結果如何？ 您可以在專案中顯示您的資料直接參照的網頁頁面：
 
 ![文字07](assets/t07.png)
 
-您也可以在專案中使用GIF來包含移動影像，例如網站逐步說明、透過您網站或應用程式上任務的理想路徑，或只是示範您的團隊如何進行 ***令人歎為觀止*** 您的報告現在已變成：
+您也可以在專案中使用GIF來包含移動影像，例如網站逐步說明、瀏覽網站的理想路徑或應用程式上的任務，或只是向您的團隊展示&#x200B;***令人歎為觀止的***&#x200B;您的報告現在變得如何：
 
 ![文字08](assets/t08.png)
 
 ## 作者
 
-本文件的作者為：
+本檔案的作者為：
 
 ![Dan Cummings](assets/text09.png)
 
-**Dan Cummings**，資深產品工程 [!DNL Analytics] 麥當勞經理
+**Dan Cummings**，McDonald&#39;s Corporation資深產品工程[!DNL Analytics]經理
 
-[!DNL Adobe Analytics] 冠軍
+[!DNL Adobe Analytics]冠軍

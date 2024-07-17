@@ -1,6 +1,6 @@
 ---
-title: 使用長條圖釋放深入分析；超過平均值 [!DNL Analytics]
-description: 探索長條圖在分析中的影響，以取得超過平均水準的深入分析。
+title: 使用長條圖解除鎖定深入分析；超出 [!DNL Analytics]的平均值
+description: 探索Analytics中長條圖的影響，以獲得超出平均值的深入分析。
 feature-set: Analytics
 feature: Visualizations
 role: User
@@ -12,24 +12,24 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 4%
+source-wordcount: '1091'
+ht-degree: 0%
 
 ---
 
-# 使用長條圖解鎖深入分析：運用 超越平均水平[!DNL Analytics]
+# 使用長條圖解除鎖定深入分析：超過[!DNL Analytics]中的平均值
 
-_探索長條圖在分析中的影響，以取得超過平均水準的深入分析。長條圖會顯示客戶行為、訪客參與度、技術績效和表單錯誤中的資料模式，從而在中提供更深入的分析和明智的決策。 [!DNL Adobe] 工作區。_
+_探索Analytics中長條圖的影響，以獲得超出平均值的深入分析。 長條圖會顯示客戶行為、訪客參與度、技術績效和表單錯誤中的資料模式，從而在[!DNL Adobe] Workspace中提供更深入的分析和明智的決策。_
 
-讓我們直接跳入。 您應使用 [長條圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant). 我將會解釋為什麼，但我想回答您的第一個問題：什麼是色階分佈圖？ 我明白了。 大多數時候，當你看到許多條狀圖上升，你可能會認為這是一個條狀圖。 是的，長條圖看起來確實類似，但我向你保證，它們是不一樣的。 長條圖會比較不同專案，而長條圖則顯示變數發生的頻率。 檢視一下。 以下是長條圖：
+讓我們直接跳入。 您應該使用[長條圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)。 我將會解釋為什麼，但我想回答您的第一個問題：什麼是色階分佈圖？ 我明白了。 大多數時候，當你看到許多條狀圖上升，你可能會認為這是一個條狀圖。 是的，長條圖看起來確實類似，但我向你保證，它們是不一樣的。 長條圖會比較不同專案，而長條圖則顯示變數發生的頻率。 檢視一下。 以下是長條圖：
 
-![橫條圖1](assets/bar-chart-1.png)
+![長條圖1](assets/bar-chart-1.png)
 
 我們有六個模型，我們可以比較每個模型的收入。 我們發現約翰內斯堡模式的收益最大，而柏林的收益最小。
 
 現在，讓我們來看看長條圖：
 
-![色階分佈圖1](assets/histogram-1.png)
+![長條圖1](assets/histogram-1.png)
 
 在x軸底部，我們有每位客戶購買的單位數。 第一個列代表客戶購買一個單位的頻率，第二個列顯示有多少客戶購買兩個單位，依此類推，最多可達購買10個或更多單位的客戶。
 
@@ -63,20 +63,20 @@ _探索長條圖在分析中的影響，以取得超過平均水準的深入分�
 
 - 技術錯誤 — 如果您看到每個訪客平均8.7個錯誤，就表示您有問題。 長條圖可顯示97%的訪客體驗到一或數個錯誤，但少數離群值正推動平均值上升。 然後您可能會認為花大量時間改善那一小群離群值的體驗是不值得的。
 
-  ![色階分佈圖3](assets/histogram-3.png)
+  ![長條圖3](assets/histogram-3.png)
 
 - 表單錯誤 — 如果每位訪客平均有3.6則表單錯誤訊息，表示有問題。 您可能會有與技術錯誤相同的極端值問題，不過如果看到長條圖中出現特定數目的錯誤，也會獲得深入分析。 一次錯誤是否達到巨大尖峰？ 這可能是所有這些訪客所經歷的常見問題，或者他們可能都遇到一次不同錯誤。 出現三個錯誤時的巨大尖峰？ 啊，現在這很有趣了。 如果這促使調查顯示這是相同的三個錯誤，則您已聚焦於可讓您瞭解訪客的資料，並協助您修正一組可能相互關聯的問題。
 
   ![長條圖4](assets/histogram-4.png)
 
-如您所見，長條圖不僅有自己的用途，也會加深您從平均值獲得的深入見解。 這是中立即可用的視覺效果 [!DNL Adobe Analytics] 且易於建立。 希望這些使用案例對您有所幫助，或引發一些靈感。 視覺化快樂！
+如您所見，長條圖不僅有自己的用途，也會加深您從平均值獲得的深入見解。 在[!DNL Adobe Analytics]中是現成的視覺效果，且易於建立。 希望這些使用案例對您有所幫助，或引發一些靈感。 視覺化快樂！
 
 ## 作者
 
-本文件的作者為：
+本檔案的作者為：
 
-![Gitai Ben-Ammi](assets/gitai-headshot.png)
+![吉泰本安美](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**，Concentrix Catalyst 首席顧問
+**Gitai Ben-Ammi**，Concentrix Catalyst的主要顧問
 
-[!DNL Adobe Analytics] 冠軍
+[!DNL Adobe Analytics]冠軍

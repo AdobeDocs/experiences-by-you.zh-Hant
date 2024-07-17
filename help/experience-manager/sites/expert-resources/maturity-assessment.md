@@ -11,7 +11,7 @@ last-substantial-update: 2023-11-03T00:00:00Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,12 @@ AEM成熟度評估主要針對內部部署和受管服務實作。 每個AEM實�
 
 * [管理最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
 * [開發最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [製作最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [編寫最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
 上述每一個最佳實務領域也包含編寫、開發和部署AEM的進一步最佳實務。
 
 在大多數情況下，AEM成熟度評估將有助於執行AEM最佳實務的診斷性審查，並產生主動發現、解決和防止潛在問題的藍圖。 我們建議您與也屬於AEM實施探索階段(AEM移轉前)的團隊一起完成評估。 應涉及的角色包括：應用程式擁有者、網站擁有者、開發團隊、技術負責人、安全性/基礎架構團隊、SEO團隊和支援團隊（例如內容作者、管理員）。
 
-建議的AEM成熟度評估重點領域：設計與架構、產品管理與策略、數位資產管理與交付、 [!DNL Analytics]、測試與安全性。
+建議的AEM成熟度評估重點領域：設計與架構、產品管理與策略、數位資產管理與傳遞、[!DNL Analytics]、測試與安全性。
 
 歡迎光臨AEM Champion Greg Dimeris，協助您彙集多篇Experience League文章中的資訊和他的最佳作法！

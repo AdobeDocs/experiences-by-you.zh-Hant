@@ -1,5 +1,5 @@
 ---
-title: 電子郵件計劃
+title: 電子郵件程式
 description: 瞭解如何使用A/B測試建立電子郵件計畫。
 role: User
 level: Beginner
@@ -13,12 +13,12 @@ feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 21%
+source-wordcount: '86'
+ht-degree: 24%
 
 ---
 
-# 電子郵件計劃
+# 電子郵件程式
 
 觀看此步驟式教學課程，了解如何使用 A/B 測試來建立電子郵件計劃。
 
@@ -31,7 +31,7 @@ ht-degree: 21%
 * [瞭解電子郵件程式檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 觀看其他影片以取得此功能的更多說明：
-* [排程的電子郵件逐步說明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [排程電子郵件逐步瀏覽](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
 * [AB測試逐步說明](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 向您的同業學習如何使用電子郵件計畫：

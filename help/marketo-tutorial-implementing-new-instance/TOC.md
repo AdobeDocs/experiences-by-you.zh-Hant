@@ -1,7 +1,7 @@
 ---
-user-guide-title: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
-user-guide-description: 教學課程 — 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
-breadcrumb-title: 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項
+user-guide-title: 教學課程 — 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
+user-guide-description: 教學課程 — 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
+breadcrumb-title: 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# 實作新功能的秘訣與技巧 [!DNL Marketo Engage] 例項 {#implementing-new-instance}
+# 實作新[!DNL Marketo Engage]執行個體的秘訣與技巧 {#implementing-new-instance}
 
 + [教學課程 — 概觀](./overview.md)
 + [管理利害關係人以實施Marketo Engage](./managing-stakeholder-communications.md)

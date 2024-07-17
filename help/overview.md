@@ -15,7 +15,7 @@ ht-degree: 9%
 
 # 依您的體驗：依使用者的資源，適用於使用者。
 
-最強大的功能 [!DNL Adobe] 數位體驗(DX)解決方案？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 _您的體驗_ 功能由日常使用者所建立的內容，這些使用者已對其擁有專業知識及影響力， [!DNL Adobe] DX解決方案 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
+[!DNL Adobe]數位體驗(DX)解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 _您的體驗_&#x200B;包含日常使用者所建立的內容，這些使用者已透過其[!DNL Adobe] DX解決方案獲得專業知識及影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>您可以在中使用的提示 [!DNL Analysis Workspace] 讓您的工作流程更有效率。</em>
+    <em>您可以在[!DNL Analysis Workspace]中使用的秘訣，讓工作流程更有效率。</em>
     <p>
   </td>
   <td>
@@ -53,12 +53,12 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>逐步教學課程，瞭解如何使用A/B測試建立電子郵件計畫。</em>
+    <em>逐步教學課程，瞭解如何使用A/B測試建立電子郵件程式。</em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEMas a Cloud Service入門行動手冊" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="AEM as a Cloud Service入門行動手冊" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
@@ -66,7 +66,7 @@ ht-degree: 9%
     </a>
     </div>
     <p>
-    <em>入門行動手冊可幫助您作為新的管理員和開發人員負責 [!DNL AEM as a Cloud Service].</em>
+    <em>入門行動手冊可協助您充當[!DNL AEM as a Cloud Service]的新管理員和開發人員。</em>
     <p>
   </td>
 </tr>
