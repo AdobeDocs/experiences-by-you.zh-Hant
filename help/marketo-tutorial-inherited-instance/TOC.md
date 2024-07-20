@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
+source-git-commit: c12419cd6b831c31d47534b470965bc223d50be9
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 2%
 + [以視覺化方式呈現您的行銷技術棧疊](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [計畫啟動前品質保證程式](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
-+ [[!DNL Marketo Engage] 由您](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [回到檢視方塊](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
