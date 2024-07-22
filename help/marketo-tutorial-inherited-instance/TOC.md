@@ -25,4 +25,4 @@ ht-degree: 2%
 + [以視覺化方式呈現您的行銷技術棧疊](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [計畫啟動前品質保證程式](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
-+ [回到檢視方塊](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [回到檢視方塊](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&aq=&#40;&#40;%40el_contenttype%20NOT%20%22Community%7CUser%22&#41;%20AND%20&#40;%40el_contenttype%3D%22perspective%22&#41;&#41;)
