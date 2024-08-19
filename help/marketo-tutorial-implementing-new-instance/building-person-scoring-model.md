@@ -1,6 +1,6 @@
 ---
-title: 為Marketo Engage方案建立人員評分模型
-description: Adobe Marketo Engage可讓您從頭開始建立您的評分模型。 在您直接跳入Marketo Engage以建立您的評分方案之前，您必須設定基本分數欄位，例如人口統計分數、行為分數和人員總分數。 進一步瞭解Marketo Engage冠軍用於開發符合您業務需求的評分模型的策略。
+title: 為Marketo Engage方案建立個人評分模型
+description: 瞭解如何從頭開始建立您的評分模型。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 人員評分可協助您識別與貴公司最密切互動、且是您理想客戶設定檔的人員，以便您可與銷售團隊共用這些銷售機會並完成交易！ 與銷售搭配使用，您可以使用Adobe Marketo Engage中的銷售機會/人員評分方案，決定您要將哪些銷售機會交給他們。 這可以由行為評分和/或人口統計評分的最低值決定。
 
-在本教學課程中，我們將逐步解說由Marketo EngageChampions Christina Zuniga和Katja Keesom建議的三個練習。 接著判斷哪些活動和特性是潛在客戶有興趣購買（行為評分）的重要指標，且最適合您（人口統計評分），並解決各市場的細微差別。
+在本教學課程中，我們將逐步引導您瞭解Marketo EngageChampions Christina Zuniga和Katja Keesom建議的三項練習。 接著判斷哪些活動和特性是潛在客戶有興趣購買（行為評分）的重要指標，且最適合您（人口統計評分），並解決各市場的細微差別。
 
 ## 為何要開發和使用人員評分模型？
 
@@ -162,7 +162,7 @@ ht-degree: 2%
     <th>實作主題</th>
     <th>人口統計/行為</th>
     <th>主題</th>
-    <th>優先等級</th>
+    <th>優先順序</th>
     <th>值</th>
     <th>分數</th>
  </tr>

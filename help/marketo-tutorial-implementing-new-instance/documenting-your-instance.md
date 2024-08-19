@@ -1,5 +1,5 @@
 ---
-title: 執行個體治理和檔案快速入門
+title: 開始使用執行個體治理和檔案
 description: 瞭解開始使用Marketo Engage治理和檔案的基本策略和最佳實務。 探索如何建立可擴充的檔案、簡化使用者培訓，並確保在Marketo Engage例項中使用結構來建置。
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%

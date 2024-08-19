@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 在執行初始同步之前，識別並組織您要從CRM同步的欄位，是原生聯結器設定流程中的關鍵步驟。 我們稱之為資料字典練習，可幫助您將建立的重複欄位數降到最低，並讓任何後續的重新對應步驟儘可能順暢地進行。 此練習通常包含行銷和銷售團隊以及您的CRM管理員的輸入內容，以確保只有相關欄位才會同步至您的Marketo Engage執行個體。
 
-## 如何建置您的資料字典
+## 建置您的資料字典
 
 一般而言，最佳實務是僅同步行銷所需的CRM欄位。 從這項練習開始，以整理CRM中需要對應至Marketo Engage的欄位，並在第一次正確執行初始CRM同步。
 

@@ -11,7 +11,7 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '4903'
 ht-degree: 2%
@@ -201,7 +201,7 @@ ht-degree: 2%
 
 ## 接下來呢？
 
-按一下[這裡](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下載可編輯的程式啟動前檢查清單，供您自訂。 請記住，這應該根據您組織的工作流程進行調整。 開發有效的QA程式，可讓您持續負起責任，並限制客戶面對的錯誤。
+按一下[這裡](/help/marketo-tutorial-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)下載可編輯的程式啟動前檢查清單，供您自訂。 請記住，這應該根據您組織的工作流程進行調整。 開發有效的QA程式，可讓您持續負起責任，並限制客戶面對的錯誤。
 
 ### 作者
 
