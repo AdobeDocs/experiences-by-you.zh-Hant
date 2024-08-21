@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 2%
 | 3 | **程式命名慣例** | 這組是否正確遵循您的命名慣例？ 連結至您的命名慣例工具或試算表（若有）。 | 公式： [方案型別] - [日期] [類別]： [簡短描述] | **是：** <br>如果您無法以「是」回答此問題或無法確定，請檢閱您的命名慣例，並視需要更新程式名稱。 | [組織新 [!DNL Marketo Engage] 執行個體](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance.html){target="_blank"}的最佳實務 |
 | 4 | **期間成本** | 您是否已指派期間成本標籤給程式？ | 如果您花費1000美元製作一部在7月推出的電子書，則該計畫在7月的期間成本為1000美元。 | **是：** <br>如果您無法以「是」回答這個問題，請新增期間成本，即使它只有零！ | [在方案中使用期間成本](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.html){target="_blank"} |
 | 5 | **成功** | 您確定計畫的目標和成功量度了嗎？ 您知道要如何測量此計畫嗎？ 您是否已用計畫狀態變更標籤它？ | 如果這是「聊天」頻道，則狀態進度可以是「成員」、「參與」和「已轉換」。 | **是：** <br>如果您無法以「是」回答此問題，就無法輕易瞭解您的行銷活動是否造成任何影響。 識別您的主要目標是什麼，然後是一種衡量它的方法 — 即使它是在7天後手動匯入清單。 | [程式狀態](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html#program-statuses){target="_blank"} |
-| 6 | **閱聽眾** | 您是否已識別計畫的對象？ |  | **是：** <br>如果您無法以「是」回答這個問題，請在計畫傳送之前先檢視。 |  |
+| 6 | **客群** | 您是否已識別計畫的對象？ |  | **是：** <br>如果您無法以「是」回答這個問題，請在計畫傳送之前先檢視。 |  |
 | 7 | **代號** | 您是否已更新所有必要的計畫代號？ | 如果是網路研討會程式，您是否已更新活動日期、活動標題、說明和行事曆檔案等？ | **是或不適用** <br>如果您無法以「是」回答或不知道它是否適用，請檢查您的程式「Token」索引標籤。 檢視程式是否包含必須更新的任何本機權杖 | [瞭解程式中的我的Token](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"} |
 
 >[!TAB 網頁Personalization行銷活動]
@@ -150,7 +150,7 @@ ht-degree: 2%
 | 3 | **排除專案** | 是否包含任何必要的排除專案（例如競爭者、取消訂閱封鎖清單） | **是或不適用：** <br>您必須篩選掉取消訂閱專案，除非您有非常好、符合法律規定的理由。 如果您未包含任何這些內容、行銷活動規則及法律依據，請務必確信。 | [瞭解取消訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"}<br><br>[變更資料值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"} |
 | 4 | **主要清單** | 是否在適當時使用主要清單/區段？ | **是或不適用：**&#x200B;主要清單/區段旨在減少您必須參考的欄位數目，並降低人為錯誤的風險。 如果未使用主要清單/區段，您應該對規則有信心。 | [定義區段規則](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
 
->[!TAB 閱聽眾]
+>[!TAB 客群]
 
 | # | 評論區域 | 要問的問題 | 接受條件 | 其他資源 |
 |---|---|---|---|---|
