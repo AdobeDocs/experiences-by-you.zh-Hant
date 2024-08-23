@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
+source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
@@ -61,3 +61,4 @@ ht-degree: 1%
 
 * [使用最佳做法檢查清單實作新的Marketo Engage執行個體](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *每個檢查清單都提供您追蹤設定進度的寶貴步驟。 使用可下載的核對清單來記錄您在此過程中的工作，以便未來執行個體稽核和使用者上線。*
+
