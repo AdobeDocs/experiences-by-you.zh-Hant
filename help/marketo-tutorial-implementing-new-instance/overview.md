@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
 # 實作新[!DNL Marketo Engage]執行個體的秘訣與技巧
 
-歡迎使用Adobe[!DNL Marketo Engage]！ 設定新執行個體是提升數位行銷策略與行銷自動化程度的第一步。 成功[!DNL Marketo Engage]實作的關鍵是檔案。
+歡迎使用Adobe[!DNL Marketo Engage]！ 設定新執行個體是透過行銷自動化提升您的數位行銷策略的第一步。 成功[!DNL Marketo Engage]實作的關鍵是檔案。
 
-此&#x200B;_實作新執行個體秘訣和技巧_&#x200B;系列是來源於Adobe[!DNL Marketo Engage]個曾征服過實作的Champion。 本教學課程提供逐步指南，引導新管理員跨職能管理實作專案，並獨立設定技術設定。 選擇性主題也會隨附可下載的核對清單和範本，讓您無需從頭開始，即可根據自己的需求自訂。 讓我們深入瞭解一下同行的智慧！
+此「實作新執行個體秘訣與技巧」系列源自於先前征服過實作的Adobe[!DNL Marketo Engage] Champions。 本教學課程為新管理員提供逐步指南，讓他們跨功能管理實作專案，並獨立設定技術設定。 選擇性主題也會隨附可下載的核對清單和範本，讓您無需從頭開始，即可根據自己的需求自訂。 讓我們深入瞭解一下同行的智慧！
 
 ## 主題和您將學到的內容
 
@@ -50,7 +50,7 @@ ht-degree: 0%
   *瞭解如何在您的Marketo Engage執行個體中設定良好的組織，好讓組織內的未來行銷人員能夠輕鬆瀏覽計畫、修改資產和提取報告。*
 <br>
 
-* [使用Dynamic Chat設計全通路對話式行銷](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [使用 Dynamic Chat 設計全管道對話式行銷](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *透過Adobe Marketo Engage中的原生對話式參與管道Adobe Dynamic Chat，快速開始設計對話式行銷。 此教學課程提供可操作的秘訣，以實作銷售會議預訂、網站內容參與和活動/網路研討會促銷等使用案例。*
 <br>
 
