@@ -1,16 +1,15 @@
 ---
 user-guide-title: 教學課程 — 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
 user-guide-description: 教學課程 — 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
-breadcrumb-title: 實作新 [!DNL Marketo Engage] 執行個體的秘訣與技巧
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
+breadcrumb-title: 正在實作新的 [!DNL Marketo Engage] 執行個體
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 3%
 
 + [教學課程概覽](./overview.md)
 + [管理利害關係人以實施Marketo Engage](./managing-stakeholder-communications.md)
-+ [針對您的Marketo Engage實作進行規劃](./planning-for-new-implementation.md)
++ [針對Marketo Engage實作進行規劃](./planning-for-new-implementation.md)
 + [開發內部上線和訓練路演](./internal-training-roadshow.md)
 + [建立銷售機會/個人評分模型](./building-person-scoring-model.md)
 + [原生CRM聯結器的同步欄位](./syncing-fields-for-crm-integration.md)
