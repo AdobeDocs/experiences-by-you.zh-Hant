@@ -21,7 +21,7 @@ ht-degree: 0%
 
 _探索Analytics中長條圖的影響，以獲得超出平均值的深入分析。 長條圖會顯示客戶行為、訪客參與度、技術績效和表單錯誤中的資料模式，從而在[!DNL Adobe] Workspace中提供更深入的分析和明智的決策。_
 
-讓我們直接跳入。 您應該使用[長條圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)。 我將會解釋為什麼，但我想回答您的第一個問題：什麼是色階分佈圖？ 我明白了。 大多數時候，當你看到許多條狀圖上升，你可能會認為這是一個條狀圖。 是的，長條圖看起來確實類似，但我向你保證，它們是不一樣的。 長條圖會比較不同專案，而長條圖則顯示變數發生的頻率。 檢視一下。 以下是長條圖：
+讓我們直接跳入。 您應該使用[長條圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。 我將會解釋為什麼，但我想回答您的第一個問題：什麼是色階分佈圖？ 我明白了。 大多數時候，當你看到許多條狀圖上升，你可能會認為這是一個條狀圖。 是的，長條圖看起來確實類似，但我向你保證，它們是不一樣的。 長條圖會比較不同專案，而長條圖則顯示變數發生的頻率。 檢視一下。 以下是長條圖：
 
 ![長條圖1](assets/bar-chart-1.png)
 

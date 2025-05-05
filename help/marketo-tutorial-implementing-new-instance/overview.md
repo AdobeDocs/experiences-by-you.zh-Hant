@@ -42,8 +42,8 @@ ht-degree: 1%
 
 * [正在同步處理原生CRM聯結器的欄位](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *瞭解如何策略性地選取要供Marketo Engage使用的基本CRM欄位，以簡化您的初始CRM整合。 進行資料字典練習，找出您需要的欄位，以順利進行CRM同步處理，協助銷售與行銷團隊維持一致。*
-   * [開始使用Salesforce sync](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [開始使用Microsoft Dynamics sync](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [開始使用Salesforce sync](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [開始使用Microsoft Dynamics sync](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [組織新執行個體並建立命名慣例](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ ht-degree: 1%
 
 ## 其他資源
 
-* [使用最佳做法檢查清單實作新的Marketo Engage執行個體](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [使用最佳做法檢查清單實作新的Marketo Engage執行個體](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *每個檢查清單都提供您追蹤設定進度的寶貴步驟。 使用可下載的核對清單來記錄您在此過程中的工作，以便未來執行個體稽核和使用者上線。*
 

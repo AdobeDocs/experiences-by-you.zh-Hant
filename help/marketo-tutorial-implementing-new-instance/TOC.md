@@ -27,4 +27,4 @@ ht-degree: 3%
 + [使用Dynamic Chat設計全通路對話式行銷](./designing-omnichannel-conversational-marketing.md)
 + [開始使用執行個體治理和檔案](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
-+ [回到觀點](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [回到觀點](https://experienceleague.adobe.com/zh-hant/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

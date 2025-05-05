@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 瞭解實作：
 
-  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
+  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hant) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
 
 * 使用報表範本：
 

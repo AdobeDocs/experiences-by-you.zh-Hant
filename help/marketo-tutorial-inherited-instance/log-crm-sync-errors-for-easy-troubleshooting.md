@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 記錄CRM同步錯誤以進行疑難排解
 
-身為[!DNL Marketo Engage]管理員，檢查執行個體是否與CRM同步應該是您[每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的關鍵部分。 雖然[通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} （在[!DNL Marketo Engage]介面的右上角找到）是您開始尋找和調查經常同步問題的地方，但有一個專業秘訣可幫助您以有條理的方式管理執行個體的健康狀況。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤記錄，以便更輕鬆進行疑難排解。
+身為[!DNL Marketo Engage]管理員，檢查執行個體是否與CRM同步應該是您[每日常式](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}的關鍵部分。 雖然[通知區段](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=zh-Hant){target="_blank"} （在[!DNL Marketo Engage]介面的右上角找到）是您開始尋找和調查經常同步問題的地方，但有一個專業秘訣可幫助您以有條理的方式管理執行個體的健康狀況。 [!DNL Adobe] Marketo Champion (2019-2022)，Amy Goldfine建議管理員使用者保留CRM同步錯誤記錄，以便更輕鬆進行疑難排解。
 
 ![同步處理錯誤索引標籤的熒幕擷圖](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 **步驟1：**&#x200B;移至[!DNL Marketo Engage]中的&#x200B;*[!UICONTROL 管理員]區段*。 在「*[!UICONTROL 整合]*」下，根據您使用的[!DNL CRM]，按一下「*[!DNL Salesforce]*」、「*[!DNL Microsoft Dynamics]*」或「*[!DNL Veeva]*」，然後按一下「*[!UICONTROL 同步錯誤]*」索引標籤。
 
-**步驟2：**&#x200B;您可以透過[!UICONTROL 篩選器]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}，選擇將錯誤的記錄匯出為 [!DNL CSV] 檔案。 如果您只有幾個小時，直接從&#x200B;*[!UICONTROL 同步處理錯誤]*&#x200B;索引標籤複製並貼上會是很好的方法。
+**步驟2：**&#x200B;您可以透過[!UICONTROL 篩選器]面板[&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=zh-Hant#filter-sync-errors){target="_blank"}，選擇將錯誤的記錄匯出為 [!DNL CSV] 檔案。 如果您只有幾個小時，直接從&#x200B;*[!UICONTROL 同步處理錯誤]*&#x200B;索引標籤複製並貼上會是很好的方法。
 
 **步驟3：**&#x200B;記下發生錯誤的日期。
 

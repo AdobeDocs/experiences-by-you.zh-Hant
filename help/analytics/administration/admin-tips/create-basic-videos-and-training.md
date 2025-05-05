@@ -35,7 +35,7 @@ ht-degree: 0%
 
 然後，您就可以輕鬆地將使用者指向這些內容，而無需撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多秘訣和技巧，請檢視[[!DNL Adobe] 達人Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"}，說明如何簡化和減少培訓使用者的時間。
 
-此外，在[!DNL Adobe]Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}。 如果您需要貴公司專屬的資料和業務KPI影片，那麼請務必自行錄製影片。 但是，如果普通的教學影片就足以滿足需求，您就不需要重新發明方向盤。
+此外，在[!DNL Adobe]Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/zh-hant?lang=en#dashboard/learning){target="_blank"}。 如果您需要貴公司專屬的資料和業務KPI影片，那麼請務必自行錄製影片。 但是，如果普通的教學影片就足以滿足需求，您就不需要重新發明方向盤。
 
 ## 作者
 

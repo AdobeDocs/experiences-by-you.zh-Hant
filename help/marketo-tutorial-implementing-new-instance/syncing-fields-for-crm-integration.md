@@ -27,7 +27,7 @@ ht-degree: 0%
 
 將CRM與Marketo Engage整合時，您可能不需要同步處理所有CRM欄位以進行Marketo Engage。 對您所需的欄位採取策略性態度，有助於您的Marketo Engage執行個體更有效率地處理資料流程。
 
-您的Marketo Engage與CRM系統之間的初始同步會自動關聯大部分的現有標準欄位（即電子郵件、名字/姓氏、公司等）。 此外，聯結器也會透過在Marketo Engage中建立新欄位，這些欄位會自動對應至您CRM中的那些欄位，來同步您的銷售機會、連絡人、帳戶和機會的[自訂欄位](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}。
+您的Marketo Engage與CRM系統之間的初始同步會自動關聯大部分的現有標準欄位（即電子郵件、名字/姓氏、公司等）。 此外，聯結器也會透過在Marketo Engage中建立新欄位，這些欄位會自動對應至您CRM中的那些欄位，來同步您的銷售機會、連絡人、帳戶和機會的[自訂欄位](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}。
 
 在執行初始同步之前，識別並組織您要從CRM同步的欄位，是原生聯結器設定流程中的關鍵步驟。 我們稱之為資料字典練習，可幫助您將建立的重複欄位數降到最低，並讓任何後續的重新對應步驟儘可能順暢地進行。 此練習通常包含行銷和銷售團隊以及您的CRM管理員的輸入內容，以確保只有相關欄位才會同步至您的Marketo Engage執行個體。
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 一般而言，最佳實務是僅同步行銷所需的CRM欄位。 從這項練習開始，以整理CRM中需要對應至Marketo Engage的欄位，並在第一次正確執行初始CRM同步。
 
 >[!NOTE]
->如果您的CRM中有自訂欄位，在開始初始Marketo Engage前已有對應的自訂欄位，則會在Marketo Engage中為CRM欄位建立新的「重複」欄位。 您可以將CRM欄位重新對應到原始Marketo Engage欄位，並在初始同步完成後隱藏重複欄位，但您需要聯絡[Adobe客戶支援](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}才能這樣做。 如需詳細資訊，請參閱步驟7。
+>如果您的CRM中有自訂欄位，在開始初始Marketo Engage前已有對應的自訂欄位，則會在Marketo Engage中為CRM欄位建立新的「重複」欄位。 您可以將CRM欄位重新對應到原始Marketo Engage欄位，並在初始同步完成後隱藏重複欄位，但您需要聯絡[Adobe客戶支援](https://experienceleague.adobe.com/zh-hant/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}才能這樣做。 如需詳細資訊，請參閱步驟7。
 
 **步驟1：**&#x200B;建立CRM中目前可用欄位的粗略清單，並標示是否要以Marketo Engage顯示。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 * 決定這些欄位應該具有的存取Marketo Engage層級（即唯讀或讀寫）
 
 
-**步驟2：**&#x200B;檢閱您Marketo Engage執行個體的[管理員>欄位管理區段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce){target="_blank"}，以識別先前在系統中直接建立且您想要納入同步的任何自訂欄位。
+**步驟2：**&#x200B;檢閱您Marketo Engage執行個體的[管理員>欄位管理區段](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce){target="_blank"}，以識別先前在系統中直接建立且您想要納入同步的任何自訂欄位。
 
 * 記錄每個欄位的API名稱和欄位型別。
 * 表示在您的CRM中已有相同欄位的欄位。
@@ -58,7 +58,7 @@ ht-degree: 0%
 
    * 第一欄：Marketo Engage欄位名稱
    * 第二欄：Marketo EngageAPI名稱
-   * 第三欄： [Marketo Engage欄位型別](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} （亦即布林值、貨幣、日期等）
+   * 第三欄： [Marketo Engage欄位型別](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} （亦即布林值、貨幣、日期等）
    * 在後續欄中，針對CRM物件型別（銷售機會、連絡人、帳戶、機會）重複此步驟，並加入您希望Marketo Engage存取層級的額外欄（即讀取、寫入、編輯）
 
   <br>
@@ -69,12 +69,12 @@ ht-degree: 0%
 
 * 首先，新增將自動對應至CRM的預設欄位：
 
-   * [Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
-   * [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
-   * [Veeva](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
+   * [Salesforce](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
+   * [Microsoft Dynamics](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
+   * [Veeva](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * 確認Marketo Engage中的每個預設欄位都符合您CRM中要同步處理的欄位。 例如，Marketo Engage中的「已取消訂閱」欄位可能是您CRM中的「電子郵件選擇退出」欄位。
-* 必要時調整CRM API名稱、許可權和[資料型別](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}。
+* 必要時調整CRM API名稱、許可權和[資料型別](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}。
 
 **步驟4：**&#x200B;新增其他欄位至資料字典
 
@@ -84,21 +84,21 @@ ht-degree: 0%
 * 如果兩個系統中都有相等的欄位，請將它們加入同一行，並在「資料字典」工作表最右側的「附註」區段中指定它們需要重新對應。
 
 >[!NOTE]
->如果您打算建立同步篩選器欄位([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"})，請確定包含在此步驟中，但將API名稱保留空白，直到在您的CRM中建立欄位為止。
+>如果您打算建立同步篩選器欄位([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"})，請確定包含在此步驟中，但將API名稱保留空白，直到在您的CRM中建立欄位為止。
 
 **步驟5：**&#x200B;與您的CRM管理員檢閱資料字典
 
 * 在CRM中為Marketo Engage中已存在的欄位建立欄位，並使用新CRM欄位的顯示和API名稱更新資料字典。
 * 在您的CRM ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"})中的潛在客戶與連絡人物件之間執行欄位對應 | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"})。 當Lead轉換為Contact時，這可確保可將欄位合併為Marketo Engage的單一欄位。
 * 請確定Marketo同步設定檔具有適當許可權，可存取資料字典中所述的每個欄位：
-   * [在Salesforce中設定設定檔許可權](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
-   * [在Microsoft Dynamics中設定設定檔許可權](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
-   * [在Veeva中設定設定檔許可權](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
+   * [在Salesforce中設定設定檔許可權](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
+   * [在Microsoft Dynamics中設定設定檔許可權](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
+   * [在Veeva中設定設定檔許可權](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
 
 **步驟6：**&#x200B;執行初始同步
 
 * 請確認您要與Marketo Engage同步的所有欄位，在CRM中都具有資料字典所定義的適當許可權。
-* 確定您&#x200B;**不**&#x200B;想要與Marketo Engage同步的所有欄位在Marketo同步設定檔中[隱藏](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}。 在稍後新增欄位至同步處理會比移除無意同步處理的欄位容易得多。
+* 確定您&#x200B;**不**&#x200B;想要與Marketo Engage同步的所有欄位在Marketo同步設定檔中[隱藏](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}。 在稍後新增欄位至同步處理會比移除無意同步處理的欄位容易得多。
 * 您是否將CRM連線至「同步篩選器」欄位？ 如果您同步至Salesforce，請聯絡Adobe客戶支援，以確保篩選功能在開始初始同步處理前已開啟。
 
 
@@ -134,21 +134,21 @@ ht-degree: 0%
 
 +++**視訊中使用的連結：**
 
-* [瞭解Salesforce同步處理](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync){target="_blank"}
+* [瞭解Salesforce同步處理](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync){target="_blank"}
 
-* [新增Marketo欄位至Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited){target="_blank"}
+* [新增Marketo欄位至Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited){target="_blank"}
 
-* [在Salesforce (Enterprise/Unlimited)中建立Marketo使用者](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited){target="_blank"}
+* [在Salesforce (Enterprise/Unlimited)中建立Marketo使用者](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited){target="_blank"}
 
-* [連線Marketo與Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited){target="_blank"}
+* [連線Marketo與Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited){target="_blank"}
 
-* [使用者需要先在Salesforce端設定連線應用程式，才能繼續進行Marketo和Salesforce Sync。](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0){target="_blank"}
+* [使用者需要先在Salesforce端設定連線應用程式，才能繼續進行Marketo和Salesforce Sync。](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0){target="_blank"}
 
-* [Salesforce同步處理狀態](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status){target="_blank"}
+* [Salesforce同步處理狀態](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status){target="_blank"}
 
-* [隱藏和取消隱藏欄位](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field){target="_blank"}
+* [隱藏和取消隱藏欄位](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field){target="_blank"}
 
-* [教學課程：瞭解如何將Marketo同步至您的CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
+* [教學課程：瞭解如何將Marketo同步至您的CRM](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -160,27 +160,27 @@ ht-degree: 0%
 
 +++**視訊中使用的連結：**
 
-* [瞭解Microsoft Dynamics同步處理](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync){target="_blank"}
+* [瞭解Microsoft Dynamics同步處理](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync){target="_blank"}
 
-* [下載Marketo銷售機會管理解決方案](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution){target="_blank"}
+* [下載Marketo銷售機會管理解決方案](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution){target="_blank"}
 
-* [更新Microsoft Dynamics的Marketo解決方案](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics){target="_blank"}
+* [更新Microsoft Dynamics的Marketo解決方案](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics){target="_blank"}
 
-* [授予使用者端ID和應用程式註冊的同意](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration)
+* [授予使用者端ID和應用程式註冊的同意](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration)
 
-* [驗證Microsoft Dynamics同步處理](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync){target="_blank"}
+* [驗證Microsoft Dynamics同步處理](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync){target="_blank"}
 
-* [同步處理狀態](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status){target="_blank"}
+* [同步處理狀態](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status){target="_blank"}
 
-* [修正Dynamics驗證同步處理問題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues){target="_blank"}
+* [修正Dynamics驗證同步處理問題](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues){target="_blank"}
 
-* [建立自訂Dynamics同步篩選器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
+* [建立自訂Dynamics同步篩選器](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter.html?lang=zh-Hant){target="_blank"}
 
-* [檢視組織服務URL](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url){target="_blank"}
+* [檢視組織服務URL](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url){target="_blank"}
 
-* 在Dynamics中刪除欄位之前[正在編輯要同步的欄位](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics){target="_blank"}
+* 在Dynamics中刪除欄位之前[正在編輯要同步的欄位](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics){target="_blank"}
 
-* [教學課程：瞭解如何將Marketo同步至您的CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
+* [教學課程：瞭解如何將Marketo同步至您的CRM](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 

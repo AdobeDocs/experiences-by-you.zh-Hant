@@ -65,7 +65,7 @@ _瞭解測量會議。 使用漏斗對應，將計畫的每個步驟視覺化。
 1. 與設計師和產品經理一起完成每個步驟，並討論在該漏斗中所有人都認為成功的因素。 這是轉換率嗎？ 它是否選擇特定路徑？ 它使用某些功能嗎？
 1. 詢問哪些量度和維度是瞭解漏斗每個步驟及整體效能的必要條件。
 1. 在漏斗的每個步驟上方，新增在該步驟中測量的量度和維度，包括計算量度。
-1. 在每個漏斗的開頭，寫出進入控制面板的報告，產品經理可以使用它來追蹤效能。 這些報表包括[流失報表](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[當月](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趨勢轉換率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)，以及該漏斗的其他特定專案。
+1. 在每個漏斗的開頭，寫出進入控制面板的報告，產品經理可以使用它來追蹤效能。 這些報表包括[流失報表](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[當月](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趨勢轉換率](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/visualizations/line)，以及該漏斗的其他特定專案。
 1. 將您發現的新量度和維度新增至SDR，並傳送給利害關係人進行第二次審查。
 
 ### 預覽儀表板

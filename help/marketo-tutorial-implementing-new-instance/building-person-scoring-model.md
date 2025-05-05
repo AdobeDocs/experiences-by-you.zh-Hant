@@ -234,7 +234,7 @@ ht-degree: 2%
 ## 接下來呢？
 
 * 下載[個人評分練習表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}以離線開發您的評分模型。
-* 在Marketo Engage中建立您的個人分數。 檢查此[教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[示範](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以開始。 您可以從Marketo Engage參考資料庫匯入銷售機會/人員評分方案[範本](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速方案建置。
+* 在Marketo Engage中建立您的個人分數。 檢查此[教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[示範](https://experienceleague.adobe.com/zh-hant/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以開始。 您可以從Marketo Engage參考資料庫匯入銷售機會/人員評分方案[範本](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速方案建置。
 * 建立兩個版本的評分方案：
    * 執行無法在本機更新的所有評分的中央程式。
    * 具有可設定評分元素的本機副本。
@@ -244,8 +244,8 @@ ht-degree: 2%
    * 決定哪些人口統計和行為活動應該只分數一次（即產業），以及哪些在潛在客戶每次符合資格時應該分數（即參加網路研討會）。 這可確保資料值變更所觸發的潛在聯絡人與銷售相關。
    * 請確定您的選擇互斥。
    * 在兩個流程步驟中進行更新，以便以與「人口統計分數」相同的方式更新人員分數。 如此一來，個人分數將與行為分數和人口統計分數的組合保持一致。
-* 完成方案建立後，請測試Smart Campaign。 例如，請移至您的示範表單，填寫測試電子郵件，並在[Marketo Engage資料庫](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中檢查測試人員的分數。
-* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解如何使用此[教學課程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}設定警示。
+* 完成方案建立後，請測試Smart Campaign。 例如，請移至您的示範表單，填寫測試電子郵件，並在[Marketo Engage資料庫](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中檢查測試人員的分數。
+* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解如何使用此[教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}設定警示。
 
 ### 作者
 

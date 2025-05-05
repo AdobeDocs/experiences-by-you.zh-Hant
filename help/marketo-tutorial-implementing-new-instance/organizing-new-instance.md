@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## 為何需要建構資料夾並套用命名慣例？
 
-在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要組織執行個體中的導覽樹狀結構並大規模建置，建議使用[資料夾](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準命名慣例](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
+在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要組織執行個體中的導覽樹狀結構並大規模建置，建議使用[資料夾](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準命名慣例](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[複製](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
 ## 如何組織Marketo Engage例項
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ### 步驟1 — 設定檔案夾結構以整理您的程式
 
-組織執行個體的第一個步驟是[設定資料夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易於找到且有序的方式存放您的程式和資產。
+組織執行個體的第一個步驟是[設定資料夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=zh-Hant)以易於找到且有序的方式存放您的程式和資產。
 
 在樹狀結構中建構資料夾時，以下是一些快速秘訣：
 

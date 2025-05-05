@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # 現在只需等待區段……使用區段在Analysis Workspace中探索新的深入分析
 
-無論您是新[!DNL Adobe Analytics]使用者或經驗豐富的專家，都將在您的Analysis Workspace專案中善用一些區段。 如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en)所述，「區段可讓您根據特性或網站互動來識別訪客的子集」。 雖然此功能的基本成果表示將使用者群組、造訪或點選隔離到您的網站，但像您這樣思維敏銳的分析人員可以使用此工具發揮創意，並找到獲得有關網站活動深入分析的新方式。 可能的選項清單非常龐大，所以請隨時嘗試建立您自己的選項，並在您的組織或社群(例如Experience League上的[[!DNL Adobe Analytics] 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或Slack[#Measure社群](https://www.measure.chat/)社群)中與他人分享。
+無論您是新[!DNL Adobe Analytics]使用者或經驗豐富的專家，都將在您的Analysis Workspace專案中善用一些區段。 如[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hant)所述，「區段可讓您根據特性或網站互動來識別訪客的子集」。 雖然此功能的基本成果表示將使用者群組、造訪或點選隔離到您的網站，但像您這樣思維敏銳的分析人員可以使用此工具發揮創意，並找到獲得有關網站活動深入分析的新方式。 可能的選項清單非常龐大，所以請隨時嘗試建立您自己的選項，並在您的組織或社群(例如Experience League上的[[!DNL Adobe Analytics] 社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或Slack[#Measure社群](https://www.measure.chat/)社群)中與他人分享。
 
-如果您需要有關如何建立區段的快速複習程式，請參閱有關在Analysis Workspace中使用[區段產生器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en)的Experience League檔案。
+如果您需要有關如何建立區段的快速複習程式，請參閱有關在Analysis Workspace中使用[區段產生器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hant)的Experience League檔案。
 
 ## 比較和對比區段
 
-在Analysis Workspace中，您可以使用&quot;[區段比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=en)&quot;來比較兩個區段。 區段比較可在左側導覽列的「面板」區段中找到：
+在Analysis Workspace中，您可以使用&quot;[區段比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=zh-Hant)&quot;來比較兩個區段。 區段比較可在左側導覽列的「面板」區段中找到：
 
 ![區段01](assets/seg01.png)
 
 不過，有時您不需要完整的比較面板，就能將關鍵深入解析帶給一般使用者。 值得慶幸的是，某些功能也可以在標準面板中比較。
 
-[文氏圖表視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=en)可協助建立快速比較，讓您暫留並檢視重疊的工作階段、訂單、使用者等。 介於2至3個自訂區段之間。 您也可以對任何重疊區段按一下滑鼠右鍵，以快速建立區段：
+[文氏圖表視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hant)可協助建立快速比較，讓您暫留並檢視重疊的工作階段、訂單、使用者等。 介於2至3個自訂區段之間。 您也可以對任何重疊區段按一下滑鼠右鍵，以快速建立區段：
 
 ![區段02](assets/s02.png)
 

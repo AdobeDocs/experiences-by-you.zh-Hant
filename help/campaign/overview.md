@@ -46,7 +46,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="行銷人員疑難排解" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="行銷人員疑難排解" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=zh-Hant" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Adobe Campaign 成功行銷的十大最佳實務" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Adobe Campaign 成功行銷的十大最佳實務" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=zh-Hant" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -79,6 +79,6 @@ ht-degree: 26%
 
 * [Experience LeagueAdobe Campaign社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * Adobe Campaign v8 - [檔案](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
-* Adobe Campaign Classic v7 - [檔案](https://experienceleague.adobe.com/docs/campaign-classic.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
-* Adobe Campaign Standard - [檔案](https://experienceleague.adobe.com/docs/campaign-standard.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant)
+* Adobe Campaign Classic v7 - [檔案](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=zh-Hant) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
+* Adobe Campaign Standard - [檔案](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=zh-Hant) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant)
 * [Adobe Campaign產品資訊](https://business.adobe.com/products/campaign/adobe-campaign.html)
