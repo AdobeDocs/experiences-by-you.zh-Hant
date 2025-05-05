@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 有關如何簡化和減少使用者培訓時間的秘訣和竅門
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341110/?quality=12&learn=on&captions=chi_hant)
 
 確保貴組織的商務使用者已接受[!DNL Adobe Analytics]的良好訓練，對於協助建立資料導向式決策的文化至關重要。 使用者若能在[!DNL Adobe Analytics]中輕鬆找到資訊，就可以自行解答簡單的業務問題，好讓分析師有更多時間解答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地根據績效進行決策。
 

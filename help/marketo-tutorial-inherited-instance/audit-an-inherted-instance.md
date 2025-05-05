@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在本教學課程中，我們將逐步引導您瞭解[!DNL Marketo Engage]中最重要的區段，包括管理員、行銷活動、設計工作室和資料庫，並在此過程中為您提供稽核和最佳化的秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453033/?learn=on&captions=chi_hant)

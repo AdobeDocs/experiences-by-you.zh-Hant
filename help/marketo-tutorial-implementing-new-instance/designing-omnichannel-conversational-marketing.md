@@ -49,7 +49,7 @@ ht-degree: 0%
 
 此對話方塊提供五個初始選項供網站訪客選擇，建立自助式體驗，協助他們根據角色尋找所需的資訊。 若要開始，您可能會想要探索「聯絡我們」電子郵件收件匣，以識別常見的主題並將其分類為適用於網站訪客的對話方塊選項。 觀看示範，然後依照下列步驟建立您的預設全包式對話方塊：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453741/?learn=on&captions=chi_hant)
 
 >[!BEGINTABS]
 

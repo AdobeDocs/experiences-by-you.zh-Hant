@@ -22,7 +22,7 @@ ht-degree: 22%
 
 觀看此步驟式教學課程，了解如何使用 A/B 測試來建立電子郵件計劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453378/?learn=on&captions=chi_hant){transcript=true}
 
 
 ## 其他資源:
