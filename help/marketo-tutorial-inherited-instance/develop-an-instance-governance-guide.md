@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 使用檔案開發執行個體治理指南
 
-當您進入舊版[!DNL Marketo Engage]執行個體時，經常會面臨缺乏最新功能與技術檔案的挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 在您於已建立的 [!DNL Marketo Engage] 執行個體](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作時，[提高效率是重要策略之一。
+當您進入舊版[!DNL Marketo Engage]執行個體時，經常會面臨缺乏最新功能與技術檔案的挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 在您於已建立的 [!DNL Marketo Engage] 執行個體[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作時，提高效率是重要策略之一。
 
-此逐步教學課程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin將引導您完成此程式，以概述您的執行個體設定、記錄您的主要作業計畫，並維護[!DNL changelog]以強制實施嚴格的治理政策。
+此逐步教學課程源自[!DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin將引導您完成此程式，以概述您的執行個體設定、記錄您的主要作業計畫，並維護[!DNL changelog]以強制實施嚴格的治理政策。
 
 ## 為您繼承的執行個體開發執行個體治理指南
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 ### 作者
 
 **Nick Hajdin**
-[！DNL [!DNL Adobe] Marketo Champion] (2018)
+[!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}

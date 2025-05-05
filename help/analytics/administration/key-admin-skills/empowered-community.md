@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 3.使用工具開始建立您的社群
 
-* [建立專案章程](assets/[!DNL Adobe]-[!DNL Analytics]-Enabled-Community-Project-Charter-Template.pptx) （範本下載）：
+* [建立專案章程] (assets/[!DNL Adobe]-[!DNL Analytics]-Enabled-Community-Project-Charter-Template.pptx) （範本下載）：
 
   專案章程通常是讓您的企業圍繞著機會進行調整以打造內部賦權社群的絕佳方法。 您可以藉由回答下列問題來獲得草擬章程所需的內容：
 

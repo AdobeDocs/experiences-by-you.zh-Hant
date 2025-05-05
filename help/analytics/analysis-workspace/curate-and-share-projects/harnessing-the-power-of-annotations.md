@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-如需註解如何運作的所有詳細資訊，請務必參閱Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的[影片教學課程。
+如需註解如何運作的所有詳細資訊，請務必參閱Experience League[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的影片教學課程。
 
 ## 開始使用的秘訣與技巧
 

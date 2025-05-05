@@ -17,16 +17,16 @@ ht-degree: 77%
 
 ---
 
-# 行銷人員的[！DNL [!DNL Adobe] [!DNL Campaign]]成功十大最佳實務
+# 行銷人員的[!DNL [!DNL Adobe] [!DNL Campaign]]成功十大最佳實務
 
-Christian Klimczyk是自我描述的「[!DNL Adobe]書呆子」，擁有七年的[！DNL [!DNL Adobe]]Experience Cloud專業知識，主要專注於[！DNL [!DNL Adobe] [!DNL Campaign]]。 Christian及其團隊身為大型CPG公司的[!DNL Adobe]平台擁有者，在所有消費者通訊與互動中都使用[！DNL [!DNL Campaign]]。 他們可跨直接郵件、電子郵件與簡訊/MMS 來協調及管理高法規要求與多頻道消費者行銷活動，順暢無阻。
+Christian Klimczyk是自我描述的「[!DNL Adobe]書呆子」，擁有七年的[!DNL [!DNL Adobe]]Experience Cloud專業知識，主要專注於[!DNL [!DNL Adobe] [!DNL Campaign]]。 Christian及其團隊身為大型CPG公司的[!DNL Adobe]平台擁有者，在所有消費者通訊與互動中都使用[!DNL [!DNL Campaign]]。 他們可跨直接郵件、電子郵件與簡訊/MMS 來協調及管理高法規要求與多頻道消費者行銷活動，順暢無阻。
 
 在本文中，Christian分享他的最佳實務，以協助[!DNL Adobe] [!DNL Campaign]從業人員解鎖並加速數位消費者轉型，並為他們的客戶提供更好的體驗。
 
 
 ## 1. 形成整體的統籌行銷與傳遞計畫
 
-要確保您成功使用[！DNL [!DNL Adobe] [!DNL Campaign]]，第一步是瞭解您的工具和客戶期望，這在任何型別的行銷中都是正確的。 清楚定義並了解您聯絡消費者的頻道，了解何時及為何使用該頻道。
+要確保您成功使用[!DNL [!DNL Adobe] [!DNL Campaign]]，第一步是瞭解您的工具和客戶期望，這在任何型別的行銷中都是正確的。 清楚定義並了解您聯絡消費者的頻道，了解何時及為何使用該頻道。
 
 [!DNL Adobe] [!DNL Campaign]是彈性的工具，可讓您以多種方式執行及協調通訊。 [在每次購買歷程，五成客戶會採用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
 
@@ -42,7 +42,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 根據 [Hubspot 研究](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)，與非細分行銷活動相比，細分行銷活動的開放率可提高14.31%，而點擊次數可增加 101%。 電子郵件行銷人員指出若在行銷活動之前細分受眾，產生的收入可增加高達 760%。
 
-在[!DNL Adobe] [!DNL Campaign]中，您可以快速輕鬆地協調分段。 然而，為簡化並促進流程，行銷活動營運商與行銷從業人員在設計及要求建立並執行行銷活動時，必須對其基礎資料具書面了解。 瞭解您目前的資料，以及如何預測當您與支援您[！DNL [!DNL Campaign]]執行個體的管理員和開發人員合作時可能需要的資料至關重要。
+在[!DNL Adobe] [!DNL Campaign]中，您可以快速輕鬆地協調分段。 然而，為簡化並促進流程，行銷活動營運商與行銷從業人員在設計及要求建立並執行行銷活動時，必須對其基礎資料具書面了解。 瞭解您目前的資料，以及如何預測當您與支援您[!DNL [!DNL Campaign]]執行個體的管理員和開發人員合作時可能需要的資料至關重要。
 
 支援行銷活動的基礎資料結構是否完備決定了您行銷活動的成果。 在整合平台或跳至消費者資料平台時，若發生問題，了解並記錄此資料結構也會有所幫助
 
@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 跟您的顧客一樣，您每天都有例行活動。 行銷活動的傳送及協調應符合此節奏。 否則，您可能無法聯絡客戶，因為 [85% 的已傳送郵件未開啟，而 98%的已傳送郵件未獲點進](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 此外，請務必使用[！DNL [!DNL Campaign]]中的熱度圖工具來追蹤工作流程和傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 [留意並瞭解您電子郵件的節奏、節奏和時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)對於您訊息和[!DNL Campaign]執行個體的整體穩定性和強度而言是極為寶貴的。
+例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 此外，請務必使用[!DNL [!DNL Campaign]]中的熱度圖工具來追蹤工作流程和傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 [留意並瞭解您電子郵件的節奏、節奏和時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)對於您訊息和[!DNL Campaign]執行個體的整體穩定性和強度而言是極為寶貴的。
 
 ## 4.在需要個人化的地方使用
 
@@ -60,13 +60,13 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 創意資產 Assets 是火車頭，協助您推動有效且良好運作的行銷活動。 隨著成功接觸消費者，您的行銷流程也跟著擴展及成熟，而您也需要更豐富的創意內容。 消費者對此有所期待。
 
-您團隊可設定的下一筆傳送速度決定了您的進展速度。 這通常需要新穎而令人興奮的內容。 [！DNL [!DNL Adobe] [!DNL Campaign]]可讓您輕鬆設定範本以及接收和準備這些傳遞。 然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
+您團隊可設定的下一筆傳送速度決定了您的進展速度。 這通常需要新穎而令人興奮的內容。 [!DNL [!DNL Adobe] [!DNL Campaign]]可讓您輕鬆設定範本以及接收和準備這些傳遞。 然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
 
 ## 6. 了解並管理訂閱與偏好設定
 
 管理及維護訂閱偏好設定可能會迅速變得令人困惑，導致各種層級的風險。 例如，透過客戶不會回應的頻道向其傳送錯誤訊息，九成消費者表示，負面體驗會降低其未來購買該品牌的可能性。 從更大的規模來看，您可能會面臨法規與合規風險以及罰款。
 
-預先制定策略，透過專家使用[！DNL [!DNL Adobe] [!DNL Campaign]]和其他行銷技術工具，管理選擇加入並培育這個不斷演變的生態系統。 這通常是最大的行銷活動成功量度之一，因此，隨著行銷活動策略的發展及成熟，周密的規劃會帶來寶貴的回報。
+預先制定策略，透過專家使用[!DNL [!DNL Adobe] [!DNL Campaign]]和其他行銷技術工具，管理選擇加入並培育這個不斷演變的生態系統。 這通常是最大的行銷活動成功量度之一，因此，隨著行銷活動策略的發展及成熟，周密的規劃會帶來寶貴的回報。
 
 ## 7. 了解並規劃傳遞能力
 

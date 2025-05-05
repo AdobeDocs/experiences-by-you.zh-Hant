@@ -38,7 +38,7 @@ ht-degree: 5%
 
 ### 第3階段 — 方案庫建立和行銷活動設定
 
-- 開發電子郵件範本和登入頁面。 從[從[程式匯入程式庫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)開始。
+- 開發電子郵件範本和登入頁面。 從[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)從[程式匯入程式庫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式開始。
 - 設定分段和Personalization規則
 - 建立潛在客戶產生和培養的初始行銷活動
 

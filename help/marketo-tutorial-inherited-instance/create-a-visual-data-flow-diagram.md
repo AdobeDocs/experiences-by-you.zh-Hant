@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # 建立資料流程圖以瞭解您的行銷技術棧疊
 
-作為管理已經存在多年的[!DNL Marketo Engage]執行個體的管理員，這就像是一項無法稽核並有效清理執行個體的任務。 當[!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入長期建立的執行個體時，她已透過建立「潛在客戶與資料來源」的圖表[](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}來應對此挑戰，以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
+作為管理已經存在多年的[!DNL Marketo Engage]執行個體的管理員，這就像是一項無法稽核並有效清理執行個體的任務。 當[!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入長期建立的執行個體時，她已透過建立「潛在客戶與資料來源」的圖表[&#128279;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}來應對此挑戰，以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
 
 ## 為什麼要為您繼承的執行個體建立架構圖？
 

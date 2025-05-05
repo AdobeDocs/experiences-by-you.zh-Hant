@@ -60,6 +60,7 @@ ht-degree: 0%
    * 第二欄：Marketo EngageAPI名稱
    * 第三欄： [Marketo Engage欄位型別](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} （亦即布林值、貨幣、日期等）
    * 在後續欄中，針對CRM物件型別（銷售機會、連絡人、帳戶、機會）重複此步驟，並加入您希望Marketo Engage存取層級的額外欄（即讀取、寫入、編輯）
+
   <br>
 
   以下是它看起來像的範例：
