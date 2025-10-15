@@ -79,4 +79,4 @@ ht-degree: 16%
 * [Marketo Nation （社群）](https://nation.marketo.com/)
 * [Adobe Marketo Engage檔案](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hant)
 * [Adobe Marketo EngageTutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
-* [Adobe Marketo Engage產品資訊](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Adobe Marketo Engage產品資訊](https://business.adobe.com/tw/products/marketo/adobe-marketo.html)

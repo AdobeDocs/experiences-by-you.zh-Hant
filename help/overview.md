@@ -78,5 +78,5 @@ ht-degree: 9%
 * [Experience League社群](https://experienceleaguecommunities.adobe.com/)
 * [Experience Cloud 文件](https://experienceleague.adobe.com/docs/?lang=zh-Hant)
 * [Experience Cloud 教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/tw)
 

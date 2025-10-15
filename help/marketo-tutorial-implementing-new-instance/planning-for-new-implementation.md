@@ -294,7 +294,7 @@ ht-degree: 5%
 >[!NOTE]
 >提供的範例並非以實際的實作時間表為準。 請勿依賴這些作為您開始使用Marketo Engage的標準時間表，因為每個實作都是根據您組織的需求具有不同的里程碑和要求。
 
-如需實作和自訂您執行個體之Marketo Engage的手動協助，請聯絡Adobe帳戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
+如需實作和自訂您執行個體之Marketo Engage的手動協助，請聯絡Adobe帳戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 

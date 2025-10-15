@@ -79,4 +79,4 @@ ht-degree: 20%
 * [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
 * [Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)
 * [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=zh-Hant)
-* [Experience Manager產品資訊](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager產品資訊](https://business.adobe.com/tw/products/experience-manager/adobe-experience-manager.html)
