@@ -27,7 +27,7 @@ ht-degree: 2%
 
 ## 如何組織Marketo Engage執行個體
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428941/?captions=chi_hant&quality=12&learn=on)
 
 ### 步驟1 — 設定檔案夾結構以整理您的程式
 

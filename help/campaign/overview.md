@@ -33,7 +33,7 @@ ht-degree: 26%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="行銷人員的5大工作流程最佳實務" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="行銷人員的5大工作流程最佳實務" src="https://video.tv.adobe.com/v/3448158?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
