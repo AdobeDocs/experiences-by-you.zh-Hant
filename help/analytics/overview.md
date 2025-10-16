@@ -1,12 +1,12 @@
 ---
 title: 由您進行分析
 description: Analytics by You 提供由日常使用者建立的使用者生成內容，這些使用者以其具備的 Adobe Analytics 知識取得專業等級和影響力。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 19%
@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="建立標準化的命名慣例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=zh-Hant" />
+      <img alt="建立標準化的命名慣例" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## 其他資源
 
-* [Experience LeagueAdobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * [Adobe Analytics檔案](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
-* [Adobe Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant)
-* [Adobe Analytics產品資訊](https://business.adobe.com/tw/products/analytics/adobe-analytics.html)
+* [Adobe Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [Adobe Analytics產品資訊](https://business.adobe.com/products/analytics/adobe-analytics.html)

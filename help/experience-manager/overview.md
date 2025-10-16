@@ -1,21 +1,21 @@
 ---
 title: 由您啟用的 Experience Manager
 description: Experience Manager by You 提供由日常使用者建立的使用者生成內容，這些用戶以其具備的 Adobe Experience Manager 知識取得專業等級和影響力。
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 20%
 
 ---
 
-# 由您Experience Manager：按使用者的資源，適用於使用者。
+# Experience Manager by You：依使用者的資源，適用於使用者的資源。
 
-關於[!DNL Adobe]Experience Cloud解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 「您的體驗」包含日常使用者所建立的內容，這些使用者已透過[!DNL Adobe]Experience Cloud解決方案獲得一定程度的專業知識與影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
+關於[!DNL Adobe]個Experience Cloud解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 「您的體驗」包含日常使用者建立的內容，這些使用者已透過[!DNL Adobe]個Experience Cloud解決方案獲得一定程度的專業知識與影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -58,7 +58,7 @@ ht-degree: 20%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="提示與秘訣" src="https://video.tv.adobe.com/v/3439848?format=jpeg&captions=chi_hant" />
+      <img alt="提示與秘訣" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -77,6 +77,6 @@ ht-degree: 20%
 ## 其他資源
 
 * [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
-* [Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)
-* [Experience ManagerTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=zh-Hant)
-* [Experience Manager產品資訊](https://business.adobe.com/tw/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [Experience Manager教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Experience Manager產品資訊](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
