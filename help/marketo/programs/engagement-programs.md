@@ -28,7 +28,7 @@ ht-degree: 22%
 
 如需詳細資訊，請參閱相關的產品指南：
 
-* [瞭解參與計畫檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [瞭解參與計畫檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=zh-Hant)
 
 向同業學習如何使用參與計畫：
 

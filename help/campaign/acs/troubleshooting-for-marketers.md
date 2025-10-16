@@ -59,7 +59,7 @@ ht-degree: 2%
 
 ![具有調解詳細資料的工作流程](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-深入瞭解[調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)。
+深入瞭解[調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=zh-Hant)。
 
 ## 通用欄位資料集錯誤
 
