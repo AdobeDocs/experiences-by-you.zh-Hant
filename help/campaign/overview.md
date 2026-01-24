@@ -77,7 +77,7 @@ ht-degree: 26%
 
 ## 其他資源
 
-* [Experience League Adobe Campaign社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Campaign社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hant)
 * Adobe Campaign v8 - [檔案](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-hant) / [教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
 * Adobe Campaign Classic v7 - [檔案](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=zh-Hant) / [教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
 * Adobe Campaign Standard - [檔案](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=zh-Hant) / [教學課程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant)

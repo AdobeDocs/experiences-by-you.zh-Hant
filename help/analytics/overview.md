@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## 其他資源
 
-* [Experience League Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=zh-Hant)
 * [Adobe Analytics檔案](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
 * [Adobe Analytics 教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant)
 * [Adobe Analytics產品資訊](https://business.adobe.com/tw/products/analytics/adobe-analytics.html)
