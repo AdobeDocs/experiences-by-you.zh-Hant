@@ -68,7 +68,7 @@ ht-degree: 0%
    * 個人生命週期
    * 資料管理
 1. 在Marketo Engage例項中建置
-   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [卓越中心(COE)](https://business.adobe.com/tw/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
    * 資料夾結構
    * 命名慣例
    * 方案組織

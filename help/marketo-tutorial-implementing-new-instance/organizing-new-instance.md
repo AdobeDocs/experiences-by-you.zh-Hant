@@ -182,7 +182,7 @@ ht-degree: 2%
 
 * 下載工作表： [Marketo Engage組織和命名慣例](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支援建立資料夾結構和命名慣例。
 * 決定標準命名慣例中的必要元件後，請考慮將公式建置到Google工作表或Microsoft Excel中。 若日後使用，只需在試算表中輸入您的值，即可產生您的程式名稱。
-* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 請閱讀以開始使用[Adobe Marketo Engage方案範本](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
+* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 請閱讀以開始使用[Adobe Marketo Engage方案範本](https://business.adobe.com/tw/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 
