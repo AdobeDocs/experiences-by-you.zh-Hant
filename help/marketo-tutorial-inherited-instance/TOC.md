@@ -8,21 +8,21 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 4%
+source-wordcount: '79'
+ht-degree: 8%
 
 ---
 
 
 # 教學課程 — 稽核繼承[!DNL Marketo Engage]執行個體的秘訣與技巧 {#auditing-an-inherited-instance}
 
-+ [教學課程概覽](/help/marketo-tutorial-inherited-instance/overview.md)
++ [教學課程概觀](/help/marketo-tutorial-inherited-instance/overview.md)
 + [稽核繼承的執行個體](/help/marketo-tutorial-inherited-instance/audit-an-inherted-instance.md)
 + [記錄CRM同步錯誤以進行疑難排解](/help/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshooting.md)
 + [開發執行個體治理指南](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [以視覺化方式呈現您的行銷技術棧疊](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [方案啟動前品質保證程式](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)
-+ [回到觀點](https://experienceleague.adobe.com/zh-hant/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [回到觀點](https://experienceleague.adobe.com/en/perspectives)

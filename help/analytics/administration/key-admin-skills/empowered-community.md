@@ -12,22 +12,22 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 0%
+source-wordcount: '1574'
+ht-degree: 2%
 
 ---
 
 # 打造賦權社群
 
->[!VIDEO](https://video.tv.adobe.com/v/341118/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 賦權社群具有一些顯著的特徵。 首先，它有[!DNL Adobe Analytics]管理員支援。 它瞭解業務需求在其實作中的呈現方式。 最後但並非最不重要的一點是，它有方法能夠自信地使用分析，以實現資料導向式決策。 許多企業都受益於內部[!DNL Adobe Analytics]使用者群組或較正式的社群所提供的結構。
 
-您可以在組織中打造賦權社群。 方法如下：
+您可以在組織中打造賦權社群。 方法如下:
 
-## 1.建立穩固的基礎結構，這是賦權社群的基礎
+## &#x200B;1. 建立穩固的基礎架構，為賦權社群奠定基礎
 
 * 建立使用者上線流程：
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
 * 瞭解實作：
 
-  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hant) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
+  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
 
 * 使用報表範本：
 
   [!DNL Adobe Analytics]報告範本和專案是讓工具使用者能夠瞭解您的企業實作、報告使用案例和最佳實務的關鍵資源。 這些資源應該說明如何解決常見業務問題，以及這些問題如何在工具中可以得到最好的解答。
 
-## 2.為執行及應該參與的人制定計畫
+## &#x200B;2. 為執行及應該參與的人制定計畫
 
 * 決定哪些人將經營社群：
 
@@ -63,15 +63,15 @@ ht-degree: 0%
 
 * 記住 — 「這對他們有什麼好處？」 讓您的社群聚焦於業務使用案例和優先要務有助於確保參與度及成功！
 
-## 3.使用工具開始建立您的社群
+## &#x200B;3. 使用工具開始建立您的社群
 
-* [建立專案章程] (assets/[!DNL Adobe]-[!DNL Analytics]-Enabled-Community-Project-Charter-Template.pptx) （範本下載）：
+* [建立專案章程](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) （下載範本）：
 
   專案章程通常是讓您的企業圍繞著機會進行調整以打造內部賦權社群的絕佳方法。 您可以藉由回答下列問題來獲得草擬章程所需的內容：
 
    * 您嘗試解決的問題陳述為何？ 您的社群目標為何，以及您認為涵蓋範圍內外的專案為何？
    * 「這對我有什麼好處？」 潛在的收益或成本為何、如何衡量成功，以及風險有哪些？
-   * 讓社群上線的時間表為何？ 從賦權、工具、管理員使用者群組等觀點來看， 觀點？ 通常在推出較大計畫之前最好先開發基線賦權資源。
+   * 讓社群上線的時間表為何？ 從啟用、工具、管理員使用者群組等觀點來看，需要什麼設定工作？ 通常在推出較大計畫之前最好先開發基線賦權資源。
    * 核心團隊成員對社群成功的影響力為何以及哪些人將會在計畫中獲得支援？
    * 最後，高階主管支援人是誰？ 強而有力的高階主管支援人的價值再強調也不為過，這個人可以為工作支援及其價值背書。
 
@@ -85,13 +85,13 @@ ht-degree: 0%
 
    * 您的社群將會影響哪些團隊、哪些人是您的目標受眾（例如，高階主管、經理、一線分析師）？
    * 您的關鍵訊息重點為何、需要哪些訊息、這對您的目標受眾有什麼好處(WIIFM)以及您有哪些要求？
-   * 在社群推出前後應該使用哪些溝通工具(例如，電子郵件、Slack、視訊、會議等)？ 例如，您是否會透過[!DNL Adobe Analytics]管理員工具傳送電子郵件。 或者，您的新使用者上線流程現在是否應該包含可用於電子報的內部電子郵件分送清單的維護工作等事項？
+   * 在社群推出前後應該使用哪些通訊工具(例如電子郵件、Slack、視訊、會議等)？ 例如，您是否會透過[!DNL Adobe Analytics]管理員工具傳送電子郵件。 或者，您的新使用者上線流程現在是否應該包含可用於電子報的內部電子郵件分送清單的維護工作等事項？
    * 誰將傳送通訊？
    * 何時？ 考量社群推出之前的通訊內容以及社群推出後需要持續提供的通訊內容非常重要。
 
-* 使用您的社群工具開始上線！ 根據您企業的技術棧疊，您也會想要為社群選擇工具或媒介。 這將根據貴組織的需求量身打造，但許多人經常認為Microsoft Teams效果很好。
+* 使用您的社群工具開始上線！ 根據您企業的技術棧疊，您也會想要為社群選擇工具或媒介。 這將根據貴組織的需求量身打造，但許多人經常認為Microsoft Teams成效不錯。
 
-## 4.維護您的社群，確保其持續成功
+## &#x200B;4. 維護您的社群，確保它持續取得成功
 
 * 預留時間 — 將社群會議新增至行事曆，以提前安排時間，週期性會議是很好的做法，可幫助您將內容計畫化為現實。 為協助您開始使用，以下提供一些議程建議：
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 建立及維護賦權社群有一大棧事情要做。 退一步思考，並體認到這樣做對組織有哪些好處是很重要的事。 以下是我個人看到的一些優點：
 
-* 資料導向式決策 — 賦權社群可以[改變您的企業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=zh-Hant)，因為[!DNL Adobe Analytics]會透過可在整個組織取得以支援客戶情報和資料導向式決策的方式來啟用資料敘事、預測結果，並指定結果。
+* 資料導向式決策 — 賦權社群可以[變更您的企業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=zh-Hant)，因為[!DNL Adobe Analytics]會透過可在整個組織取得以支援客戶情報和資料導向式決策的方式來啟用資料storytelling、預測結果，並指定結果。
 
 * 提升專業知識和效率 — 可建立賦權參與和行銷投資報酬率之間的直接關聯！ 賦權社群可提升每個人的專業知識，促進眾人分享見解、最佳實務、專案和產品更新，並鼓勵合作。 它在透過[!DNL Adobe Analytics]啟用自給自足及更佳最佳化的同時執行此操作。 這可支援行銷管道、頁面、地理位置、對象等。 它也支援體驗最佳化，好讓團隊聚焦於他們可產生最大影響的位置。
 
@@ -115,4 +115,4 @@ ht-degree: 0%
 
 * 職涯發展 — 賦權社群將許多分析師團隊的焦點從反應性和戰術性轉變為指示性和策略性。 這為您社群的管理專案團隊開啟了職涯發展的機會。
 
-如果您擁有內部[!DNL Adobe Analytics]使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=zh-Hant)中聽到您的故事！
+如果您擁有內部[!DNL Adobe Analytics]使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)中聽到您的故事！
