@@ -11,10 +11,10 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 2%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 2%
 
 ## 為什麼要為您繼承的執行個體建立架構圖？
 
-1. **熟悉您從即時執行個體繼承的行銷技術棧疊。**&#x200B;鼓勵所有行銷作業管理員/平台作業管理員在新公司開始工作時進行此練習。 此建立程式可讓管理員使用者檢視從外部整合傳送到[!DNL Marketo Engage]的資料和活動的完整圖片，並輕鬆疑難排解API錯誤。
-2. **熟悉管理外部整合的關鍵利害關係人。** Kelly Jo Horton用來快速識別利害關係人的秘訣是參考API使用者清單。
-   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。**&#x200B;進一步瞭解如何導覽至&#39;LaunchPoint&#39;標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hant){target="_blank"}。
+1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立程式可讓管理員使用者檢視從外部整合傳送到[!DNL Marketo Engage]的資料和活動的完整圖片，並輕鬆疑難排解API錯誤。
+2. **熟悉管理外部整合的關鍵利害關係人。** Kelly Jo Horton用來快速識別利害關係人的一個技巧是參考API使用者清單。
+   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hant){target="_blank"}。
    2. 在API呼叫資訊區段的「整合>網站服務」標籤中，尋找API使用者的API使用統計資料。 按一下API呼叫號碼，即可檢視每個使用者發出的個別特定呼叫。
 
 ## 如何進行此視覺資料流程圖練習
@@ -46,7 +46,7 @@ ht-degree: 2%
 
 ### 步驟3：技術版本
 
-建立技術版本，顯示各項整合的詳細資訊，例如API使用者名稱、推送至[!DNL Marketo Engage]或從[!DNL Marketo Engage]提取之資料型別的簡短說明，以及任何中介軟體流程和觸發器的詳細圖表。  其範例如下：
+建立技術版本，顯示各項整合的API使用者名稱等詳細資訊、推送至[!DNL Marketo Engage]或從[!DNL Marketo Engage]提取之資料型別的簡短說明，以及任何中介軟體流程和觸發器的詳細圖表。範例如下：
 
 ![技術版本](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
@@ -118,9 +118,9 @@ ht-degree: 2%
       </td>
 </table>
 
-以下是一些您可以使用的工具： draw.io (Google檔案)、[!DNL Adobe] XD、Figma、Gliffy （在Confluence中）
+以下是您可以使用的幾個工具： draw.io (Google Docs)、[!DNL Adobe] XD、Figma、Gliffy (in Confluence)
 
-**如果已經有架構圖表呢？**&#x200B;新團隊成員可能有不同的觀點。 讓新的[!DNL Marketo Engage]管理員在他們的上線流程中執行此練習並與其他人共用很有價值。
+**如果已經有架構圖表怎麼辦？** 新的團隊成員可能有不同的觀點。 讓新的[!DNL Marketo Engage]管理員在他們的上線流程中執行此練習並與其他人共用很有價值。
 
 ## 作者
 
@@ -133,4 +133,4 @@ ht-degree: 2%
 **趙子楣**
 *採用與保留行銷經理，[!DNL Adobe]*
 
-(/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![趙子楣](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
