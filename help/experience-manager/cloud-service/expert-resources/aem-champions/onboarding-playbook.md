@@ -33,4 +33,4 @@ ht-degree: 1%
 
 ## 其他資源 {#additional-resources}
 
-* [AEM as a Cloud Service上線歷程](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) — 新系統管理員的逐步指南，用於最初布建雲端資源，並根據使用者的工作職責為其指派角色，以便團隊的每個成員都能登入並存取其新的AEM as a Cloud Service資源
+* [AEM as a Cloud Service上線歷程](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html?lang=zh-Hant) — 新系統管理員的逐步指南，用於最初布建雲端資源，並根據使用者的工作職責為其指派角色，以便團隊的每個成員都能登入並存取其新的AEM as a Cloud Service資源

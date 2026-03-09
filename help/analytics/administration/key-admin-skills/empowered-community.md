@@ -39,7 +39,7 @@ ht-degree: 2%
 
 * 瞭解實作：
 
-  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
+  最佳做法如下：使用者必須對其實作支援的業務需求有基本的瞭解，這些需求通常是透過[業務需求檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant) (BRD)和[解決方案設計參考檔案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hant) (SDR)所擷取。 這些需求應包括已實作的專案，並依類別定義業務需求、報表、eVar、事件等。
 
 * 使用報表範本：
 
@@ -115,4 +115,4 @@ ht-degree: 2%
 
 * 職涯發展 — 賦權社群將許多分析師團隊的焦點從反應性和戰術性轉變為指示性和策略性。 這為您社群的管理專案團隊開啟了職涯發展的機會。
 
-如果您擁有內部[!DNL Adobe Analytics]使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)中聽到您的故事！
+如果您擁有內部[!DNL Adobe Analytics]使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在[[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=zh-Hant)中聽到您的故事！
