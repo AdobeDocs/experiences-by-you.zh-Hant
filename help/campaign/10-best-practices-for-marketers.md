@@ -52,7 +52,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 跟您的顧客一樣，您每天都有例行活動。 行銷活動的傳送及協調應符合此節奏。 否則，您可能無法聯絡客戶，因為 [85% 的已傳送郵件未開啟，而 98%的已傳送郵件未獲點進](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 此外，請務必使用[!DNL [!DNL Campaign]]中的熱度圖工具來追蹤工作流程和傳送的執行時間。 協調和促進多個品牌的通訊可能具有挑戰性。[留意並瞭解您電子郵件的節奏、步調和時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)，對您訊息和[!DNL Campaign]執行個體的整體穩定性和強度非常有用。
+例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 此外，請務必使用[!DNL [!DNL Campaign]]中的熱度圖工具來追蹤工作流程和傳送的執行時間。 協調和促進多個品牌的通訊可能具有挑戰性。[留意並瞭解您電子郵件的節奏、步調和時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hant)，對您訊息和[!DNL Campaign]執行個體的整體穩定性和強度非常有用。
 
 ## &#x200B;4. 在重要之處使用個人化
 
