@@ -9,9 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
-hide: false
 exl-id: e691d38f-34c2-4e46-908e-c96f82eb1399
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -24,4 +23,4 @@ ht-degree: 0%
 
 在本教學課程中，我們將逐步引導您瞭解[!DNL Marketo Engage]中最重要的區段，包括管理員、行銷活動、設計工作室和資料庫，並在此過程中為您提供稽核和最佳化的秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453033/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3453033/?captions=chi_hant&learn=on)

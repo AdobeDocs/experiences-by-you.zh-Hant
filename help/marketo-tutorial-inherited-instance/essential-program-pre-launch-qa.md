@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: a7a52347dbf9c3c12f3653c23e01bce611588580
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '4894'
+source-wordcount: '6045'
 ht-degree: 2%
 
 ---
@@ -108,7 +107,7 @@ ht-degree: 2%
 | 5 | **機器人** | 有哪些設定？ 根據您的需求，這些建議是否有意義？ | **是：** <br>如果您無法以「是」回答這個問題，請更新它。 | [機器人是什麼意思？](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/edit-landing-page-title-and-metadata.html?lang=zh-Hant){target="_blank"} |
 | 6 | **個人化** | 如果您的頁面上有任何個人化元素（例如動態內容、代碼片段），您是否已測試？ 它們是否都如預期般運作？ | **是/不適用：** <br>如果您無法回答[是]或[不適用]，請測試！ | [在登入頁面中使用動態內容](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.html?lang=zh-Hant){target="_blank"}<br><br> [預覽具有動態內容的登陸頁面](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.html?lang=zh-Hant){target="_blank"} |
 | 7 | **影像** | 使用的所有影像是否已正確壓縮？ 如果有任何影像上覆蓋有文字，是否清楚易讀？ 您有權使用這些影像嗎？它們是否在品牌上？ | **是/不適用：** <br>所有影像（如果有的話）都應該壓縮以提升電子郵件載入速度。 | [取代上傳的影像或檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.html?lang=zh-Hant){target="_blank"} |
-| 8 | **副本** | 您是否檢閱過復本是否有任何文法錯誤？ 復本是您品牌的語調嗎？ 您的復本是否清楚說明頁面的目標是什麼？ | **是/不適用：** <br>如果您無法回答[是]或[不適用]，請檢閱您的復本。 |  |
+| 8 | **複製** | 您是否檢閱過復本是否有任何文法錯誤？ 復本是您品牌的語調嗎？ 您的復本是否清楚說明頁面的目標是什麼？ | **是/不適用：** <br>如果您無法回答[是]或[不適用]，請檢閱您的復本。 |  |
 | 9 | **表單** | 如果登入頁面上有表單，參考的表單是否正確？ 如果您使用非Marketo登陸頁面，也請檢查表單資產頁面中的內嵌程式碼，確認它不會受到[2023年8月汰除的舊URL結構](https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632){target="_blank"}的影響。 | **是/不適用：** <br>如果您無法回答是（或不適用），請修正它！ | [含有表單的登陸頁面](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/landing-page-with-a-form.html?lang=zh-Hant){target="_blank"}<br><br> [在您的網站上內嵌表單](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.html?lang=zh-Hant){target="_blank"}<br><br>[Design Studio URL的變更](https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632)<br> |
 | 10 | **感謝您** | 如果您的頁面上有表單，該頁面是否會視提交情況顯示成功訊息/重新導向至感謝頁面？ | **是/不適用：** <br>如果您無法回答是（或不適用），請修正您的提交後設定。 | [重新導向登入頁面](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/redirect-a-landing-page.html?lang=zh-Hant){target="_blank"} |
 | 11 | **GDPR/CASL法規遵循** | 如果資料是透過表單擷取，是否符合選擇加入規範，以及您是否提供具有隱私權政策連結功能的收集宣告？ | **是：** <br>瞭解您的相關法規遵循環境：如果您無法以「是」回答此問題，則必須更新以確保其符合法規。 如果您不知道，請尋求適當的建議。 | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
@@ -147,7 +146,7 @@ ht-degree: 2%
 |---|---|---|---|---|
 | 1 | **邏輯** | 如果使用「智慧列示」來識別對象的任何部分，系統是否已檢查、稽核邏輯並認為其準確？ | **是：** <br>如果您無法以「是」來回答，您應該修正智慧清單設定，並在繼續之前檢查這些專案。 |  |
 | 2 | **列出匯入程式** | 如果使用靜態清單來識別對象的任何部分，資料來源是否值得信賴，以及匯入是否根據您的清單匯入程式正確完成？ | **是：** <br>如果您無法以「是」來回答，請先修正清單資料並檢查這些資料，然後再繼續。 | [從靜態清單新增/移除人員的方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html?lang=zh-Hant){target="_blank"}<br><br>[匯入人員清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html?lang=zh-Hant#step-import-your-spreadsheet-into-marketo) |
-| 3 | **排除專案** | 是否包含任何必要的排除專案（例如競爭者、取消訂閱封鎖清單） | **是或不適用：** <br>您必須篩選掉取消訂閱專案，除非您有非常好、符合法律規定的理由。 如果您未包含任何這些內容、行銷活動規則及法律依據，請務必確信。 | [瞭解取消訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant){target="_blank"}<br><br>[變更資料值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant){target="_blank"} |
+| 3 | **排除項目** | 是否包含任何必要的排除專案（例如競爭者、取消訂閱封鎖清單） | **是或不適用：** <br>您必須篩選掉取消訂閱專案，除非您有非常好、符合法律規定的理由。 如果您未包含任何這些內容、行銷活動規則及法律依據，請務必確信。 | [瞭解取消訂閱](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant){target="_blank"}<br><br>[變更資料值](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=zh-Hant){target="_blank"} |
 | 4 | **主要清單** | 是否在適當時使用主要清單/區段？ | **是或不適用：**&#x200B;主要清單/區段旨在減少您必須參考的欄位數目，並降低人為錯誤的風險。 如果未使用主要清單/區段，您應該對規則有信心。 | [定義區段規則](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html?lang=zh-Hant) |
 
 >[!TAB 客群]
@@ -156,7 +155,7 @@ ht-degree: 2%
 |---|---|---|---|---|
 | 1 | **法律依據：**<br>&#x200B;您聯絡對象有適當的法律依據。 | <ul><li>**明確：**&#x200B;他們是否明確選擇接收您品牌的行銷通知？ </li><li>**已推斷（符合規定）：**&#x200B;他們是否已提供您聯絡詳細資料，而且有理由預期您會使用此資訊來聯絡他們？ </li><li>**被視為（符合規範）：**&#x200B;您是否已從公開來源取得其聯絡詳細資訊，而且根據公開來源，可以合理地假設內容與他們相關？</li></ul> | **是，並陳述基準：**&#x200B;請確定您選擇的基準在您的合規性環境中有效。 如果您無法以「是」來回答，請暫停啟動計畫，並尋求澄清聯絡此對象的法律依據。 | [隱私權管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=zh-Hant){target="_blank"} |
 | 2 | **資料來源** | 如果您透過匯入清單識別對象，您的資料來源是否值得信賴？ | **是或不適用：**<br>&#x200B;如果您無法以是來回答，請詢問資料來源的說明。 | [匯入清單以定義對象](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.html?lang=zh-Hant){target="_blank"} |
-| 3 | **清單購買** | 對象是否來自清單購買或贊助活動？ | **如果來源=清單購買，則否：**<br>&#x200B;清單購買是不良做法，在很多地方都是非法的，而且經常違反您與行銷自動化平台的合約。<br><br>**是，如果來源=贊助** <br>在贊助和競爭案例中，請確定資料擷取符合規範。 最佳實務是在第一次溝通中清楚說明您如何收到其資訊，並讓使用者輕鬆選擇退出。 |  |
+| 3 | **清單購買** | 對象是否來自清單購買或贊助活動？ | **如果來源=清單購買，則否：**<br>&#x200B;清單購買是不良作法，在很多地方都是非法的，而且經常會違反您與行銷自動化平台的合約。<br><br>**如果來源=贊助** <br>在贊助和競爭案例中，請確定資料擷取是符合規範的。 最佳實務是在第一次溝通中清楚說明您如何收到其資訊，並讓使用者輕鬆選擇退出。 |  |
 | 4 | **關聯性** | 您即將傳送給此對象的資訊與他們以及他們與您之間的關係相關。 | **是：** <br>如果您無法以「是」來回答，請停止並仔細考慮您傳送電子郵件給這些人的原因。 傳送與您無關的資訊或他們與您之間的關係可能會對效能和傳遞能力造成負面影響，並可能違反您的合規性環境。 |  |
 | 5 | **預期** | 此對象期待您提供訊息。 | **是：** <br>如果您無法以「是」來回答，請停止並仔細考慮您傳送電子郵件給這些人的原因。 傳送電子郵件給不想或希望收到您訊息的對象，可能會對效能、傳遞能力造成負面影響，並可能違反您的合規性環境。 |  |
 
@@ -185,11 +184,11 @@ ht-degree: 2%
 | 19 | **A/B和Champ/Challenger測試** | 您是否在電子郵件上執行任何優勝者/挑戰者測試？ | **是或否：**<br>&#x200B;如果您未進行任何測試，請思考您是否可能錯失瞭解對象詳細資訊的機會。 | [建立A/B測試](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=zh-Hant)<br><br>[新增電子郵件冠軍/挑戰者](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=zh-Hant){target="_blank"} |
 | 20 | **使用者端測試** | 您是否透過使用者端測試軟體執行電子郵件？<li>您確定主要電子郵件使用者端有任何顯示問題嗎？ <li>您是否更正或記錄為非緊急範本修正？ <li>您是否已找出任何載入速度問題並嘗試加以改善？<li>您確定有任何主旨列/預覽行問題嗎？ 問題解決了嗎？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有測試軟體），這應在傳送前完成。 | 使用者端測試軟體的範例包括Litmus或Acid上的Email或[Marketo Email Deliverability Power Pack](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=zh-Hant)<br><br>[收件匣追蹤器教學課程](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hant){target="_blank"} |
 | 21 | **垃圾郵件測試** | 您是否透過垃圾郵件程式執行電子郵件？<li>是否有任何醒目提示的封鎖名單標幟？<li>您識別任何收件匣位置/電子郵件使用者端標幟嗎？ <li>您是否曾尋找潛在原因並嘗試加以解決？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有測試軟體），這應在傳送前完成。 | 如果您將[Marketo的收件匣追蹤器功能](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=zh-Hant){target="_blank"}包含在合約中，或使用Litmus或Acid上的電子郵件等工具，請針對此使用。 |
-| 22 | **其他[!DNL Analytics]** | 電子郵件是否包含其他Analytics程式碼？ | **是或不適用：**<br>       如果您無法以「是」回答（除非您沒有其他分析軟體），則請在傳送前完成此動作。 |  |
+| 22 | **其他[!DNL Analytics]** | 電子郵件是否包含其他Analytics程式碼？ | **是或不適用：**<br>&#x200B;如果您無法以「是」回應（除非您沒有其他分析軟體），則請在傳送前完成此作業。 |  |
 
 >[!TAB 最終檢查]
 
-| # | 審閱 | 要問的問題 | 接受條件 |
+| # | 檢閱 | 要問的問題 | 接受條件 |
 |---|---|---|---|
 | 1 | **資產核准** | 確保已完成的計畫資產和冠軍/挑戰者測試獲得完全核准，且在草稿模式下沒有最終變更。 | **是：**<br>&#x200B;如果您無法以「是」回應，則必須在傳送前完成此作業。 |
 | 2 | **智慧[!DNL Campaign]準確度** | 智慧型行銷活動是否參考正確的資產？ | **是：**<br>&#x200B;如果您無法以「是」回應，則必須在傳送前修正此問題。 |
@@ -204,9 +203,9 @@ ht-degree: 2%
 
 ### 作者
 
-**寬限布萊伯納**
+**Grace Brebner**
 [!DNL Adobe]Marketo冠軍（2021年）
-*Digital Pi， LLC — 一家默克爾公司的客戶策略總監*
+*APAC地區客戶策略總監，Digital Pi， LLC - A Merkle公司*
 
 ![寬限布萊伯納](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 

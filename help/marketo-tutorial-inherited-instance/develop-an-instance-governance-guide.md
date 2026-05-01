@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -56,7 +55,7 @@ ht-degree: 0%
 
 * 文件
    * 計畫範本名稱
-   * Channel
+   * 頻道
    * 建立日期
    * 建立者
    * 計畫的目的
@@ -101,7 +100,7 @@ ht-degree: 0%
 **更新您現有的檔案：**
 讓您的檔案保持在最新狀態非常重要。 如果在過去3年內未修改檔案，請預留時間在稽核執行個體時修訂檔案。
 
-**共用和訓練：**
+**共用與訓練：**
 與相關團隊成員分享您的檔案和[!DNL changelog]，並教育他們如何更新這些記錄。
 
 **定期檢閱：**&#x200B;預先排程整年檢閱和維護時間，以包含任何新變更、最佳化或調整。
@@ -119,4 +118,4 @@ ht-degree: 0%
 **趙子楣**
 *採用與保留行銷經理，[!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![趙子楣](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
