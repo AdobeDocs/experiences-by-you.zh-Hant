@@ -9,9 +9,8 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 1%
@@ -20,13 +19,13 @@ ht-degree: 1%
 
 # 建立資料流程圖以瞭解您的行銷技術棧疊
 
-作為管理已經存在多年的[!DNL Marketo Engage]執行個體的管理員，這就像是一項無法稽核並有效清理執行個體的任務。 當[!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入長期建立的執行個體時，她已透過建立「潛在客戶與資料來源」的圖表[&#128279;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}來應對此挑戰，以熟悉資料世界。 在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
+作為管理已經存在多年的[!DNL Marketo Engage]執行個體的管理員，這就像是一項無法稽核並有效清理執行個體的任務。 當[!DNL Adobe] [!DNL Marketo Champion] (2019)，Kelly Jo Horton進入長期建立的執行個體時，她已透過建立「潛在客戶與資料來源」的圖表](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}來應對此挑戰，以熟悉資料世界。 [在本教學課程中，您將瞭解如何透過建立Kelly Jo Horton分享的範例來建立自己的資料流程圖。 讓我們瞭解一下您的MarTech生態系統！
 
 ## 為什麼要為您繼承的執行個體建立架構圖？
 
 1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立程式可讓管理員使用者檢視從外部整合傳送到[!DNL Marketo Engage]的資料和活動的完整圖片，並輕鬆疑難排解API錯誤。
 2. **熟悉管理外部整合的關鍵利害關係人。** Kelly Jo Horton用來快速識別利害關係人的一個技巧是參考API使用者清單。
-   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hant){target="_blank"}。
+   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
    2. 在API呼叫資訊區段的「整合>網站服務」標籤中，尋找API使用者的API使用統計資料。 按一下API呼叫號碼，即可檢視每個使用者發出的個別特定呼叫。
 
 ## 如何進行此視覺資料流程圖練習
@@ -126,7 +125,7 @@ ht-degree: 1%
 
 **Kelly Jo Horton**\
 [!DNL Adobe]Marketo達人(2019)
-*Etumos的資深使用者端合作夥伴*
+Etumos的*資深使用者端合作夥伴*
 
 ![Kelly Jo Horton](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
 

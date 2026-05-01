@@ -9,20 +9,19 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
 
 # 使用檔案開發執行個體治理指南
 
-當您進入舊版[!DNL Marketo Engage]執行個體時，經常會面臨缺乏最新功能與技術檔案的挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 在您於已建立的 [!DNL Marketo Engage] 執行個體[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作時，提高效率是重要策略之一。
+當您進入舊版[!DNL Marketo Engage]執行個體時，經常會面臨缺乏最新功能與技術檔案的挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 在您於已建立的 [!DNL Marketo Engage] 執行個體](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作時，[提高效率是重要策略之一。
 
-此逐步教學課程源自[!DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin將引導您完成此程式，以概述您的執行個體設定、記錄您的主要作業計畫，並維護[!DNL changelog]以強制實施嚴格的治理政策。
+此逐步教學課程源自[！DNL [!DNL Adobe] Marketo Champion] (2018)，Nick Hajdin將引導您完成此程式，以概述您的執行個體設定、記錄您的主要作業計畫，並維護[!DNL changelog]以強制實施嚴格的治理政策。
 
 ## 為您繼承的執行個體開發執行個體治理指南
 
@@ -30,7 +29,7 @@ ht-degree: 0%
 
 1. 以可擴充的方式更輕鬆地訓練內部使用者。
 2. 在[!DNL Marketo Engage]中長期更有效地建置。
-3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hant)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hant)以取得內容的時間。
+3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以取得內容的時間。
 4. 如果您的團隊遇到任何人員流動，請節省將[!DNL Marketo Engage]知識轉移給新[!DNL Marketo Engage]管理員的時間。
 
 ## [!DNL Marketo Engage]治理指南101
@@ -56,7 +55,7 @@ ht-degree: 0%
 
 * 文件
    * 計畫範本名稱
-   * Channel
+   * 頻道
    * 建立日期
    * 建立者
    * 計畫的目的
@@ -101,7 +100,7 @@ ht-degree: 0%
 **更新您現有的檔案：**
 讓您的檔案保持在最新狀態非常重要。 如果在過去3年內未修改檔案，請預留時間在稽核執行個體時修訂檔案。
 
-**共用和訓練：**
+**共用與訓練：**
 與相關團隊成員分享您的檔案和[!DNL changelog]，並教育他們如何更新這些記錄。
 
 **定期檢閱：**&#x200B;預先排程整年檢閱和維護時間，以包含任何新變更、最佳化或調整。
@@ -111,7 +110,7 @@ ht-degree: 0%
 ### 作者
 
 **Nick Hajdin**
-[!DNL [!DNL Adobe] Marketo Champion] (2018)
+[！DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
@@ -119,4 +118,4 @@ ht-degree: 0%
 **趙子楣**
 *採用與保留行銷經理，[!DNL Adobe]*
 
-![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![趙子楣](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
