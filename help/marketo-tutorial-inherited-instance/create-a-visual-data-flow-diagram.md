@@ -25,7 +25,7 @@ ht-degree: 1%
 
 1. **熟悉您從即時執行個體繼承的行銷技術棧疊。** 建議所有行銷作業管理員/平台作業管理員從新公司起步時都進行這項作業。 此建立程式可讓管理員使用者檢視從外部整合傳送到[!DNL Marketo Engage]的資料和活動的完整圖片，並輕鬆疑難排解API錯誤。
 2. **熟悉管理外部整合的關鍵利害關係人。** Kelly Jo Horton用來快速識別利害關係人的一個技巧是參考API使用者清單。
-   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}。
+   1. **導覽至「管理員」區段中的「整合>LaunchPoint」索引標籤。** 深入瞭解如何導覽至「LaunchPoint」標籤： [建立自訂服務以搭配REST API使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=zh-Hant){target="_blank"}。
    2. 在API呼叫資訊區段的「整合>網站服務」標籤中，尋找API使用者的API使用統計資料。 按一下API呼叫號碼，即可檢視每個使用者發出的個別特定呼叫。
 
 ## 如何進行此視覺資料流程圖練習

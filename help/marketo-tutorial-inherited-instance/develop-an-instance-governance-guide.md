@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 以可擴充的方式更輕鬆地訓練內部使用者。
 2. 在[!DNL Marketo Engage]中長期更有效地建置。
-3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)以取得內容的時間。
+3. 維持執行個體的健康與衛生，以節省您花費數小時探索電子郵件、[稽核軌跡](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=zh-Hant)及[活動記錄](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=zh-Hant)以取得內容的時間。
 4. 如果您的團隊遇到任何人員流動，請節省將[!DNL Marketo Engage]知識轉移給新[!DNL Marketo Engage]管理員的時間。
 
 ## [!DNL Marketo Engage]治理指南101
