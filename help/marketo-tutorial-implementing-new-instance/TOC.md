@@ -6,12 +6,12 @@ index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+usetq: true
 auto-video-transcripts: true
-source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
+source-git-commit: 972bec0709619acbf8d59d468e20f967a85f8069
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 97
 ht-degree: 7%
 
 ---
@@ -28,5 +28,5 @@ ht-degree: 7%
 + [組織新執行個體並建立命名慣例](./organizing-new-instance.md)
 + [使用Dynamic Chat設計全通路對話式行銷](./designing-omnichannel-conversational-marketing.md)
 + [開始使用執行個體治理和檔案](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/overview)
-+ [回到觀點](https://experienceleague.adobe.com/zh-hant/perspectives)
++ [[!DNL Marketo Engage] 教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [回到觀點](https://experienceleague.adobe.com/en/perspectives)
