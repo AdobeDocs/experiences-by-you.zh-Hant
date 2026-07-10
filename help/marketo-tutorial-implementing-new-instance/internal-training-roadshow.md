@@ -21,7 +21,7 @@ ht-degree: 0%
 
 當您讓新的[!DNL Marketo Engage]執行個體上線時，是時候讓相關團隊加速以利用[!DNL Marketo Engage]完成他們的工作。
 
-這些內部上線和訓練最佳實務是由Adobe Marketo Engage客戶Naomi Liu提供，分享[內部上線](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank}和[訓練最佳實務](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank}，這些最佳做法源自她為Imaging全球團隊的Electronics實作新執行個體的經驗。 遵循她的深入分析，為您的內部團隊制定有效的訓練計畫。
+這些內部上線和訓練最佳實務是由Adobe Marketo Engage客戶Naomi Liu提供，分享[內部上線](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank}和[訓練最佳實務](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank}，這些最佳做法源自她為Imaging全球團隊的Electronics實作新執行個體的經驗。 遵循她的深入分析，為您的內部團隊制定有效的訓練計畫。
 
 ## 為何在實施新執行個體時還要開發內部上線計畫？
 
