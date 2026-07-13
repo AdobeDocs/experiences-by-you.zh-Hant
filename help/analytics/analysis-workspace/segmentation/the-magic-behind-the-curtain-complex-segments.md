@@ -60,7 +60,7 @@ _發掘複雜資料區段的複雜性，探索排除專案、容器和歸因模�
 
 ![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*如上所述，**造訪**內的每個點選將會以相同的true / false進行評估。 但是，傳回的資料集是整個造訪的資料集。*
+*如上所述，**造訪**&#x200B;內的每個點選將會以相同的true / false進行評估。 但是，傳回的資料集是整個造訪的資料集。*
 
 - 在每個點選上，「Value」不包含「Example」（是），因此傳回true；同樣地，「Example」不包含「Example」（否，不包含），因此傳回false。
    - 如果造訪中的&#x200B;**任何**&#x200B;點選傳回&#x200B;**true**，則會傳回&#x200B;**整個造訪**。*
@@ -76,7 +76,7 @@ _發掘複雜資料區段的複雜性，探索排除專案、容器和歸因模�
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*如上所述，**訪客**進行的每次點選都會以相同的true / false邏輯進行評估。 但現在我們檢視了此訪客在所有造訪中所進行的所有點選（在選取的日期範圍內）。*
+*如上所述，**訪客**&#x200B;進行的每次點選都會以相同的true / false邏輯進行評估。 但現在我們檢視了此訪客在所有造訪中所進行的所有點選（在選取的日期範圍內）。*
 
 - 在每個點選上，「Value」不包含「Example」（是），因此傳回true；同樣地，「Example」不包含「Example」（否，不包含），因此傳回false。
    - 如果訪客進行的&#x200B;**任何**&#x200B;點選傳回&#x200B;**true**，則會傳回&#x200B;**整個造訪**。
