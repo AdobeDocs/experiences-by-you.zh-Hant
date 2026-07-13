@@ -13,14 +13,14 @@ kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
 
 # 有關如何簡化和減少使用者培訓時間的秘訣和竅門
 
->[!VIDEO](https://video.tv.adobe.com/v/341110/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/341110/?captions=chi_hant&quality=12&learn=on)
 
 確保貴組織的商務使用者已接受[!DNL Adobe Analytics]的良好訓練，對於協助建立資料導向式決策的文化至關重要。 使用者若能在[!DNL Adobe Analytics]中輕鬆找到資訊，就可以自行解答簡單的業務問題，好讓分析師有更多時間解答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地根據績效進行決策。
 
@@ -53,13 +53,13 @@ ht-degree: 0%
 * 也請務必錄製這些課程，並在您建立新內容時逐一提供給您使用。
 * 有時，您可能需要隨著實作的發展和進化來更新您的培訓課程，讓內容保持最新狀態。
 * 根據您如何部署實作以及如何建構組織，還可能需要針對特定部門或群組建立培訓課程，例如，向IT部門提供有關瀏覽器和作業系統使用的培訓、示範有關網站可用性的警示，以及向行銷部門提供有關反向連結、行銷管道和瀏覽次數最高的內容頁面的培訓。
-* 您不需要自行建立所有內容。 [!DNL Adobe]有一些絕佳的免費學習路徑和其他訓練內容，您可以在[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)內提供給使用者使用。
+* 您不需要自行建立所有內容。 [!DNL Adobe]有一些絕佳的免費學習路徑和其他訓練內容，您可以在[[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)中提供給使用者使用。
 
 
 
 ## 訓練您的使用者來訓練其他人
 
-在每個部門中，通常都會有一個使用者在[!DNL Adobe Analytics]中擁有更先進且更淵博的知識。 利用他們的專業知識並與其合作，使其成為「[!DNL Adobe Analytics]部門負責人」。 透過建立這個支援等級，您就是在協助使用者提升技能，讓貴組織在[!DNL Adobe Analytics]中投入更多資金，並讓您有時間處理更進階且有挑戰性的問題。
+在每個部門中，通常都會有一個使用者在[!DNL Adobe Analytics]中擁有更先進且更淵博的知識。 利用他們的專業知識並與其合作，使其成為「[!DNL Adobe Analytics]部門負責人」。 透過建立這個支援等級，您就是在幫助使用者提升技能，讓貴組織在[!DNL Adobe Analytics]中投入更多資金，並讓您有時間處理更進階且有挑戰性的問題。
 
 * 花時間來訓練部門負責人，使其成為進階使用者，這樣他們就能輕鬆回答任何問題，並幫助該部門的新使用者。 您投入的時間之後將會收到回報。
 * 請務必設定期望，確保所有部門問題都應該透過部門負責人提出。 如果他們無法解答問題，則應該請您來協助解答。

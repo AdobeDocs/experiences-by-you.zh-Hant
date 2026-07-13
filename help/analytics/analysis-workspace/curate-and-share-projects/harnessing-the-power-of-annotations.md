@@ -1,6 +1,6 @@
 ---
-title: 釋放分析見解；利用註釋的力量
-description: 了解註解在 Adob​​e Analysis Workspace 中發揮的關鍵作用，並獲得有關善加使用註解的實用技巧。將您的資料瞭解與共同作業提升到新的高度，在此過程中擷取更豐富的分析見解。
+title: 釋放分析insight；運用註釋的力量
+description: 了解註解在 Adob​​e Analysis Workspace 中發揮的關鍵作用，並獲得有關善加使用註解的實用技巧。 將您的資料瞭解與共同作業提升到新的高度，在此過程中擷取更豐富的分析見解。
 feature: Annotations
 role: User
 level: Experienced
@@ -12,18 +12,18 @@ thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '716'
 ht-degree: 3%
 
 ---
 
-# 釋放分析見解；利用註釋的力量
+# 釋放分析insight；運用註釋的力量
 
-註解資料元件是最簡單但長遠而言是AdobeAnalysis Workspace中提供的最省時的功能之一。 與Workspace內的任何其他功能不同，它可當作您和您的Workspace同僚使用者的敘述性歷史記憶體。
+註解資料元件是最簡單但長遠而言是Adobe Analysis Workspace中最省時的功能之一。 與Workspace內的任何其他功能不同，它可當作您和您的Workspace同僚使用者的敘述性歷史記憶體。
 
 ![1stgraph](assets/1stgraph.png)
 
-簡言之，註解是可新增到AdobeWorkspace中日期趨勢資料的簡短說明文字。 註解可為使用Analysis Workspace瞭解公司資料歷史的每個人提供上下文，有助於更快速地分析效能，並為您的所有報表提供高度自訂的感覺。
+簡言之，註解是可新增到Adobe Workspace中日期趨勢資料的簡短說明文字。 註解可為使用Analysis Workspace瞭解公司資料歷史的每個人提供上下文，有助於更快速地分析效能，並為您的所有報表提供高度自訂的感覺。
 
 ## 使用案例
 
@@ -83,4 +83,4 @@ ht-degree: 3%
 
 ![thomas-headshot](assets/thomas-headshot.png)
 
-Miles &amp; More （漢莎集團）Data Warehouse與Business Intelligence經理Thomas Edward Buckley
+Miles &amp; More （漢莎集團） Data Warehouse與Business Intelligence經理Thomas Edward Buckley
