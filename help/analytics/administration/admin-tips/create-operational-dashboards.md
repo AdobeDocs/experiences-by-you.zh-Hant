@@ -49,7 +49,7 @@ _探索[!DNL Adobe Analytics] Workspace中的營運儀表板如何徹底改變�
 
 厭倦了不斷重複答案的循環？ 停止！ 製作常見問題集控制面板，節省時間。 使用者可在詢問前先行諮詢，或者您可快速在回應中連結至該網站。
 
-只要建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中包含格式化為標題的問題，以及內容形式的回答/解釋，全部收合以僅顯示問題。 依關聯性（例如，頁面或產品）或使用面板來分組。 保持簡單，在頂端優先處理常見查詢。
+只要建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hant)，其中包含格式化為標題的問題，以及內容形式的回答/解釋，全部收合以僅顯示問題。 依關聯性（例如，頁面或產品）或使用面板來分組。 保持簡單，在頂端優先處理常見查詢。
 
 請更新您的常見問題儀表板，而不要撰寫長長的電子郵件或重新探索舊的解釋。 立即開始並隨著時間擴展。 使用超連結來參照報表中的其他儀表板或相關的常見問題。 必要時透過從其他儀表板連結至常見問答集，提供複雜的內容。
 

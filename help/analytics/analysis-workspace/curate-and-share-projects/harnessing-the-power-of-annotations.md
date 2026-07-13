@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-如需註解如何運作的所有詳細資訊，請務必參閱Experience League[&#128279;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的影片教學課程。
+如需註解如何運作的所有詳細資訊，請務必參閱Experience League[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的影片教學課程。
 
 ## 開始使用的秘訣與技巧
 
@@ -75,7 +75,7 @@ ht-degree: 3%
 
 ![9thimage](assets/9thimage.png)
 
-如需詳細檔案，請造訪[註解概觀](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview)和周圍文章。
+如需詳細檔案，請造訪[註解概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/components/annotations/overview)和周圍文章。
 
 ## 作者
 
