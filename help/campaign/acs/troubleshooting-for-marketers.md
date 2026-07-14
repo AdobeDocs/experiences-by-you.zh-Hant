@@ -13,7 +13,7 @@ thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 2%
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，Meijer資深顧問
 
-身為過去五年在[!DNL Adobe]個Experience Cloud產品方面的資深工程師和客戶專家，我讓[Meijer](https://www.meijer.com/){target="_blank"} （成立於1934年的美國超級中心連鎖店）的商業使用者可以使用ACS執行複雜的行銷和交易式行銷活動。 我參與的幾個專案包含自訂行銷活動，以儲存個人化的優惠方案和訂單詳細資料，並與[!DNL Adobe] Audience Manager和客戶insight整合，以便擷取區段。
+身為過去五年在[!DNL Adobe] Experience Cloud產品方面的資深工程師和客戶專家，我讓[Meijer](https://www.meijer.com/){target="_blank"} （成立於1934年的美國超級中心連鎖店）的商業使用者可以使用ACS執行複雜的行銷和交易式行銷活動。 我參與的幾個專案包含自訂行銷活動，以儲存個人化的優惠方案和訂單詳細資料，並與[!DNL Adobe] Audience Manager和客戶insight整合，以便擷取區段。
 
 在使用ACS期間，我遇到一些錯誤，解決這些錯誤會非常耗時且令人沮喪。 瞭解最常見的錯誤，有助於更快速地解決問題，並提高生產力。 以下是我的疑難排解提示，可協助您有效解決類似錯誤。
 
 ## 資料型別不符錯誤
 
-**錯誤碼：**
-`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
+**錯誤碼：
+
 
 **原因：**
 當您嘗試使用不同資料型別的欄位進行調解時，這些型別的錯誤會出現在工作流程中。 例如，當您使用具有字串欄位的載入檔案上傳檔案，並嘗試協調字串欄位與資料型別為int的設定檔欄位時。
@@ -44,8 +44,8 @@ ht-degree: 2%
 
 ## 傳遞Personalization錯誤
 
-**錯誤碼：**
-`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
+**錯誤碼：
+
 
 **原因：**
 當您傳送電子郵件至某個地址，但該電子郵件或任何其他識別碼並未與設定檔進行調解時，會出現此錯誤。 若要傳送電子郵件通訊，電子郵件或識別碼應一律連結至設定檔。
@@ -59,7 +59,7 @@ ht-degree: 2%
 
 ![具有調解詳細資料的工作流程](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-深入瞭解[調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=zh-Hant)。
+深入瞭解[調解](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)。
 
 ## 通用欄位資料集錯誤
 
@@ -87,8 +87,8 @@ ht-degree: 2%
 
 ## 欄位名稱捨棄錯誤
 
-**錯誤碼：**
-`XTK-170036 Unable to parse expression 'i__name'`
+**錯誤碼：
+
 
 **原因：**
 
@@ -110,8 +110,8 @@ ht-degree: 2%
 
 ## 暫存資料表捨棄錯誤 
 
-**錯誤碼：**
-`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
+**錯誤碼：
+
 
 **原因：**
 這是涉及擴充或其他活動的複雜工作流程中的常見錯誤。 這可能表示在對工作流程進行多項變更期間，部分活動工作流程未正確儲存。
