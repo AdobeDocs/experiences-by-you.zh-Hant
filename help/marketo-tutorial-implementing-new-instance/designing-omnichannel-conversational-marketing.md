@@ -1,6 +1,6 @@
 ---
 title: 使用Dynamic Chat設計全通路對話式行銷
-description: 透過Adobe Marketo Engage中的原生對話式參與管道Adobe Dynamic Chat，快速開始設計對話式行銷。 本教學課程提供實作使用案例的可操作方法，例如銷售會議預訂、網站內容參與和活動/網路研討會促銷活動。
+description: 透過Adobe Marketo Engage內的原生對話式參與管道Adobe Dynamic Chat ，快速開始設計對話式行銷。 本教學課程提供實作使用案例的可操作方法，例如銷售會議預訂、網站內容參與和活動/網路研討會促銷活動。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -11,7 +11,7 @@ jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1409'
+source-wordcount: '1458'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 訪客瀏覽您的網站是有原因的。 他們可能會尋找您產品或服務的內容，或尋找聯絡資訊以便與您的銷售代表交談。 他們也可能是在尋找其他產品資訊的客戶。 如果網站訪客準備好與您的銷售團隊交談，聊天功能可讓他們自助服務並取得資格。
 
-當Sara Barriuso實作Dynamic Chat時，她被其與Marketo Engage的緊密整合以及啟動Marketo Engage程式的[預先建置的活動觸發器](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}所吸引，反之亦然。 她針對三個受眾區隔制定了對話式參與策略：
+當Sara Barriuso實作Dynamic Chat時，她被其與Marketo Engage的緊密整合以及啟動Marketo Engage程式的[預先建立的活動觸發器](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}所吸引，反之亦然。 她針對三個受眾區隔制定了對話式參與策略：
 
 1. 未知的潛在客戶：主動提供示範呼叫，以產生新的潛在客戶。
 2. 已知銷售機會/客戶：延長訪客瀏覽內容所花的時間，並提供示範電話來產生向上銷售和交叉銷售機會。
@@ -35,21 +35,21 @@ ht-degree: 0%
 
 ## 開始建立對話方塊的主要使用案例
 
-為了實作這些策略，Sara圍繞以下使用案例建立了她的Dynamic Chat對話方塊：
+為了實作這些策略，Sara圍繞以下使用案例建立了其Dynamic Chat對話方塊：
 
 1. 預設全域對話方塊：為所有訪客提供初始選項，引導他們更有效地完成任務。
 
-2. 推廣活動和網路研討會報名：推動網站訪客報名參加活動和網路研討會，讓他們更快進入購買階段。
+2. 推廣活動和網路研討會報名：推動網站訪客報名參加活動和網路研討會，以便更快進入funnel購買階段。
 
 3. 擴大促銷活動內容參與度：提供額外內容，或解決訪客瀏覽網站內容時的潛在問題。
 
-讓我們在Sara展示其流程時，看看這些使用案例的實際運作情形。從對應對話流程，到設定對話方塊，以及在Dynamic Chat和Marketo Engage中進行目標定位。
+讓我們看看這些使用案例的實際運作情形，Sara將展示其程式流程，從對應對話流程，到在Dynamic Chat和Marketo Engage中設定對話方塊和鎖定目標。
 
 ### 使用案例1：所有網站訪客的預設全面對話方塊
 
 此對話方塊提供五個初始選項供網站訪客選擇，建立自助式體驗，協助他們根據角色尋找所需的資訊。 若要開始，您可能會想要探索「聯絡我們」電子郵件收件匣，以識別常見的主題並將其分類為適用於網站訪客的對話方塊選項。 觀看示範，然後依照下列步驟建立您的預設全包式對話方塊：
 
->[!VIDEO](https://video.tv.adobe.com/v/3453741/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
 
 >[!BEGINTABS]
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 1. 在「對象」中，於「目標」中新增網頁URL，以指出對話方塊會出現的位置。
 2. 在「設定」中，新增行銷活動名稱、說明、優先順序和語言。
-3. 按一下「Publish」
+3. 按一下「發佈」
 
 >[!TAB Marketo Engage]
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 4. 建立測試連結並分享。
 5. 在「對象」中，新增將顯示對話方塊的網頁URL，並將目標更新至您想要的產業。
 6. 在「設定」中，新增行銷活動名稱、說明優先順序和語言。
-7. 按一下「Publish」。
+7. 按一下「發佈」。
 
 >[!TAB Marketo Engage]
 
@@ -126,7 +126,7 @@ ht-degree: 0%
 1. 複製範本。
 2. 將文字複製並貼上新事件的對話方塊訊息
 3. 更新事件連結中使用的UTM引數（例如utm_medium=website&amp;utm_source=adobe）。
-4. 建立測試連結，按一下「Publish」，然後與請求者共用。
+4. 建立測試連結，按一下「發佈」，然後與請求者共用。
 5. 同級檢閱並套用意見回饋。
 
 
@@ -160,18 +160,18 @@ ht-degree: 0%
 2. 在串流Designer中，使用者回答「是」後，新增問題卡「您先前曾與我們共用您的電子郵件地址。 您想要保留此專案以取得事件詳細資料嗎？」
 3. 如果他們回答「是」 — 新增訊息卡「您將在您的電子郵件中收到一封包含活動/網路研討會詳細資訊的確認電子郵件」。
 4. 如果他們回答「否」 — 新增訊息卡「請在註冊頁面上填寫表單」。
-5. 建立測試連結，按一下「Publish」，然後與請求者共用。
+5. 建立測試連結，按一下「發佈」，然後與請求者共用。
 6. 在[對象]索引標籤中，新增[電子郵件不是空的]。
 
 >[!TAB Marketo Engage]
 
-1. 新增此新的對話方塊至追蹤中的Smart Campaign，並加以測試Marketo Engage。
+1. 新增此新的對話方塊至Marketo Engage中的追蹤Smart Campaign並進行測試。
 
 >[!ENDTABS]
 
 ### 使用案例3：擴充行銷活動內容參與度
 
-想像一下，迷人的視窗顯示器能吸引您的眼球，並將您吸引到商店中。 如果接待人員接著協助您選取產品或回答您的問題，您可能會覺得更舒服地購物。 若要線上復寫此體驗，您可以讓Dynamic Chat對話方塊出現在行銷活動導向訪客的網頁上。 當使用者與網路內容互動時，Dynamic Chat會立即顯示相關對話、建議其他內容或解決潛在問題。 這是透過利用自動化觸發器，根據使用者在Dynamic Chat計畫中的參與來啟動Marketo Engage促銷活動來達成。 現在，讓我們來看看如何讓此使用案例更加生動。
+想像一下，迷人的視窗顯示器能吸引您的眼球，並將您吸引到商店中。 如果接待人員接著協助您選取產品或回答您的問題，您可能會覺得更舒服地購物。 若要線上復寫此體驗，您可以讓Dynamic Chat對話方塊出現在行銷活動導向訪客的網頁上。 當使用者與網路內容互動時，Dynamic Chat會立即顯示相關對話、建議其他內容或解決潛在問題。 這是透過利用自動化觸發器，根據使用者在Dynamic Chat方案中的參與度啟動Marketo Engage行銷活動來達成。 現在，讓我們來看看如何讓此使用案例更加生動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
 
@@ -193,8 +193,8 @@ ht-degree: 0%
 
 ## 接下來呢？
 
-* 在[串流Designer](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或離線流程圖中對應您的對話流程。
-* 在Dynamic Chat中建立預設的涵蓋所有對話方塊。
+* 在[串流Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}或離線流程圖中對應您的對話流程。
+* 在Dynamic Chat中建立預設的全方位對話方塊。
 * 在Marketo Engage中使用自動化觸發程式，在行銷活動後啟用交談。
 
 
