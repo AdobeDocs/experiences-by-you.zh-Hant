@@ -32,7 +32,7 @@ ht-degree: 27%
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="提示與秘訣 — 可編輯的範本" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="提示與秘訣 — 可編輯的範本" src="https://video.tv.adobe.com/v/3439848?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +58,7 @@ ht-degree: 27%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="提示與祕訣" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="提示與祕訣" src="https://video.tv.adobe.com/v/3439482?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

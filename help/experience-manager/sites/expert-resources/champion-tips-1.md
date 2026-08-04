@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # AEM Champion秘訣與技巧：可編輯的範本
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439848?captions=chi_hant&quality=12&learn=on)

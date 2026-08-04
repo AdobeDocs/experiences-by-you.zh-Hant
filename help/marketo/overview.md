@@ -32,7 +32,7 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="瀏覽[!DNL Marketo Engage]使用者介面" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="瀏覽[!DNL Marketo Engage]使用者介面" src="https://video.tv.adobe.com/v/3450437?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="報告與分析" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="報告與分析" src="https://video.tv.adobe.com/v/3446431?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="電子郵件程式" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="電子郵件程式" src="https://video.tv.adobe.com/v/3453378?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
