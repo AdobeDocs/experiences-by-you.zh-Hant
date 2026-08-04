@@ -1,6 +1,6 @@
 ---
 title: 規劃新的Marketo Engage實作
-description: 進一步瞭解成功實作新Marketo Engage執行個體的基本規劃和跨職能團隊共同作業。 本教學課程提供里程碑、團隊參與和資源配置的範例，以實現順暢的Marketo Engage實施。
+description: 進一步瞭解成功實作新Marketo Engage執行個體的基本規劃和跨職能團隊共同作業。 本教學課程提供里程碑、團隊參與和資源配置的範例，讓您順暢實施Marketo Engage。
 role: Admin
 level: Beginner
 doc-type: Article
@@ -12,16 +12,16 @@ thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1098'
-ht-degree: 5%
+source-wordcount: '1194'
+ht-degree: 9%
 
 ---
 
 # 規劃新的Marketo Engage實作
 
-實作新的Marketo Engage例項需要細緻的規劃、跨團隊的共同作業以及持續的最佳化。 雖然沒有完美的方法可實作新執行個體，但大多數已執行過該執行個體的Marketo Engage管理員都同意，提前規劃將可讓流程更順暢。
+實作新的Marketo Engage例項需要細緻的計畫、跨團隊的共同作業以及持續的最佳化。 雖然沒有完美的方法可實作新執行個體，但大多數已體驗過該過程的Marketo Engage管理員都同意，提前規劃將可讓流程更順暢。
 
-在本教學課程中，我們將深入探討對於成功的Marketo Engage推出至關重要的特定里程碑、團隊參與和資源配置。
+在本教學課程中，我們將深入探討對於Marketo Engage成功推出至關重要的特定里程碑、團隊參與和資源配置。
 
 ## 新Marketo Engage實作期間的關鍵里程碑
 
@@ -38,7 +38,7 @@ ht-degree: 5%
 
 ### 第3階段 — 方案庫建立和行銷活動設定
 
-- 開發電子郵件範本和登入頁面。 從[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)從[程式匯入程式庫](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式開始。
+- 開發電子郵件範本和登入頁面。 從[從[程式匯入程式庫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)開始。
 - 設定分段和Personalization規則
 - 建立潛在客戶產生和培養的初始行銷活動
 
@@ -56,7 +56,7 @@ ht-degree: 5%
 
 ## 所需的利害關係人參與和資源
 
-實作新執行環境需要謹慎的規劃與執行，以發揮其最大效益。 一開始就讓合適的利害關係人參與進來，有助於根據組織的整體需求量身打造實施。 請參考以下專案中關鍵利害關係人的範例及其潛在角色，協助您找到實施Marketo Engage的合適內部合作夥伴。
+實作新執行環境需要謹慎的規劃與執行，以發揮其最大效益。 一開始就讓合適的利害關係人參與進來，有助於根據組織的整體需求量身打造實施。 請參考以下專案中的關鍵利害關係人範例及其潛在角色，協助您找到實施Marketo Engage的合適內部合作夥伴。
 
 <table>
  <thead>
@@ -67,7 +67,7 @@ ht-degree: 5%
  </thead>    
  <tbody>
     <tr>
-        <td>行銷作業Director/Manager</td>
+        <td>行銷營運總監/經理</td>
         <td>
         <li>專案的主要聯絡視窗</li>
         <li>執行個體治理規則</li> 
@@ -126,7 +126,7 @@ ht-degree: 5%
 
 ## 同儕節點觀點 — Marketo Engage實作
 
-聆聽Marketo Engage Champion (2019)， Kyle McCormick在Palotos Networks上線和實作經驗方面的心得。 您將瞭解他所面臨的挑戰，以及他有關如何成功並有效推動您的上線流程的建議。
+聆聽Marketo Engage Champion (2019)、Kyle McCormick在Palotos Networks上線和實作體驗的相關資訊。 您將瞭解他所面臨的挑戰，以及他有關如何成功並有效推動您的上線流程的建議。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
@@ -165,7 +165,7 @@ ht-degree: 5%
         <td>Web開發團隊</td>
     </tr>
     <tr>
-        <td><em>範例 — </em>設定網域金鑰識別郵件(DKIM)和2個單獨的CNAME，用於傳遞能力及電子郵件追蹤連結。</td>
+        <td><em>範例 — </em>設定Domain Keys Identified Mail (DKIM)和2個個別的CNAME，用於傳遞能力及電子郵件追蹤連結。</td>
         <td bgcolor="c6f0cf">完成</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
@@ -177,7 +177,7 @@ ht-degree: 5%
         <td bgcolor="c6f0cf">完成</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
-        <td>行銷團隊中有關誰需要存取Marketo Engage的資訊。</td>
+        <td>行銷團隊提供的有關誰需要存取Marketo Engage的資訊。</td>
     </tr>
     <tr>
         <td><em>範例 — </em>在Adobe Admin Console中建立其他Marketo Engage產品管理員</td>
@@ -198,19 +198,19 @@ ht-degree: 5%
         <td bgcolor="c6f0cf">完成</td>
         <td>9/7/24</td>
         <td>9/12/24</td>
-        <td>使用Marketo Engage從每個團隊輸入方案型別和組織需求。</td>
+        <td>使用Marketo Engage從每個團隊輸入有關方案型別和組織需求的資訊。</td>
     </tr>
     <tr>
         <td rowspan="2">CRM整合（如果適用）</td>
         <td><em>範例 — </em>在同步之前決定欄位對應</td>
-        <td bgcolor="ffeb9c">正在進行中</td>
+        <td bgcolor="ffeb9c">進行中</td>
         <td>10/22/24</td>
         <td>不適用</td>
         <td>CRM管理員支援瞭解可用欄位。</td>
     </tr>
     <tr>
         <td><em>範例 — </em>進行資料稽核</td>
-        <td bgcolor="ffeb9c">正在進行中</td>
+        <td bgcolor="ffeb9c">進行中</td>
         <td>10/26/24</td>
         <td>不適用</td>
         <td>CRM管理員或預算的支援。</td>
@@ -218,28 +218,28 @@ ht-degree: 5%
     <tr>
         <td rowspan="2">操作計畫建置</td>
         <td><em>範例 — </em>建立程式以標準化傳入的資料</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>11/9/24</td>
         <td>不適用</td>
         <td>來自銷售作業和CRM團隊的支援，用於決定資料管理策略。</td>
     </tr>
     <tr>
         <td><em>範例 — </em>建立電子郵件訂閱中心</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>11/19/24</td>
         <td>不適用</td>
         <td>行銷團隊輸入郵寄清單的內容型別和細分。</td>
     <tr>
         <td rowspan="2">第一個行銷計畫組建</td>
         <td><em>範例 — </em>設定基本電子郵件程式</td>
-        <td bgcolor="ffeb9c">正在進行中</td>
+        <td bgcolor="ffeb9c">進行中</td>
         <td>11/12/24</td>
         <td>不適用</td>
-        <td>數位團隊用於電子郵件和登陸頁面的創意資產。</td>
+        <td>數位團隊的Creative資產，用於電子郵件和登陸頁面。</td>
     </tr>
     <tr>    
         <td><em>範例 — </em>建立每季Newsletter的方案</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>11/30/24</td>
         <td>不適用</td>
         <td>行銷團隊的內容，適用於來自設計團隊的新聞稿電子郵件和創意資產/內容。</td>
@@ -247,14 +247,14 @@ ht-degree: 5%
     <tr>
         <td rowspan="2">LaunchPoint整合設定</td>
         <td><em>範例 — </em>僅建立API使用者和角色</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>11/23/24</td>
         <td>   </td>
         <td>與行銷團隊一起定義新執行個體所需服務的範圍。</td>
     </tr>
     <tr>
         <td><em>範例 — </em>建立Google Ads的自訂服務</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>12/7/24</td>
         <td>   </td>
         <td>支援Web和付費媒體團隊驗證Marketo Engage以存取Google廣告。</td>
@@ -263,27 +263,27 @@ ht-degree: 5%
     <tr>
         <td rowspan="2">使用者培訓和檔案</td>
         <td><em>範例 — </em>為內部使用者建立治理指南</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>12/2/24</td>
         <td>不適用</td>
-        <td>建立Marketo Engage治理團隊，以建立支援治理檔案或預算以將治理專案外包出去。</td>
+        <td>建立Marketo Engage治理團隊，以建立支援的治理檔案或預算，以將治理專案外包出去。</td>
     <tr>
         <td><em>範例 — </em>訓練4使用者，並提供他們標準Marketo使用者存取權</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>12/13/24</td>
         <td>不適用</td>
-        <td>行銷部副總支援將培訓設為Marketo Engage存取的必要條件。</td>
+        <td>行銷部副總支援將培訓設為必須存取Marketo Engage的課程。</td>
     <tr>
         <td rowspan="2">入門</td>
         <td><em>範例 — </em>傳送第一份電子報</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>12/9/24</td>
         <td>不適用</td>
         <td>行銷作業團隊進行QA、排程和傳送。</td>
     </tr>
     <tr>
         <td><em>範例 — </em>提取第一個電子郵件效能報告。</td>
-        <td bgcolor="ffc7cf">未開始</td>
+        <td bgcolor="ffc7cf">尚未開始</td>
         <td>12/16/24</td>
         <td>不適用</td>
         <td>行銷作業團隊進行QA、排程和傳送。</td>
@@ -294,7 +294,7 @@ ht-degree: 5%
 >[!NOTE]
 >提供的範例並非以實際的實作時間表為準。 請勿依賴這些作為您開始使用Marketo Engage的標準時間表，因為每個實作都是根據您組織的需求具有不同的里程碑和要求。
 
-如需實作和自訂您執行個體之Marketo Engage的手動協助，請聯絡Adobe帳戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}。
+如需針對您執行個體實作及自訂Marketo Engage的手動協助，請聯絡Adobe客戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 
