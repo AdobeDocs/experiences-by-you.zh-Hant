@@ -38,7 +38,7 @@ ht-degree: 9%
 
 ### 第3階段 — 方案庫建立和行銷活動設定
 
-- 開發電子郵件範本和登入頁面。 從[&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)從[程式匯入程式庫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式開始。
+- 開發電子郵件範本和登入頁面。 從[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)從[程式匯入程式庫](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)匯入入門程式開始。
 - 設定分段和Personalization規則
 - 建立潛在客戶產生和培養的初始行銷活動
 
@@ -294,7 +294,7 @@ ht-degree: 9%
 >[!NOTE]
 >提供的範例並非以實際的實作時間表為準。 請勿依賴這些作為您開始使用Marketo Engage的標準時間表，因為每個實作都是根據您組織的需求具有不同的里程碑和要求。
 
-如需針對您執行個體實作及自訂Marketo Engage的手動協助，請聯絡Adobe客戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}。
+如需針對您執行個體實作及自訂Marketo Engage的手動協助，請聯絡Adobe客戶團隊或聯絡[Adobe Professional Services](https://business.adobe.com/tw/customers/consulting-services/main.html){target="_blank"}。
 
 ### 作者
 
