@@ -49,7 +49,7 @@ ht-degree: 0%
 
 此對話方塊提供五個初始選項供網站訪客選擇，建立自助式體驗，協助他們根據角色尋找所需的資訊。 若要開始，您可能會想要探索「聯絡我們」電子郵件收件匣，以識別常見的主題並將其分類為適用於網站訪客的對話方塊選項。 觀看示範，然後依照下列步驟建立您的預設全包式對話方塊：
 
->[!VIDEO](https://video.tv.adobe.com/v/3453741/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446486/?captions=chi_hant&learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 您可以結合產業目標式內容，進一步增強預設的全方位對話方塊，讓對話對訪客更有用。 例如，建議下載特定產業白皮書或個案研究。 觀看示範，並依照下列步驟建立帳戶型行銷的預設全包式對話方塊：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441396/?captions=chi_hant&learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 活動和網路研討會是B2B企業產生需求的熱門行銷策略。 他們提供吸引人的體驗和豐富的資訊，吸引潛在客戶。 將您的網站訪客連結至即將舉辦的活動和網路研討會，讓您更快取得潛在客戶的資格。 建立此對話方塊可簡化工作且成本低，並可快速展示成功，協助您獲得行銷利害關係人的支援，以將對話式參與加入您的全通路自動化計畫。 觀看示範，並依照下列步驟建立您的活動/網路研討會促銷活動對話方塊：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445101/?captions=chi_hant&learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ ht-degree: 0%
 >[!NOTE]
 >請考量某些保護性國家/地區的潛在安全風險，並與您的法律團隊協商，謹慎實施此個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437100/?captions=chi_hant&learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +173,11 @@ ht-degree: 0%
 
 想像一下，迷人的視窗顯示器能吸引您的眼球，並將您吸引到商店中。 如果接待人員接著協助您選取產品或回答您的問題，您可能會覺得更舒服地購物。 若要線上復寫此體驗，您可以讓Dynamic Chat對話方塊出現在行銷活動導向訪客的網頁上。 當使用者與網路內容互動時，Dynamic Chat會立即顯示相關對話、建議其他內容或解決潛在問題。 這是透過利用自動化觸發器，根據使用者在Dynamic Chat方案中的參與度啟動Marketo Engage行銷活動來達成。 現在，讓我們來看看如何讓此使用案例更加生動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437591/?captions=chi_hant&learn=on)
 
 延伸Campaign內容參與 — 設定：
 
->[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439508/?captions=chi_hant&learn=on)
 
 >[!BEGINTABS]
 
