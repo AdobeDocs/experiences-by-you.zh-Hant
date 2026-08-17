@@ -129,7 +129,7 @@ ht-degree: 0%
 
 瞭解Marketo Engage和Salesforce如何搭配使用，讓您的銷售和行銷資料保持同步。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426907/?captions=chi_hant&learn=on)
 
 +++**視訊中使用的連結：**
 
@@ -155,7 +155,7 @@ ht-degree: 0%
 
 瞭解Microsoft Dynamics 365同步如何運作，並正確設定設定，以允許兩個系統相互溝通。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430210/?captions=chi_hant&learn=on)
 
 +++**視訊中使用的連結：**
 
