@@ -13,7 +13,7 @@ thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
 source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1692'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ _徹底革新您的資料策略，讓您的團隊能夠建立可靠的解決方�
 
 來自一個團隊的投訴，例如：
 
-「為什麼我搞不清這個漏斗的轉換率？」
+「為什麼我無法計算此funnel的轉換率？」
 
 「為什麼這裡沒有量度？」
 
@@ -48,7 +48,7 @@ _您的團隊成員為何不接受此專案？_
 
 ## 做法
 
-_瞭解測量會議。 使用漏斗對應，將計畫的每個步驟視覺化。 建立模擬儀表板以群組檢閱。 建立使用者的資料字典。_
+_瞭解測量會議。 使用funnel地圖將您計畫的每個步驟視覺化。 建立模擬儀表板以群組檢閱。 建立使用者的資料字典。_
 
 ### 測量會議
 
@@ -59,18 +59,18 @@ _瞭解測量會議。 使用漏斗對應，將計畫的每個步驟視覺化。
 1. 對於投票率低的任何量度和維度，請讓提出要求的利害關係人說明為何會使用這些元件。 如果有好的使用案例，請保留這些元件。 如果有更好的方式可取得該資料，或沒人能解釋這些資料如何操作，或如果有另一個很好的理由移除量度和維度，請這樣做。
 1. 將這些量度和維度新增到您的SDR，以便出席的利害關係人進行初步審查。
 
-### 漏斗圖
+### funnel地圖
 
 1. 取得所有漏斗的視覺效果，並逐步包含每個狀態。
-1. 與設計師和產品經理一起完成每個步驟，並討論在該漏斗中所有人都認為成功的因素。 這是轉換率嗎？ 它是否選擇特定路徑？ 它使用某些功能嗎？
-1. 詢問哪些量度和維度是瞭解漏斗每個步驟及整體效能的必要條件。
-1. 在漏斗的每個步驟上方，新增在該步驟中測量的量度和維度，包括計算量度。
-1. 在每個漏斗的開頭，寫出進入控制面板的報告，產品經理可以使用它來追蹤效能。 這些報表包括[流失報表](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[當月](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趨勢轉換率](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/visualizations/line)，以及該漏斗的其他特定專案。
+1. 與設計師和產品經理一起完成每個步驟，並討論在該funnel中所有人都認為成功的要素。 這是轉換率嗎？ 它是否選擇特定路徑？ 它使用某些功能嗎？
+1. 詢問哪些量度和維度需要瞭解funnel在funnel各個步驟及整體上的效能。
+1. 在funnel的每個步驟上方，新增在該步驟中測量的量度和維度，包括計算量度。
+1. 在每個funnel的開頭，寫出進入控制面板的報告，產品經理可以使用它來追蹤效能。 這些報表包括[流失報表](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow)、[當月](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges)、[趨勢轉換率](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)，以及該funnel特有的任何專案。
 1. 將您發現的新量度和維度新增至SDR，並傳送給利害關係人進行第二次審查。
 
 ### 預覽儀表板
 
-1. 使用漏斗圖作為指南，建立模型儀表板。
+1. 以funnel地圖為指南，建立模型儀表板。
 1. 每個漏斗都應該有一個整體檢視，例如[執行摘要儀表板](driving-success-with-executive-summary-dashboards.md)和儀表板。
 1. 此外，還將針對您的網站或應用程式進行一些更具體的設定，例如產品效能或內容效能。
 1. 將這些資料分發給相關利害關係人，並取得設計的意見回饋。
@@ -105,7 +105,7 @@ _瞭解如何收集需求、建立資料文化、深入思考資料、建立資�
 
 對於您公司的許多人來說，資料是他們所消耗的東西。 他們使用它。 他們加以分析。 他們不會深思熟慮。 有些人從他們的前輩繼承了報告和流程，但為了連續性尚未變更它們。 這些人可能永遠不需要考慮資料的&#x200B;_為什麼_。
 
-此程式讓他們有機會真正&#x200B;_瞭解_&#x200B;資料。 詢問諸如「什麼是成功？」之類的問題。 您如何知道自己是否成功？ 若未成功，您如何知道要變更什麼？ 建立每個網站、應用程式和產品時，都必須先回答這些問題，但很多時候並非如此。透過提出這些問題，您不僅有助於加深個人對資料的瞭解，而且還有助於加深個人對產品的瞭解。
+此程式讓他們有機會真正&#x200B;_瞭解_&#x200B;資料。 詢問諸如「什麼是成功？」之類的問題。 您如何知道自己是否成功？ 若未成功，您如何知道要變更什麼？ 建立每個網站、應用程式和產品時，都必須先回答這些問題，但很多時候並非如此。 透過提出這些問題，您不僅有助於加深個人對資料的瞭解，而且還有助於加深個人對產品的瞭解。
 
 ### 建立對資料的所有權感
 
