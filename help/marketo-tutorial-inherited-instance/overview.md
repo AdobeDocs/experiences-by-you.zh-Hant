@@ -24,7 +24,7 @@ ht-degree: 0%
 
 如果您繼承由多人管理的即時[!DNL Marketo Engage]執行個體，您可能會發現自己對一切似乎不妥當的事情進行心理記事。 請務必透過分類任務，然後優先處理那些進展很長的任務，來組織清理和最佳化工作。
 
-此「繼承執行個體稽核秘訣和技巧」教學課程源自[!DNL Adobe] Marketo Champions，可為新管理員提供逐步指引。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！
+此「繼承執行個體稽核秘訣和技巧」教學課程源自[!DNL Adobe] Marketo Champions，可為新管理員提供逐步指引。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hant)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！
 
 ## 主題和您將學到的內容
 
