@@ -13,14 +13,14 @@ thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 # 稽核繼承[!DNL Marketo Engage]執行個體的秘訣與技巧
 
-*Source：AdobeMarketo Champions*
+*Source： Adobe Marketo Champions*
 
 如果您繼承由多人管理的即時[!DNL Marketo Engage]執行個體，您可能會發現自己對一切似乎不妥當的事情進行心理記事。 請務必透過分類任務，然後優先處理那些進展很長的任務，來組織清理和最佳化工作。
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 * **[稽核繼承的執行個體](/help/marketo-tutorial-inherited-instance/audit-an-inherted-instance.md)**
   *瞭解如何稽核您的新執行個體。 使用現成可用的工具（例如[!DNL Campaign]s Inspectors）測試繼承的設定，以深入瞭解您的執行個體*
 
-* **[記錄CRM同步處理錯誤，以方便疑難排解](/help/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshooting.md)**
+* **[記錄CRM同步錯誤，以方便疑難排解](/help/marketo-tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshooting.md)**
   *瞭解如何建立管理員常式，以檢閱通知、CRM同步、Launchpoint和Web服務，並及時疑難排解錯誤。*
 
 * **[開發執行個體治理指南](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
