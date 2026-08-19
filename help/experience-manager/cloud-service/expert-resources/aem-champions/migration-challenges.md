@@ -20,6 +20,6 @@ ht-degree: 47%
 
 # AEM Champion最佳作法和秘訣 — 解決移轉至AEM as a Cloud Service時的常見挑戰
 
-探究 AEM 專家 Wilson Faure 分享的寶貴見解和最佳實務。在本影片中，他深入探討了移轉至 AEM as a Cloud Service 期間遇到的常見困難和挑戰，並提供了建議和專家提示，以利順利且成功進行轉換。
+探究 AEM 專家 Wilson Faure 分享的寶貴洞察和最佳實務。 在本影片中，他深入探討了移轉至 AEM as a Cloud Service 期間遇到的常見困難和挑戰，並提供了建議和專家提示，以利順利且成功進行轉換。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448622/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3427673/?learn=on)
