@@ -26,7 +26,7 @@ ht-degree: 0%
 
 儘管具備這些優點，實作Web SDK的想法即使不是完全無法承受，也令人生畏。 這就是我建立此策略指南的原因，可協助您展開此歷程，以實作Web SDK。
 
-下載實作網頁SDK](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}的[策略指南。
+下載實作網頁SDK[&#128279;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"}的策略指南。
 
 
 ## 作者
