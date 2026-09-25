@@ -7,17 +7,15 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
 source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '879'
 ht-degree: 0%
-
 ---
-
 # 使用執行摘要儀表板推動成功案例
 
 _高階主管的網站和應用程式經常缺乏及時且相關的資訊，依賴每月的Excel圖表或淹沒在精細的資料中。 解決方案： Experience Manager Cloud Managerarketo Engagexecutive摘要儀表板。_
