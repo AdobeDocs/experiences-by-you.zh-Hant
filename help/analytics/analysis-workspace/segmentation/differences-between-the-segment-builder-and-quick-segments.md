@@ -66,4 +66,4 @@ Adobe Analytics達人
 
 ## 下載
 
-[![快速區段下載](assets/quick-segments-download-small.jpg)](assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![快速區段下載](assets/quick-segments-download-small.jpg)] (assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
