@@ -8,13 +8,11 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: baeaa90e-8cce-4ddd-b099-fecd266e410c
-source-git-commit: 849ec510944d3299c3515fcecd5fc57d74c3fa26
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace中的區段產生器和快速區段之間的差異
 
 區段可能是資料分析工具組中功能最強大的工具之一。 瞭解在Analysis Workspace中使用區段產生器和快速區段以提高效率之間的差異。
@@ -68,4 +66,4 @@ Adobe Analytics達人
 
 ## 下載
 
-[![快速區段下載](assets/quick-segments-download-small.jpg)] (assets/[!DNL Adobe]_[!DNL Analytics]_&#x200B;Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![快速區段下載](assets/quick-segments-download-small.jpg)] (assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)

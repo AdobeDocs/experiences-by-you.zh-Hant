@@ -4,18 +4,16 @@ description: 向其他Adobe客戶學習如何使用Experience Cloud應用程式�
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
-solution: Experience Cloud
+solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 12%
-
 ---
-
 # 依您的體驗：依使用者的資源，適用於使用者。
 
-[!DNL Adobe]數位體驗(DX)解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。_您的_&#x200B;體驗包含日常使用者所建立的內容，這些使用者已透過其[!DNL Adobe] DX解決方案獲得專業知識及影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
+[!DNL Adobe]數位體驗(DX)解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 _您的體驗_&#x200B;包含日常使用者所建立的內容，這些使用者已透過其[!DNL Adobe] DX解決方案獲得專業知識及影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
