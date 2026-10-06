@@ -6,17 +6,30 @@ feature: Cohort Analysis
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1151'
 ht-degree: 0%
-
 ---
-
 # 使用同類群組分析來瞭解客戶行為
 
 若要改善客戶體驗和收入，企業必須瞭解客戶行為。 同類群組分析有助於理解參與度和保留率，進而改善帳戶建立作業，並為高流量月份建立行銷活動。
@@ -56,7 +69,7 @@ ht-degree: 0%
 1. **包含條件：**&#x200B;次造訪
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 1. **區段：**&#x200B;您可以選取特定區段，以進一步推動此分析
    1. 特定登陸頁面
@@ -116,7 +129,7 @@ ht-degree: 0%
 1. **包含條件：**&#x200B;造訪+登入成功事件
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 
 ### 解譯結果

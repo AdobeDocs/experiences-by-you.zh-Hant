@@ -1,6 +1,6 @@
 ---
 title: 有關如何簡化和減少使用者培訓時間的秘訣和竅門
-description: 確保貴組織的商務使用者已接受 [!DNL Adobe Analytics] 的良好訓練，對於協助建立資料導向式決策的文化至關重要。 使用者若能輕鬆地在 [!DNL Adobe Analytics] 內尋找資訊，就可以自行回答簡單的業務問題，讓分析師有更多時間回答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地根據績效進行決策。
+description: 確保貴組織的商務使用者已接受[!DNL Adobe Analytics]的良好訓練，對於協助建立資料導向式決策的文化至關重要。 使用者若能在[!DNL Adobe Analytics]中輕鬆找到資訊，就可以自行解答簡單的業務問題，好讓分析師有更多時間解答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地根據績效進行決策。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -11,16 +11,26 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '905'
 ht-degree: 0%
-
 ---
-
 # 有關如何簡化和減少使用者培訓時間的秘訣和竅門
 
->[!VIDEO](https://video.tv.adobe.com/v/341110/?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 確保貴組織的商務使用者已接受[!DNL Adobe Analytics]的良好訓練，對於協助建立資料導向式決策的文化至關重要。 使用者若能在[!DNL Adobe Analytics]中輕鬆找到資訊，就可以自行解答簡單的業務問題，好讓分析師有更多時間解答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地根據績效進行決策。
 

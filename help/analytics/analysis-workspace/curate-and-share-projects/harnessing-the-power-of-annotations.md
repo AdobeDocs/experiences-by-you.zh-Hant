@@ -6,17 +6,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-17T00:00:00Z
+last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15331
 thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
-source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 3%
-
 ---
-
 # 釋放分析insight；運用註釋的力量
 
 註解資料元件是最簡單但長遠而言是Adobe Analysis Workspace中最省時的功能之一。 與Workspace內的任何其他功能不同，它可當作您和您的Workspace同僚使用者的敘述性歷史記憶體。
@@ -44,7 +57,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-如需註解如何運作的所有詳細資訊，請務必參閱Experience League[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的影片教學課程。
+如需註解如何運作的所有詳細資訊，請務必參閱Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)上的[影片教學課程。
 
 ## 開始使用的秘訣與技巧
 
@@ -75,7 +88,7 @@ ht-degree: 3%
 
 ![9thimage](assets/9thimage.png)
 
-如需詳細檔案，請造訪[註解概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/components/annotations/overview)和周圍文章。
+如需詳細檔案，請造訪[註解概觀](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview)和周圍文章。
 
 ## 作者
 

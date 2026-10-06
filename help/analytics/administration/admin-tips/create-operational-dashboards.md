@@ -1,6 +1,6 @@
 ---
 title: 在Analysis Workspace中建立運作儀表板
-description: 探索 [!DNL Adobe Analytics] Workspace中的操作儀表板如何徹底改變通訊和效率。
+description: 探索[!DNL Adobe Analytics] Workspace中的營運儀表板如何徹底改變通訊和效率。
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # 在Analysis Workspace中建立營運儀表板
 
 _探索[!DNL Adobe Analytics] Workspace中的營運儀表板如何徹底改變通訊和效率。 探索如何建立常見問答集、新聞與公告、錯誤與功能儀表板，以簡化資訊、改善使用者體驗並增強參與度。_
@@ -28,7 +41,7 @@ _探索[!DNL Adobe Analytics] Workspace中的營運儀表板如何徹底改變�
 
 我注意到使用者經常忽略我對Confluence網站的轉介，原因如「我的VPN已關閉」或「我現在無法閱讀」等。基本上，「我稍後再看該檔案」的意思是該檔案永遠不會被閱讀，下週將再次詢問同樣的問題。
 
-***實現點選：**&#x200B;Workspace的多功能性可能會改變遊戲規則。 使用者偏好在Workspace中快速、直接的解答，因此我們會將其保留在那裡以避免額外的步驟。*
+***實現點選：**Workspace的多功能性可能會改變遊戲規則。 使用者偏好在Workspace中快速、直接的解答，因此我們會將其保留在那裡以避免額外的步驟。*
 
 我著手建立營運儀表板，與全公司共用。 目前為止，這些設定讓使用者瞭解最新資訊、獲得集中式資訊，並減少挫敗感。 這是一個簡單、不斷發展的流程，會隨著時間推移而提高效率。
 
@@ -49,7 +62,7 @@ _探索[!DNL Adobe Analytics] Workspace中的營運儀表板如何徹底改變�
 
 厭倦了不斷重複答案的循環？ 停止！ 製作常見問題集控制面板，節省時間。 使用者可在詢問前先行諮詢，或者您可快速在回應中連結至該網站。
 
-只要建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hant)，其中包含格式化為標題的問題，以及內容形式的回答/解釋，全部收合以僅顯示問題。 依關聯性（例如，頁面或產品）或使用面板來分組。 保持簡單，在頂端優先處理常見查詢。
+只要建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中包含格式化為標題的問題，以及內容形式的回答/解釋，全部收合以僅顯示問題。 依關聯性（例如，頁面或產品）或使用面板來分組。 保持簡單，在頂端優先處理常見查詢。
 
 請更新您的常見問題儀表板，而不要撰寫長長的電子郵件或重新探索舊的解釋。 立即開始並隨著時間擴展。 使用超連結來參照報表中的其他儀表板或相關的常見問題。 必要時透過從其他儀表板連結至常見問答集，提供複雜的內容。
 

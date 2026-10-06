@@ -1,6 +1,6 @@
 ---
-title: 以非技術方式翻譯 [!DNL Adobe Analytics] 技術語言
-description: 數位世界的關注度前所未有，因此，對於 [!DNL Adobe Analytics] 設定中可用的豐富資料，有越來越高的瞭解、分析和操作需求。 由於關注度的提升，出現了對prop和eVar世界完全陌生的一群利害關係人。 身為貴組織的 [!DNL Adobe Analytics] 專家，您是協助利害關係人瞭解技術細節並充分運用 [!DNL Adobe Analytics] 投資的關鍵人物。
+title: 以非技術方式翻譯[!DNL Adobe Analytics]技術語言
+description: 數位世界獲得的關注度前所未有，因此，對於[!DNL Adobe Analytics]設定中可用的豐富資料，有越來越高的瞭解、分析和操作需求。 由於關注度的提升，出現了對prop和eVar世界完全陌生的一群利害關係人。 身為貴組織的[!DNL Adobe Analytics]專家，您是協助利害關係人瞭解技術細節並充分運用您的[!DNL Adobe Analytics]投資的關鍵。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1009'
 ht-degree: 0%
-
 ---
-
 # 以非技術方式翻譯[!DNL Adobe Analytics]技術語言
 
 >[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
@@ -35,7 +45,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**用描述清楚地命名元件（亦即維度、區段和量度）共用eVar和prop的資料字典總是普及組織資料的極佳步驟，但不要指望臨時使用者可以透過索引/數字記住所有自訂變數及其預期用途。 反之，在[!DNL Adobe] Workspace中，請確定元件名稱具有描述性，並附有有意義的標籤和說明。 這可協助您的使用者在數百個eVar和無限的量度/區段中，快速找到正確的量度。
+>**用描述清楚地命名元件（亦即維度、區段和量度）**
+>共用eVar和prop的資料字典總是普及組織資料的極佳步驟，但不要指望臨時使用者可以透過索引/數字記住所有自訂變數及其預期用途。 反之，在[!DNL Adobe] Workspace中，請確定元件名稱具有描述性，並附有有意義的標籤和說明。 這可協助您的使用者在數百個eVar和無限的量度/區段中，快速找到正確的量度。
 
 ## 秘訣#2：尋找共同語言
 
@@ -45,7 +56,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**讓您的實作反映共同語言[!DNL Adobe Analytics] UI中的幾乎所有內容都是可自訂的。 如果您的組織將購物車稱為購物袋，您可以將購物車事件重新命名為購物袋。
+>**讓您的實作反映共同語言**
+>[!DNL Adobe Analytics] UI中的幾乎所有內容都是可自訂的。 如果您的組織將購物車稱為購物袋，您可以將購物車事件重新命名為購物袋。
 >
 >如果您發現有數個同義詞，或是有些辭彙經常讓使用者混淆，則可考慮為貴組織建立控制辭彙表。 主動推動偏好術語的標準化。 並檢視入職和啟用工作階段中最常見的混淆術語，協助使用者適應。
 
@@ -57,7 +69,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**建立註解解決方案專屬的工作區範本和指引運用Analysis Workspace中的公司報告（範本）和文字視覺效果來建立上下文指南，協助新起之秀維持正確的方向。
+>**建立註解解決方案專屬的工作區範本和指引**
+>運用Analysis Workspace中的公司報告（範本）和文字視覺效果來建立上下文指南，協助新起之秀維持正確的方向。
 >
 >Analysis Workspace的靈活性可讓您建立範本以加快分析速度，並實現自助服務和自我啟用。 結合精選範本、註解和工作區間/工作區內部連結等功能，您可以在[!DNL Adobe Analytics]的情境下，為非技術使用者建立高效率、可存取且易於散佈的指南。
 

@@ -1,5 +1,5 @@
 ---
-title: 下載 [!DNL Adobe Analytics] 實作行動手冊
+title: 下載[!DNL Adobe Analytics]實施行動手冊
 description: 業務需求檔案（通常稱為BRD）是關鍵利害關係人、業務使用者和技術使用者希望能合作處理的重要檔案。 它是用來記錄所有您想要的KPI、報告要求以及您希望在AA實施完成時看到的任何資料點。
 solution: Analytics
 feature-set: Analytics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1800'
 ht-degree: 0%
-
 ---
-
 # 下載[!DNL Adobe Analytics]實施行動手冊
 
 開始之前，請[下載行動手冊](assets/aa-implementation-playbook.xlsx)。
@@ -89,7 +102,7 @@ ht-degree: 0%
 
 **理由：**&#x200B;這可讓您清楚瞭解使用者在所有數位屬性中的旅程，以及[!DNL Adobe Analytics]涵蓋和未涵蓋的內容，因此您可以優先為缺少標籤的屬性新增標籤。 以這種方式配置您的數位生態系統，可以找出標籤策略中的潛在機會，進而全面瞭解使用者的旅程。 例如 — 您是否需要全域報表套裝來追蹤多個網域/網站？ 網域或應用程式之間是否需要將訪客ID切換至混合體驗？ 是否需要更新內部URL篩選器以進行跨網域追蹤？
 
-**做法：**&#x200B;識別檔案的所有者，以提供控管和管理更新的單一責任來源。
+**做法：**識別檔案的所有者，以提供控管和管理更新的單一責任來源。
 在屬性標籤上列出下列內容：
 
 * **屬性名稱：**&#x200B;這可以是網域、子網域、應用程式名稱等。即使在同一個網域中，如果某些部分是分開管理的（例如由不同的團隊或不同的技術管理），這些應該分離出來。
@@ -105,7 +118,7 @@ ht-degree: 0%
 >
 >在[!DNL Adobe Analytics]中建立網站名稱/屬性維度。 在[!DNL Adobe Analytics]中擁有專門用於識別網站名稱/應用程式名稱的專用維度（通常是eVar），可允許進行分段、疑難排解、虛擬報告套裝建立等。其好處無窮無盡，尤其是在一個（全域）報告套裝中結合多個網站時。 關鍵是確保開發團隊一律在屬性維度中設定此值，包括所有頁面載入（s.t呼叫/trackState）和所有自訂事件（s.tl呼叫/trackAction）。 處理規則可以是有價值的工具，可協助您正確且一致地設定這些值。
 
-[觀看Doug Moore製作的這部影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant){target="_blank"}，瞭解填寫實施行動手冊的詳細資訊。
+[觀看Doug Moore製作的這部影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}，瞭解填寫實施行動手冊的詳細資訊。
 
 ## 作者
 

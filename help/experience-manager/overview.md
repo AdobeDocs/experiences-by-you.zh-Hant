@@ -6,13 +6,26 @@ level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 27%
-
+source-wordcount: '265'
+ht-degree: 24%
 ---
-
 # Experience Manager by You：依使用者的資源，適用於使用者的資源。
 
 有關[!DNL Adobe] Experience Cloud解決方案最強大的功能？ 您。 使用者取得產品、深入瞭解產品，並以令人驚豔、創新的方式應用產品，以創造有意義的體驗和結果。 「您的體驗」包含日常使用者所建立的內容，這些使用者已透過[!DNL Adobe] Experience Cloud解決方案獲得一定程度的專業知識與影響力。 此對等式知識鼓勵共同作業和探索，讓您和任何使用者都能找到提升產品專業知識所需的靈感。
@@ -32,7 +45,7 @@ ht-degree: 27%
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="提示與秘訣 — 可編輯的範本" src="https://video.tv.adobe.com/v/3439848?captions=chi_hant&format=jpeg" />
+      <img alt="提示與秘訣 — 可編輯的範本" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +71,7 @@ ht-degree: 27%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="提示與祕訣" src="https://video.tv.adobe.com/v/3439482?captions=chi_hant&format=jpeg" />
+      <img alt="提示與祕訣" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -76,7 +89,7 @@ ht-degree: 27%
 
 ## 其他資源
 
-* [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hant)
-* [Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)
-* [Experience Manager教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=zh-Hant)
-* [Experience Manager產品資訊](https://business.adobe.com/tw/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [Experience Manager教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Experience Manager產品資訊](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

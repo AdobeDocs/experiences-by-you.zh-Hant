@@ -1,30 +1,40 @@
 ---
-title: 稽核繼承 [!DNL Marketo Engage] 執行個體的秘訣與技巧
-description: 瞭解如何最佳化及擴充您繼承的即時 [!DNL Marketo Engage] 執行個體。
+title: 稽核繼承[!DNL Marketo Engage]執行個體的秘訣與技巧
+description: 瞭解如何最佳化和擴充您繼承的即時[!DNL Marketo Engage]執行個體。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # 稽核繼承[!DNL Marketo Engage]執行個體的秘訣與技巧
 
 *Source： Adobe Marketo Champions*
 
 如果您繼承由多人管理的即時[!DNL Marketo Engage]執行個體，您可能會發現自己對一切似乎不妥當的事情進行心理記事。 請務必透過分類任務，然後優先處理那些進展很長的任務，來組織清理和最佳化工作。
 
-此「繼承執行個體稽核秘訣和技巧」教學課程源自[!DNL Adobe] Marketo Champions，可為新管理員提供逐步指引。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=zh-Hant)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！
+此「繼承執行個體稽核秘訣和技巧」教學課程源自[!DNL Adobe] Marketo Champions，可為新管理員提供逐步指引。 此教學課程隨附可下載的[稽核檢查清單](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html)和範本，協助您立即開始繼承的執行個體。 觀看教學課程，並從同行的學習中獲得靈感！
 
 ## 主題和您將學到的內容
 

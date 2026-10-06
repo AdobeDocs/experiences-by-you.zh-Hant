@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
-
+source-wordcount: '343'
+ht-degree: 6%
 ---
-
 # 建立基本的錄製培訓課程和短影片
 
 **主題：**&#x200B;建立涵蓋一系列基本和進階主題的簡單培訓短影片，當使用工具的新使用者人數增加時，您就不用每次還要開會提供相同的內容。
@@ -33,9 +46,9 @@ ht-degree: 0%
 * [!DNL Adobe Analytics]中的前5個秘訣（例如：如何建立下拉式清單）
 * 如何使用Attribution IQ
 
-然後，您就可以輕鬆地將使用者指向這些內容，而無需撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多秘訣和技巧，請檢視[[!DNL Adobe] 達人Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"}，說明如何簡化和減少培訓使用者的時間。
+然後，您就可以輕鬆地將使用者指向這些內容，而無需撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多提示和技巧，請檢視[[!DNL Adobe] 達人Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"}，其內容是簡化和減少培訓使用者的時間。
 
-此外，在[!DNL Adobe]Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/zh-hant?lang=en#dashboard/learning){target="_blank"}。 如果您需要貴公司專屬的資料和業務KPI影片，那麼請務必自行錄製影片。 但是，如果普通的教學影片就足以滿足需求，您就不需要重新發明方向盤。
+此外，[!DNL Adobe] Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}。 如果您需要貴公司專屬的資料和業務KPI影片，那麼請務必自行錄製影片。 但是，如果普通的教學影片就足以滿足需求，您就不需要重新發明方向盤。
 
 ## 作者
 
