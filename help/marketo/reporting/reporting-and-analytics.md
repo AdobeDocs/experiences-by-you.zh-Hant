@@ -37,7 +37,7 @@ ht-degree: 4%
 ## 其他資源
 
 * **產品檔案**
-瞭解您可以提取的不同報告 — [報告總覽](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&sdid=M7K4SLTS&mv=email&mv2=instreml)
+瞭解您可以提取的不同報告 — [報告總覽](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=zh-Hant&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **專家客戶部落格**
 向Chelsea Kiko學習如何建立各種報告 — [在不同空間報告 [!DNL Marketo Engage] 3&rbrace;](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

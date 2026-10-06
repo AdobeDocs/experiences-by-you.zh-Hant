@@ -30,7 +30,7 @@ ht-degree: 2%
 
 ## 為何需要建構資料夾並套用命名慣例？
 
-在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要組織執行個體中的導覽樹狀結構並大規模建置，建議使用[資料夾](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準命名慣例](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[複製](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
+在執行個體中保持井然有序，可讓您和您的同事輕鬆追蹤行銷活動、方案和資產，並報告方案績效。 若要組織執行個體中的導覽樹狀結構並大規模建置，建議使用[資料夾](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}、[標準命名慣例](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}以及[複製](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}等功能。
 
 ## 如何組織Marketo Engage執行個體
 
@@ -38,7 +38,7 @@ ht-degree: 2%
 
 ### 步驟1 — 設定檔案夾結構以整理您的程式
 
-組織執行個體的第一個步驟是[設定資料夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)以易於找到且有序的方式存放您的程式和資產。
+組織執行個體的第一個步驟是[設定資料夾結構](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=zh-Hant)以易於找到且有序的方式存放您的程式和資產。
 
 在樹狀結構中建構資料夾時，以下是一些快速秘訣：
 
@@ -189,7 +189,7 @@ ht-degree: 2%
 
 * 下載工作表： [Marketo Engage組織和命名慣例](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}以支援建立資料夾結構和命名慣例。
 * 決定標準命名慣例中的必要元件後，請考慮將公式建置到Google工作表或Microsoft Excel中。 若日後使用，只需在試算表中輸入您的值，即可產生您的程式名稱。
-* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 請閱讀以開始使用[Adobe Marketo Engage方案範本](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
+* 一旦您調整好整體檔案夾結構，您就可以根據最常見的使用案例和團隊最常收到的請求，來思考您需要的範本。 然後開始建立您的第一個方案範本。 請閱讀以開始使用[Adobe Marketo Engage方案範本](https://business.adobe.com/tw/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}。
 
 ### 作者
 

@@ -39,9 +39,9 @@ AEM成熟度評估主要針對內部部署和受管服務實作。 每個AEM實�
 
 如需管理、開發或編寫的最佳實務，請參閱下列資源：
 
-* [管理最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [開發最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [製作最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [管理最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=zh-Hant)
+* [開發最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=zh-Hant)
+* [製作最佳實務](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=zh-Hant)
 
 上述每一個最佳實務領域也包含編寫、開發和部署AEM的進一步最佳實務。
 

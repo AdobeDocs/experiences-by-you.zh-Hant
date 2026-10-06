@@ -151,7 +151,7 @@ Workspace可讓您自由發揮創意，不限於「標準」劃分。 您可以�
 
 >[!IMPORTANT]
 >
->若要進一步瞭解如何使用下拉式清單和自由格式劃分，請參閱<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>若要進一步瞭解如何使用下拉式清單和自由格式劃分，請參閱<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=zh-Hant>
 
 ##### 2.1.2.2. Google [!DNL Analytics]：儀表板、自訂報告和儲存的報告
 
@@ -281,7 +281,7 @@ Report Builder是適用於Microsoft® Excel的外掛程式，可讓您建立與[
 
 除了本指南以外，還有許多資源可幫助您改善策略：
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) — 包含教學課程、影片、檔案和社群論壇
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/zh-hant#home) — 包含教學課程、影片、檔案和社群論壇
 * [[!DNL Adobe] 使用者群組](https://analytics-augs.adobe.com/) — 這是社群開展活動的中樞，可幫助使用者互相交流並改善其實作。
 * [[!DNL Adobe Analytics] 使用者群組YouTube頻道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) — 無法加入[!DNL Adobe Analytics]使用者群組工作階段？ 重新觀看先前全球使用者群組時段內容，瞭解更多關於您的同業如何使用該工具。
 * [Measure Chat Slack頻道](https://www.measure.chat/) — 與全球[!DNL Adobe Analytics]位使用者交流，並分享業界學習經驗、向同業請教，並加入衡量主要利益群組。
