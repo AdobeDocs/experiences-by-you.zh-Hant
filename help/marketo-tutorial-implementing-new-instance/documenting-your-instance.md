@@ -30,7 +30,7 @@ ht-degree: 1%
 
 但事情並不僅限於此。 您的團隊可能需要補充賦權檔案或訓練教材，以提高他們對Marketo Engage的熟練程度。 這些資源可能包括互動練習、存取測驗或Marketo Engage中允許動作指南，讓貴組織內的所有Marketo Engage使用者受益。 無論是建立完整的治理指南，還是最初記錄關鍵設定方面，記錄上線期間所做的決定是確保您目前團隊和未來新員工成功使用Marketo Engage的關鍵。
 
-透過瞭解檔案與控管的重要性，本教學課程深入探討由專家同儕提出的最佳實務[您的Marketo Engage控管與訓練檔案快速入門](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank}和[您如何記錄您的執行個體？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}，以協助您制定程式並保持檔案與內部使用者相關。
+透過瞭解檔案與控管的重要性，本教學課程深入探討由專家同儕提出的最佳實務[您的Marketo Engage控管與訓練檔案快速入門](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank}和[您如何記錄您的執行個體？](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}，以協助您制定程式並保持檔案與內部使用者相關。
 
 ## 為何在執行個體實施期間記錄變更和決定至關重要
 
@@ -75,7 +75,7 @@ ht-degree: 1%
    * 個人生命週期
    * 資料管理
 1. 在Marketo Engage例項中建置
-   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
+   * [卓越中心(COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
    * 資料夾結構
    * 命名慣例
    * 方案組織
