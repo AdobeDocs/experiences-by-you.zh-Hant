@@ -1,5 +1,5 @@
 ---
-title: 建立內部 [!DNL Adobe Analytics] 網站（Confluence或其他）
+title: 建立內部[!DNL Adobe Analytics]網站（Confluence或其他）
 description: 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓檔案。
 solution: Analytics
 feature-set: Analytics
@@ -13,11 +13,9 @@ kt: 10534
 exl-id: 2fc27a2c-15e0-432e-a435-d7e4793ce670
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
-
 ---
-
 # 建立內部[!DNL Adobe Analytics]網站（Confluence或其他）
 
 **內容：**&#x200B;如果您聽從[此秘訣](create-basic-videos-and-training.md){target="_blank"}的建議來建立訓練檔案，很明顯您不能把這些檔案放在硬碟上。 建立一個中心位置，讓所有使用者可以在其中分享和查閱這些檔案 — 一個內部[!DNL Adobe Analytics]網站（Confluence或其他），您可以在其中發佈這些檔案並維護不同的版本。
@@ -29,8 +27,8 @@ ht-degree: 0%
 * _簡介_：如何取得存取權、連絡人、如何登入、如何建立JIRA票證、從何處取得協助等。
 * _標籤檔案_：屬性檔案、標籤檔案、程式碼範本等。
 * _知識檔案_：您可以在這裡張貼命名慣例，也可以張貼與訓練影片具有相同用途的知識檔案。 例如：如何追蹤下載，如何追蹤抵用券等。
-* _訓練檔案_：基礎和進階訓練課程，5-10分鐘的短片。 您也可以提供[!DNL Adobe]資源的連結：Experience League、YouTube頻道等。
-* _管理檔案_：SAINT檔案、JS檔案、管理內容相關知識檔案（如資料摘要）等。
+* _訓練檔案_：基礎和進階訓練課程，5-10分鐘的短片。 您也可以提供指向[!DNL Adobe]資源的連結：Experience League、YouTube頻道等。
+* _管理檔案_： SAINT檔案、JS檔案、管理內容相關知識檔案（如資料摘要）等。
 
 我也建議您在建立新帳戶時，在「歡迎使用[!DNL Adobe Analytics]」電子郵件中分享此網站的連結（並反白顯示訓練區段）。
 
