@@ -32,7 +32,7 @@ ht-degree: 16%
 
 按照此逐步教學課程建置您的第一項參與度計劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452690/?captions=chi_hant&learn=on){transcript=true}
 
 ## 其他資源:
 
