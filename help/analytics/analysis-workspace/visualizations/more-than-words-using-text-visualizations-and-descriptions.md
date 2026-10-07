@@ -6,17 +6,30 @@ feature: Visualizations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13267
 thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 0%
-
 ---
-
 # 不只是字 — 在Analysis Workspace中使用文字視覺效果和說明
 
 身為[!DNL Adobe Analytics] Analysis Workspace使用者，您的焦點通常會放在您的資料和資料視覺效果上，這是很自然的事 — 任何人都可以輸入摘要，對嗎？ 然而，如果在Analysis Workspace中忽略文字視覺效果或視覺效果說明等功能，就代表您錯失了將深入解析與有價值的文字、影像、GIF和連結結合在一起的寶貴機會。 提供參考資料和更多內容，讓您的使用者瞭解您的資料含義，讓資料更有效且更有影響力。

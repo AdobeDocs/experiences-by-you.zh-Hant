@@ -6,17 +6,30 @@ feature: Curate and Share
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
 exl-id: 99729c18-9f0d-4bbb-be99-01ddd0d2dcb0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '695'
 ht-degree: 0%
-
 ---
-
 # 在Analysis Workspace中釋放唯讀共用的力量
 
 瞭解如何以「唯讀」狀態共用[!DNL Adobe]個Analysis Workspace專案，使用簡潔的使用者介面和預先定義的篩選選項來建立適用於高階主管的儀表板報告，以及「行動計分卡」如何簡化與行動高階主管共用數位體驗KPI的程式。
@@ -48,6 +61,6 @@ ht-degree: 0%
 
 ![劉鑾雄](assets/leo_headshot.png)
 
-**Leo Lau**，Director，MarTech亞洲負責人
+**Leo Lau**，MarTech亞洲主管
 
 [!DNL Adobe Analytics]冠軍

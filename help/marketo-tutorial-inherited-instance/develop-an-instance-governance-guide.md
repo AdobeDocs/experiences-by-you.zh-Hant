@@ -1,22 +1,40 @@
 ---
 title: 使用檔案開發執行個體治理指南
-description: 瞭解如何建立健全的程式，以建立及維護 [!DNL Marketo Engage] 執行個體的檔案和變更記錄檔。
+description: 瞭解如何建立健全的程式，以建立及維護您[!DNL Marketo Engage]執行個體的檔案和變更記錄檔。
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '937'
 ht-degree: 0%
-
 ---
-
 # 使用檔案開發執行個體治理指南
 
 當您進入舊版[!DNL Marketo Engage]執行個體時，經常會面臨缺乏最新功能與技術檔案的挑戰。 身為管理員，建立准則以確保適當的執行個體治理是您不可忽視的核心責任。 在您於已建立的 [!DNL Marketo Engage] 執行個體[&#128279;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)中工作時，提高效率是重要策略之一。
@@ -54,22 +72,22 @@ ht-degree: 0%
 格式因雲端型平台和共用檔案而異。 您可以設計符合組織需求的格式。 [這裡有簡單的檔案與變更記錄檔Excel範本](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)，涵蓋您可以開始使用的重要元素。 這些功能包括：
 
 * 文件
-   * 計畫範本名稱
-   * 頻道
-   * 建立日期
-   * 建立者
-   * 計畫的目的
-   * 狀態
-   * 方案範本的連結
-   * 備註
+  * 計畫範本名稱
+  * 頻道
+  * 建立日期
+  * 建立者
+  * 計畫的目的
+  * 狀態
+  * 方案範本的連結
+  * 備註
 * Changelog
-   * 計畫範本名稱
-   * 變更日期
-   * 更新者
-   * 更新的目的
-   * 變更前的體驗（包含連結/熒幕擷取畫面）
-   * 變更後的體驗（包含連結/熒幕擷取畫面）
-   * 方案的URL
+  * 計畫範本名稱
+  * 變更日期
+  * 更新者
+  * 更新的目的
+  * 變更前的體驗（包含連結/熒幕擷取畫面）
+  * 變更後的體驗（包含連結/熒幕擷取畫面）
+  * 方案的URL
 
 ### 步驟3：識別並記錄主要作業程式的目前狀態
 

@@ -1,6 +1,6 @@
 ---
-title: 從Google [!DNL Analytics]轉換成 [!DNL Adobe Analytics] 的全方位指南
-description: 瞭解同等功能的位置，以及從Google [!DNL Analytics] 轉換到 [!DNL Adobe Analytics]時如何有效使用該功能
+title: 從Google [!DNL Analytics]轉換成[!DNL Adobe Analytics]的全方位指南
+description: 瞭解同等功能的位置，以及從Google [!DNL Analytics]轉換到[!DNL Adobe Analytics]時如何有效使用該功能
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3354'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # 從Google [!DNL Analytics]轉換成[!DNL Adobe Analytics]的全方位指南{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. 簡介
@@ -94,19 +107,19 @@ GA4使用者有更多選項，可自訂首頁畫面並將自己的報表新增�
 * 流失
 * 流量
 * 圖表
-   * 區域圖（棧疊和非棧疊）
-   * 折線圖
-   * 散佈圖
-   * 橫條圖（棧疊和非棧疊）
-   * 項目符號
-   * 環形圖
-   * 直方圖
-   * 水準橫條圖（棧疊和非棧疊）
+  * 區域圖（棧疊和非棧疊）
+  * 折線圖
+  * 散佈圖
+  * 橫條圖（棧疊和非棧疊）
+  * 項目符號
+  * 環形圖
+  * 直方圖
+  * 水準橫條圖（棧疊和非棧疊）
 * 地圖
 * 摘要區塊
-   * 摘要變更
-   * 摘要文字
-   * 文字（可輸入額外資訊以提供內容的任意文字欄位）
+  * 摘要變更
+  * 摘要文字
+  * 文字（可輸入額外資訊以提供內容的任意文字欄位）
 * 文氏圖表
 
 每個面板和視覺效果都可以加上標題並套用說明，以提供上下文幫助使用者瞭解所顯示的資訊。

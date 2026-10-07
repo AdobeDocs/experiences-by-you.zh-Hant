@@ -1,6 +1,6 @@
 ---
 title: 使用資料訴說有影響力的故事
-description: 當藝術和科學使用資料、視覺效果和敘述融合在一起，即可用資料述說故事。  運用這些元件，製作有影響力的資料故事可分為三個部分。 透過有效地用資料述說故事， [!DNL Analytics] 可以變得更容易被更廣大的受眾接受，而且您可以透過資料導向式決策，提高您為組織帶來的價值。
+description: 當藝術和科學使用資料、視覺效果和敘述融合在一起，即可用資料述說故事。  運用這些元件，製作有影響力的資料故事可分為三個部分。 透過有效地用資料述說故事，[!DNL Analytics]可以變得更容易被更廣大的受眾接受，而您可以透過資料導向式決策，提高您為組織帶來的價值。
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # 使用資料訴說有影響力的故事
 
 當藝術和科學使用資料、視覺效果和敘述融合在一起，即可用資料述說故事。  運用這些元件，製作有影響力的資料故事可分為三個部分。 有效地用資料述說故事，能讓[!DNL Analytics]更容易被更廣大的受眾接受，您也可以透過資料導向式決策，提高您為組織帶來的價值。

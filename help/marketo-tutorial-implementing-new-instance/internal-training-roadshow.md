@@ -1,22 +1,29 @@
 ---
 title: 開發內部上線和訓練路演
-description: 瞭解如何建立健全的程式，以建立及維護 [!DNL Marketo Engage] 執行個體的檔案和變更記錄檔。 這不僅可節省團隊分享知識的時間，也可提升執行個體的健全度和效率。
+description: 瞭解如何建立健全的程式，以建立及維護您[!DNL Marketo Engage]執行個體的檔案和變更記錄檔。 這不僅可節省團隊分享知識的時間，也可提升執行個體的健全度和效率。
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # 開發內部上線和訓練路演
 
 當您讓新的[!DNL Marketo Engage]執行個體上線時，是時候讓相關團隊加速以利用[!DNL Marketo Engage]完成他們的工作。

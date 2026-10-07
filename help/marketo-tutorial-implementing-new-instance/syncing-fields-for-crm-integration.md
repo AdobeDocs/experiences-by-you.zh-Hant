@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04T00:00:00.000Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '2235'
 ht-degree: 0%
-
 ---
-
 # 原生CRM聯結器的同步欄位
 
 您在組織內使用Salesforce或Microsoft Dynamics嗎？ 若是如此，您可以使用Marketo Engage的原生CRM聯結器（即Salesforce、Microsoft Dynamics和Veeva），透過在Marketo Engage和CRM之間無縫共用相關資訊，協調行銷和銷售活動。 在設定初始CRM同步之前，請務必識別您要在這兩個系統之間同步的欄位，以保持您的Marketo Engage資料庫整潔。

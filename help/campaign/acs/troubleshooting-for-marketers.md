@@ -7,17 +7,28 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
-
 ---
-
 # 行銷人員疑難排解：5個常見的工作流程與傳送錯誤
 
 作者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}，Meijer資深顧問
@@ -28,8 +39,8 @@ ht-degree: 2%
 
 ## 資料型別不符錯誤
 
-**錯誤碼：
-
+**錯誤碼：**
+`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **原因：**
 當您嘗試使用不同資料型別的欄位進行調解時，這些型別的錯誤會出現在工作流程中。 例如，當您使用具有字串欄位的載入檔案上傳檔案，並嘗試協調字串欄位與資料型別為int的設定檔欄位時。
@@ -44,8 +55,8 @@ ht-degree: 2%
 
 ## 傳遞Personalization錯誤
 
-**錯誤碼：
-
+**錯誤碼：**
+`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **原因：**
 當您傳送電子郵件至某個地址，但該電子郵件或任何其他識別碼並未與設定檔進行調解時，會出現此錯誤。 若要傳送電子郵件通訊，電子郵件或識別碼應一律連結至設定檔。
@@ -87,8 +98,8 @@ ht-degree: 2%
 
 ## 欄位名稱捨棄錯誤
 
-**錯誤碼：
-
+**錯誤碼：**
+`XTK-170036 Unable to parse expression 'i__name'`
 
 **原因：**
 
@@ -110,8 +121,8 @@ ht-degree: 2%
 
 ## 暫存資料表捨棄錯誤 
 
-**錯誤碼：
-
+**錯誤碼：**
+`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
 這是涉及擴充或其他活動的複雜工作流程中的常見錯誤。 這可能表示在對工作流程進行多項變更期間，部分活動工作流程未正確儲存。

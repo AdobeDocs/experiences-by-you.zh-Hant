@@ -6,17 +6,30 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 瞭解[!DNL Adobe Analytics]歸因面板和回顧期間
 
 當我第一次思考[歸因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hant)和&#x200B;**回顧期間**&#x200B;時，我立刻想到&#39;*時間旅行&#39;*&#x200B;的概念；當然，也想到，我們對於許多新工具的典型回應，像這樣只是為了推遲嘗試使用，因為它們看起來太複雜。
@@ -76,9 +89,9 @@ ht-degree: 0%
 
 - **U形**：此方法會將&#x200B;**40%**&#x200B;的評分指派給門中的&#x200B;*第一人*，將&#x200B;**20%**&#x200B;的評分分配給&#x200B;*之間的*&#x200B;所有人，然後將&#x200B;**40%**&#x200B;分給&#x200B;**最後一個**。 此模型最常用於您有&#x200B;**長的轉換/銷售週期**&#x200B;且其中包含&#x200B;*多個接觸點*&#x200B;的情況。  在此案例中，您的目標主要是強調有助於客戶轉換的&#x200B;***first***&#x200B;和&#x200B;***last***&#x200B;行銷策略。
 - **J**-**形狀**&#x200B;和&#x200B;**反向J**：
-   - 想一想&#x200B;**U形**，但此模型會將&#x200B;**60%**&#x200B;點數指派給&#x200B;*最後一個走進大門的人*、將&#x200B;**20%**&#x200B;指派給&#x200B;*第一個*，然後&#x200B;*將其餘的&#x200B;**20%**&#x200B;除以*&#x200B;其他所有人&#x200B;*。***反向J**&#x200B;則完全相反。
+  - 想一想&#x200B;**U形**，但此模型會將&#x200B;**60%**&#x200B;點數指派給&#x200B;*最後一個走進大門的人*、將&#x200B;**20%**&#x200B;指派給&#x200B;*第一個*，然後&#x200B;*將其餘的&#x200B;**20%**&#x200B;除以*&#x200B;其他所有人&#x200B;*。***反向J**&#x200B;則完全相反。
 
-     目標是在行銷活動的&#x200B;*開頭*&#x200B;或&#x200B;*結尾*&#x200B;強調您大部分的重點；不過，您仍想要將一定數量的評分指派給相反端的貢獻專案，同時在此過程中認可「小傢伙」。
+    目標是在行銷活動的&#x200B;*開頭*&#x200B;或&#x200B;*結尾*&#x200B;強調您大部分的重點；不過，您仍想要將一定數量的評分指派給相反端的貢獻專案，同時在此過程中認可「小傢伙」。
 
 - **時間耗損**：現在，如果不共用此專案，我將會失職。 就字面上來說，此模型的半衰期會呈指數衰減，而且會隨著時間推移而衰減！  在此案例中，此模型半衰期的&#x200B;*預設*&#x200B;引數為&#x200B;**7天**。  其運作方式是根據&#x200B;*初始接觸點*&#x200B;之後以及客戶轉換的時間&#x200B;*量，將*&#x200B;權重&#x200B;*套用至每個&#x200B;**行銷管道**、*。
 

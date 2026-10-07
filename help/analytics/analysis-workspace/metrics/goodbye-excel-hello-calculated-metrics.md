@@ -1,27 +1,40 @@
 ---
 title: 再見Excel，你好，計算量度
-description: 瞭解在 [!DNL Adobe Analytics] 中使用計算量度的好處，以及這些量度如何提供您連續、動態的資料檢視，請參閱本文。
+description: 瞭解在[!DNL Adobe Analytics]中使用計算量度的好處，以及這些量度如何提供您連續、動態的資料檢視，請參閱本文。
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '1277'
 ht-degree: 0%
-
 ---
-
 # 再見Excel，你好，計算量度
 
 瞭解在[!DNL Adobe Analytics]中使用計算量度的好處，以及這些量度如何提供您連續、動態的資料檢視，請參閱本文。
 
-嗨！ 為什麼現在使用Excel？ 我知道為什麼。 您必須向正確的人員彙報。 您正忙著輸入[!DNL Adobe Analytics]的資料、計算轉換率、繪製圖表，並準備將所有資料放進即將送給決策者的PowerPoint中。 我真的希望您至少是使用Report Builder來執行此操作，但我知道您中的一些人是手動將資料從Workspace複製並貼上到Excel。
+您好！ 為什麼現在使用Excel？ 我知道為什麼。 您必須向正確的人員彙報。 您正忙著輸入[!DNL Adobe Analytics]的資料、計算轉換率、繪製圖表，並準備將所有資料放進即將送給決策者的PowerPoint中。 我真的希望您至少是使用Report Builder來執行此操作，但我知道您中的一些人是手動將資料從Workspace複製並貼上到Excel。
 
 為什麼？
 
@@ -39,7 +52,7 @@ ht-degree: 0%
 
    我去過那裡。 複製/貼上。 輸入公式或將儲存格往下拖曳。 按一下圖表並變更範圍，您會看到過去十二或十三個月。 現在復製圖表。 現在請再試一次。 再來一遍。 再來一遍。 傳送PowerPoint。 這既繁瑣又耗時，而且您似乎必須每月都永遠這樣做。
 
-   您可以改為建立使用計算量度的Workspace，將「最近12個月」或「13個月」當作日期範圍，並在每個月第一天的午夜點選，自動更新資料和圖表。 收件者可以直接存取Workspace。 他們可以在當月的第一天或您使用文字視覺效果在資料上新增註解後，自動透過電子郵件將PDF復本傳送給他們（報告有趣的部分）。
+   您可以改為建立使用計算量度的Workspace，將「最近12個月」或「13個月」當作日期範圍，並在每個月第一天的午夜點選，自動更新資料和圖表。 收件者可以直接存取Workspace。 他們可以在當月的第一天或您使用文字視覺效果在資料上新增註解後，自動將PDF復本以電子郵件寄給他們（報告有趣的部分）。
 
 1. **計算量度可套用至大型資料集**
 
@@ -53,7 +66,7 @@ ht-degree: 0%
 
 **使用案例1：轉換率**
 
-大部分的轉換率只是簡單的除法。 轉換次數除以訪客或造訪次數。 漏斗最後一頁的頁面檢視次數除以漏斗第一頁的頁面檢視次數。 內部行銷活動點進次數除以曝光次數。 所有這些都可當作計算量度輕鬆完成，並放置在儀表板中，享受低資料延遲、更新視覺效果和更大的共用性。
+大部分的轉換率只是簡單的除法。 轉換次數除以訪客或造訪次數。 funnel最後一頁的頁面檢視次數除以funnel第一頁的頁面檢視次數。 內部行銷活動點進次數除以曝光次數。 所有這些都可當作計算量度輕鬆完成，並放置在儀表板中，享受低資料延遲、更新視覺效果和更大的共用性。
 
 **使用案例2：內部搜尋**
 
