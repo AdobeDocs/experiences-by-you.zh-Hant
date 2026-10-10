@@ -6,22 +6,20 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2055'
+source-wordcount: '2148'
 ht-degree: 2%
-
 ---
-
 # 建立人員評分模型
 
 人員評分可協助您識別與貴公司最密切互動、且是您理想客戶設定檔的人員，以便您可與銷售團隊共用這些銷售機會並完成交易！ 與銷售搭配使用，您可以使用Adobe Marketo Engage中的銷售機會/人員評分方案，決定您要將哪些銷售機會交給他們。 這可以由行為評分和/或人口統計評分的最低值決定。
 
-在本教學課程中，我們將逐步引導您瞭解Marketo EngageChampions Christina Zuniga和Katja Keesom建議的三項練習。 接著判斷哪些活動和特性是潛在客戶有興趣購買（行為評分）的重要指標，且最適合您（人口統計評分），並解決各市場的細微差別。
+在本教學課程中，我們將逐步引導您瞭解Marketo Engage Champions Christina Zuniga和Katja Keesom建議的三項練習。 接著判斷哪些活動和特性是潛在客戶有興趣購買（行為評分）的重要指標，且最適合您（人口統計評分），並解決各市場的細微差別。
 
 ## 為何要開發和使用人員評分模型？
 
@@ -85,22 +83,22 @@ ht-degree: 2%
 
 **步驟1** — 為您的理想潛在客戶建立特性清單。
 
-* 考慮列出其產業、公司、部門及角色等屬性。 請確定這些特性對應至您Marketo Engage執行個體中可用的人口統計欄位。
+* 考慮列出其產業、公司、部門及角色等屬性。 請確定這些特性對應至Marketo Engage執行個體中可用的人口統計欄位。
 * 與您的銷售團隊合作，決定哪些銷售機會對銷售查詢回應最多，以及銷售機會期間的主要聯絡人。
-   * 分析最近已結束的贏取商機，以瞭解您的最佳客戶具有哪些特性會很有幫助。 例如，
-      * 挖掘已關閉的喪失機會來尋找模式，可讓您尋找想要避免的人口統計資料。
-      * 識別推動您銷售工作的決策者和內部專家。 深入瞭解資料，將您的發現帶入與部分銷售團隊的研討會，以驗證或完善您的結論。
-   * 您也可以透過下列範例問題來面試銷售團隊：
-      * 他們通常與哪個部門互動？
-      * 產品示範相關人員的職稱是什麼？哪些人員需要簽署購買合約？
+  * 分析最近已結束的贏取商機，以瞭解您的最佳客戶具有哪些特性會很有幫助。 例如，
+    * 挖掘已關閉的喪失機會來尋找模式，可讓您尋找想要避免的人口統計資料。
+    * 識別推動您銷售工作的決策者和內部專家。 深入瞭解資料，將您的發現帶入與部分銷售團隊的研討會，以驗證或完善您的結論。
+  * 您也可以透過下列範例問題來面試銷售團隊：
+    * 他們通常與哪個部門互動？
+    * 產品示範相關人員的職稱是什麼？哪些人員需要簽署購買合約？
 
 **範例2a — 理想潛在客戶特性**
 
 | **類別** | **理想潛在客戶特性** |
 | --- | --- |
-| 產業 | 航空，製造 |
+| 行業 | 航空，製造 |
 | 公司規模 | 100 - 999， 1,000 - 9,999 |
-| 職稱 | Director，副總裁，C-Level |
+| 職稱 | 董事、副總裁、C-Level |
 | 部門 | 小時 |
 
 **步驟2** — 根據每個特性在理想潛在客戶設定檔中的關聯性，為其指派分數。 對所需特徵使用正面分數，對特徵使用負面分數，以降低潛在客戶對產品的適合度。
@@ -119,9 +117,9 @@ ht-degree: 2%
 
 使用您已完成的基本行為和人口統計評分模型，您可以讓本機彈性更上一層樓。 當組織在全球營運時，業務價值可能會在不同市場有所差異。 在下列練習中，您將學習如何套用分數以反映潛在客戶活動的真實商業價值或不同情況下的特性。
 
-您偏好此練習的逐步說明影片嗎？ 請收看Marketo Engage冠軍Katja Keesom示範如何在評分模式中建立本機彈性。
+您偏好此練習的逐步說明影片嗎？ Tune in as Marketo Engage Champion Katja Keesom示範如何在評分模式中建立本機彈性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457450/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
 **步驟1** — 從練習1和練習2中取得活動與特性，並決定每個專案是否因地點或產品線而異。
 
@@ -130,7 +128,7 @@ ht-degree: 2%
 | **訊號** | **全域** | **本機** |
 | --- | --- | --- |
 | 活動 | <ul><li>填寫「要求示範」表單</li><li>過去90天無互動（約3個月）</li></ul> | <ul><li>到商展造訪我們</li><li>下載白皮書</li></ul> |
-| 特性 | <ul><li>部門</li><li>職稱</li></ul> | <ul><li>產業</li><li>公司規模</li></ul> |
+| 特性 | <ul><li>部門</li><li>職稱</li></ul> | <ul><li>行業</li><li>公司規模</li></ul> |
 
 **步驟2** — 為當地市場定義您的評分矩陣：
 
@@ -139,7 +137,7 @@ ht-degree: 2%
 * 定義主題內用於評分的值數量。
 * 透過對齊相對價值與全域分數來指派個別值。
 * 考慮定義潛在客戶與您的品牌互動的常見案例，並測試您的整體評分。
-   * 例如，您看到的常見潛在客戶歷程是讓某個人在內容頁面上進入您的網站，然後按一下進入產品頁面並下載手冊。 您會以網路研討會邀請函來鎖定他們，他們以註冊回應，但不出席。 考慮您的銷售人員是否已經想要與此人交談，並評估您的評分模式是否讓這些潛在客戶獲得正確的整體分數，以反映該興趣等級。
+  * 例如，您看到的常見潛在客戶歷程是讓某個人在內容頁面上進入您的網站，然後按一下進入產品頁面並下載手冊。 您會以網路研討會邀請函來鎖定他們，他們以註冊回應，但不出席。 考慮您的銷售人員是否已經想要與此人交談，並評估您的評分模式是否讓這些潛在客戶獲得正確的整體分數，以反映該興趣等級。
 
 **範例3b — 人口統計評分矩陣：**
 
@@ -149,7 +147,7 @@ ht-degree: 2%
 | Medium值 | 10點 | 7點 | 3點 |
 | 低數值 | 5點 | 3點 | 1點 |
 
-**步驟3** — 收集您當地或地區銷售團隊的輸入以開發整體檢視。 您會發現範例3c不包含任何個別分數。 這可以讓銷售團隊在稽核過程中專注於不同主題的相對價值。 不過，您應該將完整模型記錄為其他Marketo Engage管理員的背景資料。
+**步驟3** — 收集您當地或地區銷售團隊的輸入以開發整體檢視。 您會發現範例3c不包含任何個別分數。 這可以讓銷售團隊在稽核過程中專注於不同主題的相對價值。 不過，您應該將您的完整模型記錄為其他Marketo Engage管理員的背景資料。
 
 * 鎖定無法針對全域一致性調整的專案（這裡位於「實作主題」欄）。
 * 標籤（此處為「優先順序」和「分數」欄）可針對本機影響調整的專案。
@@ -170,7 +168,7 @@ ht-degree: 2%
     <td rowspan="6">1</td>
     <td rowspan="6"><b>必填</b></td>
     <td rowspan="6">人口統計</td>
-    <td rowspan="6">產業</td>
+    <td rowspan="6">行業</td>
     <td rowspan="6"><b>2</b></td>
     <td>技術</td>
     <td><b>高</b></td>
@@ -233,19 +231,19 @@ ht-degree: 2%
 
 ## 接下來呢？
 
-* 下載[個人評分練習表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}以離線開發您的評分模型。
-* 在Marketo Engage中建立您的個人分數。 檢查此[教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank}和[示範](https://experienceleague.adobe.com/zh-hant/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}以開始。 您可以從Marketo Engage參考資料庫匯入銷售機會/人員評分方案[範本](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}，以加速方案建置。
+* 下載[個人評分練習表](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target=&quot;_blank}以離線開發您的評分模型。
+* 在Marketo Engage中建立您的個人評分。 檢查此[教學課程](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target=&quot;_blank}和[示範](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target=&quot;_blank}以開始。 您可以從Marketo Engage參考資料庫匯入銷售機會/個人評分方案[範本](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target=&quot;_blank}，以加速方案建置。
 * 建立兩個版本的評分方案：
-   * 執行無法在本機更新的所有評分的中央程式。
-   * 具有可設定評分元素的本機副本。
+  * 執行無法在本機更新的所有評分的中央程式。
+  * 具有可設定評分元素的本機副本。
 * 將您的評分值設定為您的評分方案中的代號。 這可確保一致性，即使您隨著時間調整分數。
-   * 標籤化的分數的常見範例是，高價值活動的標籤會自動符合您的臨界值，例如要求示範或預約與銷售團隊的會議。 即使您變更達到臨界值所需的最低分數，只要更新一個Token即可輕鬆一次更新所有高值活動。
+  * 標籤化的分數的常見範例是，高價值活動的標籤會自動符合您的臨界值，例如要求示範或預約與銷售團隊的會議。 即使您變更達到臨界值所需的最低分數，只要更新一個Token即可輕鬆一次更新所有高值活動。
 * 針對每個位置調整您的本機Smart Campaign：
-   * 決定哪些人口統計和行為活動應該只分數一次（即產業），以及哪些在潛在客戶每次符合資格時應該分數（即參加網路研討會）。 這可確保資料值變更所觸發的潛在聯絡人與銷售相關。
-   * 請確定您的選擇互斥。
-   * 在兩個流程步驟中進行更新，以便以與「人口統計分數」相同的方式更新人員分數。 如此一來，個人分數將與行為分數和人口統計分數的組合保持一致。
-* 完成方案建立後，請測試Smart Campaign。 例如，請移至您的示範表單，填寫測試電子郵件，並在[Marketo Engage資料庫](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}中檢查測試人員的分數。
-* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解如何使用此[教學課程](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}設定警示。
+  * 決定哪些人口統計和行為活動應該只分數一次（即產業），以及哪些在潛在客戶每次符合資格時應該分數（即參加網路研討會）。 這可確保資料值變更所觸發的潛在聯絡人與銷售相關。
+  * 請確定您的選擇互斥。
+  * 在兩個流程步驟中進行更新，以便以與「人口統計分數」相同的方式更新人員分數。 如此一來，個人分數將與行為分數和人口統計分數的組合保持一致。
+* 完成方案建立後，請測試Smart Campaign。 例如，前往您的示範表單，填寫測試電子郵件，並在[Marketo Engage資料庫](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target=&quot;_blank}中檢查測試人員的分數。
+* 建立模型後，請考慮設定警報，當人員分數達到您的銷售移交臨界值時，即通知您。 進一步瞭解如何使用此[教學課程](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target=&quot;_blank}設定警報。
 
 ### 作者
 
