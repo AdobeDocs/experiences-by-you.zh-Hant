@@ -119,7 +119,7 @@ ht-degree: 2%
 
 您偏好此練習的逐步說明影片嗎？ Tune in as Marketo Engage Champion Katja Keesom示範如何在評分模式中建立本機彈性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457450/?captions=chi_hant&learn=on)
 
 **步驟1** — 從練習1和練習2中取得活動與特性，並決定每個專案是否因地點或產品線而異。
 
