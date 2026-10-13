@@ -5,22 +5,20 @@ source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
-
 ---
-
 # 程式碼片段
 
 ## 趙藹明 {#amy-chiu}
 
 ![趙子楣](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**Amy Chiu**，採用與保留行銷經理，Adobe
+**Adobe採用與保留行銷經理Amy Chiu**
 
 ## 劉直美 {#naomi-liu}
 
 ![劉乃美](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**Naomi Liu**，Director，全球行銷營運公司，影像處理電子產品(EFI)
+**Naomi Liu**，影像電子產品(EFI)全球行銷營運總監
 
 ## Natalie Kremer {#natalie-kremer}
 
@@ -54,7 +52,7 @@ Adobe Marketo Engage達人(2015)
 
 ![Peter Livadas](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width="150"}
 
-**Peter Livadas**，AdobeMarketo Engage資深技術顧問
+**Adobe的Marketo Engage資深技術顧問Peter Livadas**
 
 ## Sara Barriuso {#sara-barriuso}
 
