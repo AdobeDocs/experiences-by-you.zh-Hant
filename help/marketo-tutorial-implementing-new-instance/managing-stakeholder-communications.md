@@ -37,10 +37,10 @@ ht-degree: 0%
 | **問題** | **範例** | **實用資源** |
 | --- | --- | --- |
 | 您應該關注哪些利害關係人？ | <ul><li>銷售主管</li><li>CMO</li><li>CEO</li> |  |
-| 您的主要（行銷/銷售/業務）目標為何？ | <ol><li>增加與客戶和潛在客戶的互動</li><li>擴大營運規模。</li> | <ul><li>[瞭解如何開發行銷目標和策略](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=&quot;_blank}</li><ul> |
-| Marketo Engage如何協助您達成這些目標？ | <ol><li>我們可以利用代號、動態內容等建立個人化方案</li><li> 我們可以提供培養計畫，讓我們與潛在客戶及客戶保持長期互動</li><li>我們可以自動化行銷計畫，每個計畫只需較少的工時即可接觸到更多人。</li></ol> | <ul><li>[為什麼自動化對任何行銷策略至關重要](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=&quot;_blank}</li><li>[建置行銷自動化藍圖的秘訣](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=&quot;_blank}</li></ul> |
-| 您在上線與實施期間預見哪些潛在障礙/障礙，行銷營運團隊/股東應有所注意？ | <ol><li>CRM中有許多自訂物件</li><li>沒有明確定義的銷售機會/人員評分策略</li><li>已變更的資料</li><li>不切實際的時間表和/或管理層的期望</li><li>競爭專案佔用資源</li></ul> | <ul><li>[Marketo Engage新實作秘訣](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=&quot;_blank}</li><li>[新使用者第一次實作和管理Marketo的秘訣](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=&quot;_blank}</li><li>[同儕對於加入Adobe Marketo Engage的10大秘訣](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=&quot;_blank}</li></ul> |
-| 您需要哪些資源/支援，以及組織內哪一部門？ | <ol><li>與CRM管理員合作</li><li>定期與銷售主管溝通，以決定銷售機會/人員評分策略</li><li>提供支援，並與您的經理/高階主管定期開會</li><li>高階主管提供的優先順序和策略指南</li><li>IT、SOP （標準作業程式）、財務等的支援</li></ul> | <ul><li>[Marketo成功的通用金鑰：治理與持續訓練](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=&quot;_blank}</li></ul> |
+| 您的主要（行銷/銷售/業務）目標為何？ | <ol><li>增加與客戶和潛在客戶的互動</li><li>擴大營運規模。</li> | <ul><li>[瞭解如何開發行銷目標和策略](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=_blank}</li><ul> |
+| Marketo Engage如何協助您達成這些目標？ | <ol><li>我們可以利用代號、動態內容等建立個人化方案</li><li> 我們可以提供培養計畫，讓我們與潛在客戶及客戶保持長期互動</li><li>我們可以自動化行銷計畫，每個計畫只需較少的工時即可接觸到更多人。</li></ol> | <ul><li>[為什麼自動化對任何行銷策略至關重要](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=_blank}</li><li>[建置行銷自動化藍圖的秘訣](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=_blank}</li></ul> |
+| 您在上線與實施期間預見哪些潛在障礙/障礙，行銷營運團隊/股東應有所注意？ | <ol><li>CRM中有許多自訂物件</li><li>沒有明確定義的銷售機會/人員評分策略</li><li>已變更的資料</li><li>不切實際的時間表和/或管理層的期望</li><li>競爭專案佔用資源</li></ul> | <ul><li>[Marketo Engage新實作秘訣](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=_blank}</li><li>[新使用者第一次實作和管理Marketo的秘訣](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=_blank}</li><li>[同儕對於加入Adobe Marketo Engage的10大秘訣](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=_blank}</li></ul> |
+| 您需要哪些資源/支援，以及組織內哪一部門？ | <ol><li>與CRM管理員合作</li><li>定期與銷售主管溝通，以決定銷售機會/人員評分策略</li><li>提供支援，並與您的經理/高階主管定期開會</li><li>高階主管提供的優先順序和策略指南</li><li>IT、SOP （標準作業程式）、財務等的支援</li></ul> | <ul><li>[Marketo成功的通用金鑰：治理與持續訓練](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=_blank}</li></ul> |
 
 ### 動作2 — 向股東提供目標式通訊
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 以下是最近成功的重點：
 
-1. 目標電子郵件行銷活動成功：我們最近的電子郵件行銷活動<i>[正在推廣新產品上市]</i> （已與Marketo Engage一同部署），以50%的開啟率和10%的轉換率]</i>，取得出色的效能<i>[。 此行銷活動不僅有效地吸引對象，還對我們的整體潛在客戶產生目標做出重大貢獻。
+1. 目標電子郵件行銷活動成功：我們最近的電子郵件行銷活動<i>[正在推廣新產品上市]</i> （已與Marketo Engage一同部署），以50%的開啟率和10%的轉換率&rbrack;</i>，取得出色的效能<i>&lbrack;。 此行銷活動不僅有效地吸引對象，還對我們的整體潛在客戶產生目標做出重大貢獻。
 
 2. 自動化工作流程效率：藉由運用Marketo Engage的自動化功能，我們精簡了銷售機會培養工作流程，減少<i>[3天的回應時間，並提高10%的銷售機會轉換率]</i>。 如此的效率提升對我們的利潤和客戶滿意度產生了實實在在的影響。
 
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 ## 接下來呢？
 
-下載並使用[入門內部通訊指南和範本](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=&quot;_blank}，為利害關係人製作定期更新及報告進度。 包括關鍵量度、成就和即將到來的里程碑，讓他們瞭解最新資訊並參與其中。
+下載並使用[入門內部通訊指南和範本](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=_blank}，為利害關係人製作定期更新及報告進度。 包括關鍵量度、成就和即將到來的里程碑，讓他們瞭解最新資訊並參與其中。
 
 ### 作者
 
