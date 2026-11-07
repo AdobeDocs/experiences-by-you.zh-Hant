@@ -42,7 +42,7 @@ ht-degree: 2%
 
 歡迎參考技術負責人Rakesh Pasupuleti提供的這些秘訣。 Rakesh是[!DNL Adobe] Experience Manager達人，他說明如何導覽及瞭解[!DNL Cloud Manager]的UI。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419298?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506904?captions=chi_hant&quality=12&learn=on)
 
 ## 其他資源 {#additional-resources}
 

@@ -48,7 +48,7 @@ ht-degree: 1%
 
 歡迎參考技術負責人Rakesh Pasupuleti提供的這些秘訣。 Rakesh是[!DNL Adobe] Experience Manager冠軍，他分享了關於如何使用入門教戰手冊的想法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506886?captions=chi_hant&quality=12&learn=on)
 
 ## 其他資源 {#additional-resources}
 
