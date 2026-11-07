@@ -58,7 +58,7 @@ ht-degree: 24%
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="Cloud Manager入門行動手冊" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Cloud Manager入門行動手冊" src="https://video.tv.adobe.com/v/3506886?captions=chi_hant&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">

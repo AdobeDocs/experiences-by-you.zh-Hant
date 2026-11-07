@@ -34,7 +34,7 @@ ht-degree: 13%
 
 歡迎參考技術負責人Rakesh Pasupuleti提供的這些秘訣。 Rakesh是[!DNL Adobe] Experience Manager冠軍，他說明如何瞭解[!DNL Cloud Manager]的環境型別。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506989?captions=chi_hant&quality=12&learn=on)
 
 ## 其他資源 {#additional-resources}
 
